@@ -2154,6 +2154,7 @@
       </trans-unit>
       <trans-unit id="Replay q. audio in answer" xml:space="preserve">
         <source>Replay q. audio in answer</source>
+        <target>Fr.-Audio in der Antwort erneut abspielen</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Reschedule" xml:space="preserve">
@@ -2588,6 +2589,7 @@
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
         <source>The default deck cannot be deleted.</source>
+        <target>Der Standardstapel kann nicht gelöscht werden.</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
@@ -2597,10 +2599,12 @@
       </trans-unit>
       <trans-unit id="The first field can not be blank." xml:space="preserve">
         <source>The first field can not be blank.</source>
+        <target>Das erste Feld kann nicht leer sein.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="The first field must not be empty." xml:space="preserve">
         <source>The first field must not be empty.</source>
+        <target>Das erste Feld darf nicht leer sein.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="The number of questions you have answered." xml:space="preserve">
@@ -2636,6 +2640,7 @@
       </trans-unit>
       <trans-unit id="The selected options did not match any cards." xml:space="preserve">
         <source>The selected options did not match any cards.</source>
+        <target>Die ausgewählten Optionen stimmen mit keiner Karte überein.</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="The time taken to answer the questions." xml:space="preserve">
@@ -2649,6 +2654,7 @@
       </trans-unit>
       <trans-unit id="Thick" xml:space="preserve">
         <source>Thick</source>
+        <target>Dick</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Today" xml:space="preserve">
@@ -2663,6 +2669,7 @@
       </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
         <source>Tools</source>
+        <target>Werkzeuge</target>
         <note>Actions, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Tools Overlay" xml:space="preserve">
@@ -2684,6 +2691,7 @@
       </trans-unit>
       <trans-unit id="Top Center" xml:space="preserve">
         <source>Top Center</source>
+        <target>Oben mittig</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Top Left" xml:space="preserve">
