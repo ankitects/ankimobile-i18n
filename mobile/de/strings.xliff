@@ -30,7 +30,7 @@
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
         <source>Packaged Anki Collection</source>
-        <target>Komprimierte Sammlung von ganz Anki</target>
+        <target>Komprimierte Sammlung vom gesamten Anki</target>
         <note/>
       </trans-unit>
       <trans-unit id="Packaged Anki Deck" xml:space="preserve">
@@ -155,6 +155,7 @@
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
+        <target>Über</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
@@ -174,6 +175,7 @@
       </trans-unit>
       <trans-unit id="Add Empty Deck" xml:space="preserve">
         <source>Add Empty Deck</source>
+        <target>Leeren Stapel hinzufügen</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Add Media" xml:space="preserve">
@@ -191,6 +193,7 @@
       </trans-unit>
       <trans-unit id="Add Profile" xml:space="preserve">
         <source>Add Profile</source>
+        <target>Profil erstellen</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Add Reverse" xml:space="preserve">
@@ -209,6 +212,7 @@
       </trans-unit>
       <trans-unit id="Added note." xml:space="preserve">
         <source>Added note.</source>
+        <target>Notiz hinzugefügt.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="Added to frequent actions." xml:space="preserve">
@@ -276,6 +280,7 @@
       </trans-unit>
       <trans-unit id="Answer Count" xml:space="preserve">
         <source>Answer Count</source>
+        <target>Antwortzähler</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Answer Easy" xml:space="preserve">
@@ -334,6 +339,7 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
+        <target>Sind Sie sich sicher?</target>
         <note>Decks Screen, Profiles Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Audio Buttons" xml:space="preserve">
@@ -371,6 +377,7 @@
       </trans-unit>
       <trans-unit id="Available backups" xml:space="preserve">
         <source>Available backups</source>
+        <target>Verfügbare Sicherungskopien</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
@@ -410,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Backup failed: %@" xml:space="preserve">
         <source>Backup failed: %@</source>
+        <target>Sicherung ist fehlgeschlagen: %@</target>
         <note>App Delegate</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
@@ -443,6 +451,7 @@
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
+        <target>Schwarz</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Bold" xml:space="preserve">
@@ -463,14 +472,17 @@
       </trans-unit>
       <trans-unit id="Bottom Center" xml:space="preserve">
         <source>Bottom Center</source>
+        <target>Unten mittig</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
         <source>Bottom Left</source>
+        <target>Unten links</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Right" xml:space="preserve">
         <source>Bottom Right</source>
+        <target>Unten rechts</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Browse" xml:space="preserve">
@@ -485,6 +497,7 @@
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
+        <target>Begraben+Ausgesetzt</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
@@ -559,14 +572,17 @@
       </trans-unit>
       <trans-unit id="Card Count" xml:space="preserve">
         <source>Card Count</source>
+        <target>Kartenzähler</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Card Info" xml:space="preserve">
         <source>Card Info</source>
+        <target>Karteninformation</target>
         <note>Actions, Card Stats Screen, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card Template" xml:space="preserve">
         <source>Card Template</source>
+        <target>Kartenvorlage</target>
         <note>Actions, Card Template</note>
       </trans-unit>
       <trans-unit id="Card Type" xml:space="preserve">
@@ -581,26 +597,32 @@
       </trans-unit>
       <trans-unit id="Card Updated" xml:space="preserve">
         <source>Card Updated</source>
+        <target>Karte aktualisiert</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Card buried" xml:space="preserve">
         <source>Card buried</source>
+        <target>Karte zurückgestellt</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Card limit" xml:space="preserve">
         <source>Card limit</source>
+        <target>Kartengrenzwert</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Card returned to new card queue." xml:space="preserve">
         <source>Card returned to new card queue.</source>
+        <target>Karte zu den neuen Karten zurück verschoben.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card suspended" xml:space="preserve">
         <source>Card suspended</source>
+        <target>Karte ausgesetzt</target>
         <note>Actions Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card unsuspended" xml:space="preserve">
         <source>Card unsuspended</source>
+        <target>Karte eingesetzt</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card was a leech." xml:space="preserve">
@@ -631,10 +653,12 @@
       </trans-unit>
       <trans-unit id="Check Database" xml:space="preserve">
         <source>Check Database</source>
+        <target>Datenbank überprüfen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Check Media" xml:space="preserve">
         <source>Check Media</source>
+        <target>Medien überprüfen</target>
         <note>Check Media Screen, Preferences</note>
       </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
@@ -649,6 +673,7 @@
       </trans-unit>
       <trans-unit id="Clear Flag" xml:space="preserve">
         <source>Clear Flag</source>
+        <target>Markierung aufheben</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Cloze" xml:space="preserve">
@@ -658,26 +683,32 @@
       </trans-unit>
       <trans-unit id="Collection" xml:space="preserve">
         <source>Collection</source>
+        <target>Sammlung</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
+        <target>Sammlung in iTunes gespeichert.</target>
         <note>App Delegate</note>
       </trans-unit>
       <trans-unit id="Column 1" xml:space="preserve">
         <source>Column 1</source>
+        <target>Spalte 1</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Column 2" xml:space="preserve">
         <source>Column 2</source>
+        <target>Spalte 2</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Confirm Delete" xml:space="preserve">
         <source>Confirm Delete</source>
+        <target>Löschen bestätigen</target>
         <note>Actions Manager, Decks Screen, Profiles Screen, Search Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Confirm Reset" xml:space="preserve">
         <source>Confirm Reset</source>
+        <target>Reset bestätigen</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
@@ -692,6 +723,7 @@
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
+        <target>Richtig</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
@@ -709,14 +741,17 @@
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
         <source>Create</source>
+        <target>Erstellen</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Create Now" xml:space="preserve">
         <source>Create Now</source>
+        <target>Jetzt erstellen</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Creating Backup..." xml:space="preserve">
         <source>Creating Backup...</source>
+        <target>Sicherungskopie wird erstellt...</target>
         <note>App Delegate</note>
       </trans-unit>
       <trans-unit id="Cumulative" xml:space="preserve">
@@ -753,6 +788,7 @@
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
         <source>Custom</source>
+        <target>Benutzerdefiniert</target>
         <note>Short version of 'Custom Study'; Actions</note>
       </trans-unit>
       <trans-unit id="Custom Steps" xml:space="preserve">
