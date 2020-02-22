@@ -2184,6 +2184,7 @@
       </trans-unit>
       <trans-unit id="Reset.C" xml:space="preserve">
         <source>Reset.C</source>
+        <target>C. resetten</target>
         <note>Short version of 'Reset Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
@@ -2193,6 +2194,7 @@
       </trans-unit>
       <trans-unit id="Revert" xml:space="preserve">
         <source>Revert</source>
+        <target>Zurücknehmen</target>
         <note>Card Template Editor</note>
       </trans-unit>
       <trans-unit id="Revert to Backup" xml:space="preserve">
@@ -2503,26 +2505,32 @@
       </trans-unit>
       <trans-unit id="Swipe Down" xml:space="preserve">
         <source>Swipe Down</source>
+        <target>Nach unten wischen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipe Left" xml:space="preserve">
         <source>Swipe Left</source>
+        <target>Nach links wischen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipe Right" xml:space="preserve">
         <source>Swipe Right</source>
+        <target>Nach rechts wischen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipe Up" xml:space="preserve">
         <source>Swipe Up</source>
+        <target>Nach oben wischen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipes" xml:space="preserve">
         <source>Swipes</source>
+        <target>Wischgesten</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipes must begin from the far left or right of the screen." xml:space="preserve">
         <source>Swipes must begin from the far left or right of the screen.</source>
+        <target>Wischgesten müssen von weit links oder rechts auf dem Bildschirm beginnen.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Sync" xml:space="preserve">
@@ -2532,26 +2540,32 @@
       </trans-unit>
       <trans-unit id="Sync Conflict" xml:space="preserve">
         <source>Sync Conflict</source>
+        <target>Sync.-Konflikt</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Sync Failed" xml:space="preserve">
         <source>Sync Failed</source>
+        <target>Sync. fehlgeschlagen</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
+        <target>Audio &amp; Bilder sync.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Synchronize" xml:space="preserve">
         <source>Synchronize</source>
+        <target>Synchronisieren</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Syncing" xml:space="preserve">
         <source>Syncing</source>
+        <target>Synchronisierung</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Syncing changes..." xml:space="preserve">
         <source>Syncing changes...</source>
+        <target>Änderungen werden synchronisiert...</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Tag Only" xml:space="preserve">
@@ -2575,6 +2589,7 @@
       </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
         <source>Taps</source>
+        <target>Tippen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Template" xml:space="preserve">
@@ -2650,6 +2665,7 @@
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
+        <target>Theme</target>
         <note>Preferences, Theme Options</note>
       </trans-unit>
       <trans-unit id="Thick" xml:space="preserve">
