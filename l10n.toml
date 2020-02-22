@@ -1,0 +1,8 @@
+basepath = "mobile"
+
+locales = ["ja"]
+
+[[paths]]
+  reference = "templates/strings.xliff"
+  l10n = "{locale}/strings.xliff"
+

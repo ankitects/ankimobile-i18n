@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target state="translated">Поиск</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="% Correct" xml:space="preserve">
+        <source>% Correct</source>
+        <target state="translated">% правильных</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="(end)" xml:space="preserve">
+        <source>(end)</source>
+        <target state="translated">(конец)</target>
+        <note>Scheduler, Scheduler V2</note>
+      </trans-unit>
+      <trans-unit id="1 Month" xml:space="preserve">
+        <source>1 Month</source>
+        <target state="translated">1 месяц</target>
+        <note>Deck Stats Screen</note>
+      </trans-unit>
+      <trans-unit id="1 Year" xml:space="preserve">
+        <source>1 Year</source>
+        <target state="translated">1 Год</target>
+        <note>Deck Stats Screen</note>
+      </trans-unit>
+      <trans-unit id="3AM" xml:space="preserve">
+        <source>3AM</source>
+        <target state="translated">03:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="4PM" xml:space="preserve">
+        <source>4PM</source>
+        <target state="translated">16:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="10AM" xml:space="preserve">
+        <source>10AM</source>
+        <target state="translated">10:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="10PM" xml:space="preserve">
+        <source>10PM</source>
+        <target state="translated">22:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <target state="translated">Добавить</target>
+        <note>Actions, Edit Screen, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Add Media" xml:space="preserve">
+        <source>Add Media</source>
+        <target state="translated">Добавить медиафайл</target>
+        <note>Edit Screen</note>
+      </trans-unit>
+      <trans-unit id="Add Reverse" xml:space="preserve">
+        <source>Add Reverse</source>
+        <target state="translated">Добавить обратную</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Added Today" xml:space="preserve">
+        <source>Added Today</source>
+        <target state="translated">Добавленные сегодня</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Again" xml:space="preserve">
+        <source>Again</source>
+        <target state="translated">Снова</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Again Today" xml:space="preserve">
+        <source>Again Today</source>
+        <target state="translated">Возвратов сегодня</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Answer Buttons" xml:space="preserve">
+        <source>Answer Buttons</source>
+        <target state="translated">Кнопки ответа</target>
+        <note>Collection Stats, Preferences</note>
+      </trans-unit>
+      <trans-unit id="Answers" xml:space="preserve">
+        <source>Answers</source>
+        <target state="translated">Ответы</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Any Flag" xml:space="preserve">
+        <source>Any Flag</source>
+        <target state="translated">Любой флаг</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Are you sure?" xml:space="preserve">
+        <source>Are you sure?</source>
+        <target state="translated">Вы уверены?</target>
+        <note>Decks Screen, Profiles Screen, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Automatically play audio" xml:space="preserve">
+        <source>Automatically play audio</source>
+        <target state="translated">Автоматически воспроизводить аудио</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Average" xml:space="preserve">
+        <source>Average</source>
+        <target state="translated">В среднем</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Average Time" xml:space="preserve">
+        <source>Average Time</source>
+        <target state="translated">Среднее время</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="Average answer time" xml:space="preserve">
+        <source>Average answer time</source>
+        <target state="translated">Среднее время ответа</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Average ease" xml:space="preserve">
+        <source>Average ease</source>
+        <target state="translated">Средняя лёгкость</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Average for days studied" xml:space="preserve">
+        <source>Average for days studied</source>
+        <target state="translated">В среднем в день учёбы</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Average interval" xml:space="preserve">
+        <source>Average interval</source>
+        <target state="translated">Средний интервал</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Back" xml:space="preserve">
+        <source>Back</source>
+        <target state="translated">Обратная сторона</target>
+        <note>Card Template, Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Backups" xml:space="preserve">
+        <source>Backups</source>
+        <target state="translated">Резервные копии</target>
+        <note>Backup Manager, Preferences</note>
+      </trans-unit>
+      <trans-unit id="Basic" xml:space="preserve">
+        <source>Basic</source>
+        <target state="translated">Основная</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Basic (and reversed card)" xml:space="preserve">
+        <source>Basic (and reversed card)</source>
+        <target state="translated">Основная (с обратной карточкой)</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Basic (optional reversed card)" xml:space="preserve">
+        <source>Basic (optional reversed card)</source>
+        <target state="translated">Основная (обратная по выбору)</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Basic (type in the answer)" xml:space="preserve">
+        <source>Basic (type in the answer)</source>
+        <target state="translated">Основная (с вводом ответа)</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Browse" xml:space="preserve">
+        <source>Browse</source>
+        <target state="translated">Обзор</target>
+        <note>Actions, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Build" xml:space="preserve">
+        <source>Build</source>
+        <target state="translated">Сборка</target>
+        <note>Filtered Deck Screen</note>
+      </trans-unit>
+      <trans-unit id="Bury Card" xml:space="preserve">
+        <source>Bury Card</source>
+        <target state="translated">Отложить карточку</target>
+        <note>Actions, Auto Advance Options, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Bury Note" xml:space="preserve">
+        <source>Bury Note</source>
+        <target state="translated">Отложить запись</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="translated">Отменить</target>
+        <note>App Delegate, Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+      </trans-unit>
+      <trans-unit id="Card 1" xml:space="preserve">
+        <source>Card 1</source>
+        <target state="translated">Карточка 1</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Card 2" xml:space="preserve">
+        <source>Card 2</source>
+        <target state="translated">Карточка 2</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Card Type" xml:space="preserve">
+        <source>Card Type</source>
+        <target state="translated">Тип карточки</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="Card Types" xml:space="preserve">
+        <source>Card Types</source>
+        <target state="translated">Типы карточек</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Cards" xml:space="preserve">
+        <source>Cards</source>
+        <target state="translated">Карточки</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
+        <source>Cards can't be manually moved into a filtered deck.</source>
+        <target state="translated">Нельзя вручную переместить карточку в фильтрованную колоду.</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Change Deck" xml:space="preserve">
+        <source>Change Deck</source>
+        <target state="translated">Сменить колоду</target>
+        <note>Edit Screen, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Checking..." xml:space="preserve">
+        <source>Checking...</source>
+        <target state="translated">Проверяется...</target>
+        <note>Decks Screen, Preferences</note>
+      </trans-unit>
+      <trans-unit id="Choose" xml:space="preserve">
+        <source>Choose</source>
+        <target state="translated">Выбрать</target>
+        <note>Deck And Note Type Selector</note>
+      </trans-unit>
+      <trans-unit id="Cloze" xml:space="preserve">
+        <source>Cloze</source>
+        <target state="translated">Задание с пропусками</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
+        <source>Congratulations! You have finished this deck for now.</source>
+        <target state="translated">Ура! На сегодня всё.</target>
+        <note>Scheduler, Scheduler V2</note>
+      </trans-unit>
+      <trans-unit id="Connecting..." xml:space="preserve">
+        <source>Connecting...</source>
+        <target state="translated">Подключается...</target>
+        <note>Syncer</note>
+      </trans-unit>
+      <trans-unit id="Cram" xml:space="preserve">
+        <source>Cram</source>
+        <target state="translated">Зубрить</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Cumulative" xml:space="preserve">
+        <source>Cumulative</source>
+        <target state="translated">Совокупно</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Cumulative Answers" xml:space="preserve">
+        <source>Cumulative Answers</source>
+        <target state="translated">Совокупно ответов</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Cumulative Cards" xml:space="preserve">
+        <source>Cumulative Cards</source>
+        <target state="translated">Совокупно карточек</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Current Deck" xml:space="preserve">
+        <source>Current Deck</source>
+        <target state="translated">Текущая колода</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Custom Study" xml:space="preserve">
+        <source>Custom Study</source>
+        <target state="translated">Учить ещё</target>
+        <note>Actions, Custom Study Screen, Scheduler, Scheduler V2</note>
+      </trans-unit>
+      <trans-unit id="Custom Study Session" xml:space="preserve">
+        <source>Custom Study Session</source>
+        <target state="translated">Учить ещё</target>
+        <note>Custom Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Days studied" xml:space="preserve">
+        <source>Days studied</source>
+        <target state="translated">Дней учёбы</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Deck" xml:space="preserve">
+        <source>Deck</source>
+        <target state="translated">Колода</target>
+        <note>Card Stats, Deck Stats Screen, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Decks" xml:space="preserve">
+        <source>Decks</source>
+        <target state="translated">Колоды</target>
+        <note>Actions, Decks Screen, Study Screen, Tools Screen</note>
+      </trans-unit>
+      <trans-unit id="Decreasing intervals" xml:space="preserve">
+        <source>Decreasing intervals</source>
+        <target state="translated">От большего интервала к меньшему</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <target state="translated">По умолчанию</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Удалить</target>
+        <note>Decks Screen, Profiles Screen</note>
+      </trans-unit>
+      <trans-unit id="Delete Note" xml:space="preserve">
+        <source>Delete Note</source>
+        <target state="translated">Удалить запись</target>
+        <note>Actions, Edit Screen</note>
+      </trans-unit>
+      <trans-unit id="Delete Notes" xml:space="preserve">
+        <source>Delete Notes</source>
+        <target state="translated">Удалить записи</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Download from AnkiWeb" xml:space="preserve">
+        <source>Download from AnkiWeb</source>
+        <target state="translated">Загрузить с AnkiWeb</target>
+        <note>Sync Screen</note>
+      </trans-unit>
+      <trans-unit id="Due" xml:space="preserve">
+        <source>Due</source>
+        <target state="translated">К просмотру</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="Due tomorrow" xml:space="preserve">
+        <source>Due tomorrow</source>
+        <target state="translated">На завтра</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Ease" xml:space="preserve">
+        <source>Ease</source>
+        <target state="translated">Лёгкость</target>
+        <note>Card Stats, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Easy" xml:space="preserve">
+        <source>Easy</source>
+        <target state="translated">Легко</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Easy bonus" xml:space="preserve">
+        <source>Easy bonus</source>
+        <target state="translated">Множитель для «Легко»</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Easy interval" xml:space="preserve">
+        <source>Easy interval</source>
+        <target state="translated">Интервал для «Легко»</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target state="translated">Править</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Empty" xml:space="preserve">
+        <source>Empty</source>
+        <target state="translated">Очистить</target>
+        <note>Actions</note>
+      </trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <target state="translated">Экспортировать</target>
+        <note>Exporter</note>
+      </trans-unit>
+      <trans-unit id="Extra" xml:space="preserve">
+        <source>Extra</source>
+        <target state="translated">Дополнительно</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="Fields" xml:space="preserve">
+        <source>Fields</source>
+        <target state="translated">Поля</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Filter" xml:space="preserve">
+        <source>Filter</source>
+        <target state="translated">Фильтр</target>
+        <note>Filtered Deck Screen, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Finish" xml:space="preserve">
+        <source>Finish</source>
+        <target state="translated">Завершить</target>
+        <note>Audio Manager, Edit Screen</note>
+      </trans-unit>
+      <trans-unit id="First Review" xml:space="preserve">
+        <source>First Review</source>
+        <target state="translated">Просмотрена впервые</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="Flip" xml:space="preserve">
+        <source>Flip</source>
+        <target state="translated">Перевернуть</target>
+        <note>Preview</note>
+      </trans-unit>
+      <trans-unit id="Forecast" xml:space="preserve">
+        <source>Forecast</source>
+        <target state="translated">Прогноз</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Front" xml:space="preserve">
+        <source>Front</source>
+        <target state="translated">Лицевая сторона</target>
+        <note>Card Template, Standard Models</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target state="translated">Общие</target>
+        <note>Deck Options, Preferences</note>
+      </trans-unit>
+      <trans-unit id="Good" xml:space="preserve">
+        <source>Good</source>
+        <target state="translated">Хорошо</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Graduating interval" xml:space="preserve">
+        <source>Graduating interval</source>
+        <target state="translated">Интервал для «Хорошо»</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Hard" xml:space="preserve">
+        <source>Hard</source>
+        <target state="translated">Трудно</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Highest ease" xml:space="preserve">
+        <source>Highest ease</source>
+        <target state="translated">Наибольшая лёгкость</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Hourly Breakdown" xml:space="preserve">
+        <source>Hourly Breakdown</source>
+        <target state="translated">По часам</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Hours" xml:space="preserve">
+        <source>Hours</source>
+        <target state="translated">Часы</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Hours with less than 30 reviews are not shown." xml:space="preserve">
+        <source>Hours with less than 30 reviews are not shown.</source>
+        <target state="translated">Не показаны часы с менее чем 30 повторениями.</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="If you studied every day" xml:space="preserve">
+        <source>If you studied every day</source>
+        <target state="translated">Если бы вы учились каждый день</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <target state="translated">Импортировать</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Increase today's new card limit" xml:space="preserve">
+        <source>Increase today's new card limit</source>
+        <target state="translated">Добавить новых на сегодня</target>
+        <note>Custom Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Increase today's review card limit" xml:space="preserve">
+        <source>Increase today's review card limit</source>
+        <target state="translated">Добавить повторяемых на сегодня</target>
+        <note>Custom Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Increasing intervals" xml:space="preserve">
+        <source>Increasing intervals</source>
+        <target state="translated">По возрастанию интервалов</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Interval" xml:space="preserve">
+        <source>Interval</source>
+        <target state="translated">Интервал</target>
+        <note>Card Stats, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Interval modifier" xml:space="preserve">
+        <source>Interval modifier</source>
+        <target state="translated">Модификатор интервала</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Intervals" xml:space="preserve">
+        <source>Intervals</source>
+        <target state="translated">Интервалы</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Lapses" xml:space="preserve">
+        <source>Lapses</source>
+        <target state="translated">Забытые</target>
+        <note>Card Stats, Deck Options, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Latest Review" xml:space="preserve">
+        <source>Latest Review</source>
+        <target state="translated">Последнее повторение</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="Latest added first" xml:space="preserve">
+        <source>Latest added first</source>
+        <target state="translated">Сначала последняя добавленная</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Learn" xml:space="preserve">
+        <source>Learn</source>
+        <target state="translated">Изучаемые</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Learning" xml:space="preserve">
+        <source>Learning</source>
+        <target state="translated">Обучение</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Leech action" xml:space="preserve">
+        <source>Leech action</source>
+        <target state="translated">Что делать с приставучими</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Leech threshold" xml:space="preserve">
+        <source>Leech threshold</source>
+        <target state="translated">Пород для приставучих</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Left" xml:space="preserve">
+        <source>Left</source>
+        <target state="translated">Осталось</target>
+        <note>Preferences</note>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <target state="translated">Грузится...</target>
+        <note>Custom Study Screen, Deck Stats Screen</note>
+      </trans-unit>
+      <trans-unit id="Longest interval" xml:space="preserve">
+        <source>Longest interval</source>
+        <target state="translated">Самый длинный интервал</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Lowest ease" xml:space="preserve">
+        <source>Lowest ease</source>
+        <target state="translated">Наименьшая лёгкость</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Mature" xml:space="preserve">
+        <source>Mature</source>
+        <target state="translated">Закреплённые</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Maximum interval" xml:space="preserve">
+        <source>Maximum interval</source>
+        <target state="translated">Максимальный интервал</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Minimum interval" xml:space="preserve">
+        <source>Minimum interval</source>
+        <target state="translated">Минимальный интервал</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Minutes" xml:space="preserve">
+        <source>Minutes</source>
+        <target state="translated">Минут</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Most lapses" xml:space="preserve">
+        <source>Most lapses</source>
+        <target state="translated">Наиболее забываемые</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="New Cards" xml:space="preserve">
+        <source>New Cards</source>
+        <target state="translated">Новые карточки</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="New interval" xml:space="preserve">
+        <source>New interval</source>
+        <target state="translated">Новый интервал</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="New name:" xml:space="preserve">
+        <source>New name:</source>
+        <target state="translated">Новое имя:</target>
+        <note>Decks Screen</note>
+      </trans-unit>
+      <trans-unit id="No Flag" xml:space="preserve">
+        <source>No Flag</source>
+        <target state="translated">Без флага</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="No mature cards were studied today." xml:space="preserve">
+        <source>No mature cards were studied today.</source>
+        <target state="translated">Ни одна закреплённая не была повторена сегодня</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Note Type" xml:space="preserve">
+        <source>Note Type</source>
+        <target state="translated">Тип записи</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="translated">ОК</target>
+        <note>App Delegate, Deck Options, Decks Screen, Sync Screen, Utils</note>
+      </trans-unit>
+      <trans-unit id="Oldest seen first" xml:space="preserve">
+        <source>Oldest seen first</source>
+        <target state="translated">Сначала просмотренные давно</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Options" xml:space="preserve">
+        <source>Options</source>
+        <target state="translated">Настройки</target>
+        <note>Custom Study Screen, Filtered Deck Screen, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Order" xml:space="preserve">
+        <source>Order</source>
+        <target state="translated">Порядок</target>
+        <note>Deck Options, Filtered Deck Screen</note>
+      </trans-unit>
+      <trans-unit id="Order added" xml:space="preserve">
+        <source>Order added</source>
+        <target state="translated">В порядке добавления</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Order due" xml:space="preserve">
+        <source>Order due</source>
+        <target state="translated">По расписанию повторения</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Percentage" xml:space="preserve">
+        <source>Percentage</source>
+        <target state="translated">Процент</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Position" xml:space="preserve">
+        <source>Position</source>
+        <target state="translated">Позиция</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="Preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <target state="translated">Настройки</target>
+        <note>Preferences</note>
+      </trans-unit>
+      <trans-unit id="Preview" xml:space="preserve">
+        <source>Preview</source>
+        <target state="translated">Предпросмотр</target>
+        <note>Card Template</note>
+      </trans-unit>
+      <trans-unit id="Preview new cards" xml:space="preserve">
+        <source>Preview new cards</source>
+        <target state="translated">Предпросмотр новых карточек</target>
+        <note>Custom Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Processing..." xml:space="preserve">
+        <source>Processing...</source>
+        <target state="translated">Обрабатывается...</target>
+        <note>Actions Manager, App Delegate, Profiles Screen</note>
+      </trans-unit>
+      <trans-unit id="Profiles" xml:space="preserve">
+        <source>Profiles</source>
+        <target state="translated">Профили</target>
+        <note>Preferences, Profiles Screen</note>
+      </trans-unit>
+      <trans-unit id="Question" xml:space="preserve">
+        <source>Question</source>
+        <target state="translated">Вопрос</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Random" xml:space="preserve">
+        <source>Random</source>
+        <target state="translated">В случайном порядке</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Rebuild" xml:space="preserve">
+        <source>Rebuild</source>
+        <target state="translated">Перестроить</target>
+        <note>Actions, Filtered Deck Screen</note>
+      </trans-unit>
+      <trans-unit id="Relative overdueness" xml:space="preserve">
+        <source>Relative overdueness</source>
+        <target state="translated">Относительная просроченность</target>
+        <note>Utils</note>
+      </trans-unit>
+      <trans-unit id="Relearn" xml:space="preserve">
+        <source>Relearn</source>
+        <target state="translated">Переучиваемые</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Rename" xml:space="preserve">
+        <source>Rename</source>
+        <target state="translated">Переименовать</target>
+        <note>Decks Screen, Profiles Screen</note>
+      </trans-unit>
+      <trans-unit id="Rename Deck" xml:space="preserve">
+        <source>Rename Deck</source>
+        <target state="translated">Переименовать колоду</target>
+        <note>Decks Screen</note>
+      </trans-unit>
+      <trans-unit id="Replay Audio" xml:space="preserve">
+        <source>Replay Audio</source>
+        <target state="translated">Повторное воспроизведение аудио</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Reschedule" xml:space="preserve">
+        <source>Reschedule</source>
+        <target state="translated">Перепланировать</target>
+        <note>Filtered Deck Screen</note>
+      </trans-unit>
+      <trans-unit id="Review" xml:space="preserve">
+        <source>Review</source>
+        <target state="translated">Повторение</target>
+        <note>Preferences</note>
+      </trans-unit>
+      <trans-unit id="Review Count" xml:space="preserve">
+        <source>Review Count</source>
+        <target state="translated">Количество повторений</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Review Time" xml:space="preserve">
+        <source>Review Time</source>
+        <target state="translated">Время на повторения</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Review ahead" xml:space="preserve">
+        <source>Review ahead</source>
+        <target state="translated">Просмотреть вперед (вне дневного лимита)</target>
+        <note>Custom Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Review forgotten cards" xml:space="preserve">
+        <source>Review forgotten cards</source>
+        <target state="translated">Повторить забытые карточки</target>
+        <note>Custom Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Review success rate for each hour of the day." xml:space="preserve">
+        <source>Review success rate for each hour of the day.</source>
+        <target state="translated">Доля удачных просмотров в определенный час</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Reviews" xml:space="preserve">
+        <source>Reviews</source>
+        <target state="translated">Повторение</target>
+        <note>Card Stats, Collection Stats, Deck Options, Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Right" xml:space="preserve">
+        <source>Right</source>
+        <target state="translated">Справа</target>
+        <note>Preferences</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">Сохранить</target>
+        <note>Edit Screen</note>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target state="translated">Поиск</target>
+        <note>Filtered Deck Screen</note>
+      </trans-unit>
+      <trans-unit id="Select" xml:space="preserve">
+        <source>Select</source>
+        <target state="translated">Выбрать</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Show Answer" xml:space="preserve">
+        <source>Show Answer</source>
+        <target state="translated">Показать ответ</target>
+        <note>Actions</note>
+      </trans-unit>
+      <trans-unit id="Sort Field" xml:space="preserve">
+        <source>Sort Field</source>
+        <target state="translated">Поле сортировки</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Starting ease" xml:space="preserve">
+        <source>Starting ease</source>
+        <target state="translated">Исходная лёгкость</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Steps (in minutes)" xml:space="preserve">
+        <source>Steps (in minutes)</source>
+        <target state="translated">Шаги (в минутах)</target>
+        <note>Filtered Deck Screen</note>
+      </trans-unit>
+      <trans-unit id="Studied Today" xml:space="preserve">
+        <source>Studied Today</source>
+        <target state="translated">Просмотрено сегодня</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Study" xml:space="preserve">
+        <source>Study</source>
+        <target state="translated">Учить</target>
+        <note>Decks Screen</note>
+      </trans-unit>
+      <trans-unit id="Styling" xml:space="preserve">
+        <source>Styling</source>
+        <target state="translated">Таблица стилей</target>
+        <note>Card Template</note>
+      </trans-unit>
+      <trans-unit id="Suspend Card" xml:space="preserve">
+        <source>Suspend Card</source>
+        <target state="translated">Исключить карточку</target>
+        <note>Actions, Deck Options, Edit Screen, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Suspend Note" xml:space="preserve">
+        <source>Suspend Note</source>
+        <target state="translated">Исключить запись</target>
+        <note>Actions, Edit Screen, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Suspended" xml:space="preserve">
+        <source>Suspended</source>
+        <target state="translated">Исключённые</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Sync" xml:space="preserve">
+        <source>Sync</source>
+        <target state="translated">Синхронизация</target>
+        <note>Decks Screen</note>
+      </trans-unit>
+      <trans-unit id="Tag Only" xml:space="preserve">
+        <source>Tag Only</source>
+        <target state="translated">только пометить</target>
+        <note>Deck Options</note>
+      </trans-unit>
+      <trans-unit id="Text" xml:space="preserve">
+        <source>Text</source>
+        <target state="translated">Текст</target>
+        <note>Standard Models</note>
+      </trans-unit>
+      <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
+        <source>The division of cards in your deck(s).</source>
+        <target state="translated">Распределение карточек в колоде (-ах).</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="The number of questions you have answered." xml:space="preserve">
+        <source>The number of questions you have answered.</source>
+        <target state="translated">Количество вопросов, на которые вы ответили.</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="The number of reviews due in the future." xml:space="preserve">
+        <source>The number of reviews due in the future.</source>
+        <target state="translated">Число повторений, запланированных на будущее.</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
+        <source>The number of times you have pressed each button.</source>
+        <target state="translated">Сколько раз Вы нажали каждую кнопку.</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="The time taken to answer the questions." xml:space="preserve">
+        <source>The time taken to answer the questions.</source>
+        <target state="translated">Время, затраченное на ответы</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <target state="translated">Сегодня</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Toggle Suspend" xml:space="preserve">
+        <source>Toggle Suspend</source>
+        <target state="translated">Исключить — включить</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Total" xml:space="preserve">
+        <source>Total</source>
+        <target state="translated">Всего</target>
+        <note>Card Stats, Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Total cards" xml:space="preserve">
+        <source>Total cards</source>
+        <target state="translated">Всего карточек</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Total notes" xml:space="preserve">
+        <source>Total notes</source>
+        <target state="translated">Всего записей</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Undo" xml:space="preserve">
+        <source>Undo</source>
+        <target state="translated">Отмена</target>
+        <note>Actions, Study Screen</note>
+      </trans-unit>
+      <trans-unit id="Unseen" xml:space="preserve">
+        <source>Unseen</source>
+        <target state="translated">Не просмотрено</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
+        <source>Upload to AnkiWeb</source>
+        <target state="translated">Выгрузить на AnkiWeb</target>
+        <note>Sync Screen</note>
+      </trans-unit>
+      <trans-unit id="User 1" xml:space="preserve">
+        <source>User 1</source>
+        <target state="translated">1-й пользователь</target>
+        <note>Profile Manager</note>
+      </trans-unit>
+      <trans-unit id="Whole Collection" xml:space="preserve">
+        <source>Whole Collection</source>
+        <target state="translated">Вся коллекция</target>
+        <note>Search Screen</note>
+      </trans-unit>
+      <trans-unit id="Young" xml:space="preserve">
+        <source>Young</source>
+        <target state="translated">Свежие</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Young+Learn" xml:space="preserve">
+        <source>Young+Learn</source>
+        <target state="translated">Свежие+Изучаемые</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="added-date" xml:space="preserve">
+        <source>Added</source>
+        <target state="translated">Добавлено</target>
+        <note>Card Stats</note>
+      </trans-unit>
+      <trans-unit id="added-popup" xml:space="preserve">
+        <source>Added</source>
+        <target state="translated">Добавлено</target>
+        <note>Shown when user adds a card; Edit Old Screen, Edit Screen</note>
+      </trans-unit>
+      <trans-unit id="filter-cram-short-version" xml:space="preserve">
+        <source>Filter</source>
+        <target state="translated">Фильтр</target>
+        <note>Actions</note>
+      </trans-unit>
+      <trans-unit id="gamepad-options-button" xml:space="preserve">
+        <source>Options</source>
+        <target state="translated">Настройки</target>
+        <note>Preferences</note>
+      </trans-unit>
+      <trans-unit id="hours" xml:space="preserve">
+        <source>hours</source>
+        <target state="translated">часов</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="minutes" xml:space="preserve">
+        <source>minutes</source>
+        <target state="translated">мин.</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="reviews" xml:space="preserve">
+        <source>reviews</source>
+        <target state="translated">повторений</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

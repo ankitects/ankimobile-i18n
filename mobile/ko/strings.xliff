@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target state="translated">찾기</target>
+        <note/>
+      <alt-trans><target>Поиск</target></alt-trans></trans-unit>
+    </body>
+  </file>
+  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="% Correct" xml:space="preserve">
+        <source>% Correct</source>
+        <target state="translated">% 정답</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>% правильных</target></alt-trans></trans-unit>
+      <trans-unit id="(end)" xml:space="preserve">
+        <source>(end)</source>
+        <target state="translated">(종료)</target>
+        <note>Scheduler, Scheduler V2</note>
+      <alt-trans><target>(конец)</target></alt-trans></trans-unit>
+      <trans-unit id="3AM" xml:space="preserve">
+        <source>3AM</source>
+        <target state="translated">03:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="4PM" xml:space="preserve">
+        <source>4PM</source>
+        <target state="translated">16:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="10AM" xml:space="preserve">
+        <source>10AM</source>
+        <target state="translated">10:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="10PM" xml:space="preserve">
+        <source>10PM</source>
+        <target state="translated">22:00</target>
+        <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <target state="translated">추가</target>
+        <note>Actions, Edit Screen, Study Screen</note>
+      <alt-trans><target>Добавить</target></alt-trans></trans-unit>
+      <trans-unit id="Add Media" xml:space="preserve">
+        <source>Add Media</source>
+        <target state="translated">미디어 넣기</target>
+        <note>Edit Screen</note>
+      <alt-trans><target>Добавить медиафайл</target></alt-trans></trans-unit>
+      <trans-unit id="Add Reverse" xml:space="preserve">
+        <source>Add Reverse</source>
+        <target state="translated">반대 방향 추가</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Добавить обратную</target></alt-trans></trans-unit>
+      <trans-unit id="Added Today" xml:space="preserve">
+        <source>Added Today</source>
+        <target state="translated">오늘 추가</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Добавленные сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Again" xml:space="preserve">
+        <source>Again</source>
+        <target state="translated">다시</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Снова</target></alt-trans></trans-unit>
+      <trans-unit id="Again Today" xml:space="preserve">
+        <source>Again Today</source>
+        <target state="translated">오늘 다시</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Возвратов сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Answer Buttons" xml:space="preserve">
+        <source>Answer Buttons</source>
+        <target state="translated">답 버튼</target>
+        <note>Collection Stats, Preferences</note>
+      <alt-trans><target>Кнопки ответа</target></alt-trans></trans-unit>
+      <trans-unit id="Answers" xml:space="preserve">
+        <source>Answers</source>
+        <target state="translated">답</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Ответы</target></alt-trans></trans-unit>
+      <trans-unit id="Any Flag" xml:space="preserve">
+        <source>Any Flag</source>
+        <target state="translated">모든 표시</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Любой флаг</target></alt-trans></trans-unit>
+      <trans-unit id="Automatically play audio" xml:space="preserve">
+        <source>Automatically play audio</source>
+        <target state="translated">자동으로 오디오 재생</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Автоматически воспроизводить аудио</target></alt-trans></trans-unit>
+      <trans-unit id="Average" xml:space="preserve">
+        <source>Average</source>
+        <target state="translated">평균</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>В среднем</target></alt-trans></trans-unit>
+      <trans-unit id="Average Time" xml:space="preserve">
+        <source>Average Time</source>
+        <target state="translated">평균 시간</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Среднее время</target></alt-trans></trans-unit>
+      <trans-unit id="Average answer time" xml:space="preserve">
+        <source>Average answer time</source>
+        <target state="translated">평균 답변 시간</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Среднее время ответа</target></alt-trans></trans-unit>
+      <trans-unit id="Average ease" xml:space="preserve">
+        <source>Average ease</source>
+        <target state="translated">평균 수월함</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Средняя лёгкость</target></alt-trans></trans-unit>
+      <trans-unit id="Average for days studied" xml:space="preserve">
+        <source>Average for days studied</source>
+        <target state="translated">공부한 기간 동안 평균</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>В среднем в день учёбы</target></alt-trans></trans-unit>
+      <trans-unit id="Average interval" xml:space="preserve">
+        <source>Average interval</source>
+        <target state="translated">평균 복습 간격</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Средний интервал</target></alt-trans></trans-unit>
+      <trans-unit id="Back" xml:space="preserve">
+        <source>Back</source>
+        <target state="translated">뒷면</target>
+        <note>Card Template, Standard Models</note>
+      <alt-trans><target>Обратная сторона</target></alt-trans></trans-unit>
+      <trans-unit id="Backups" xml:space="preserve">
+        <source>Backups</source>
+        <target state="translated">백업</target>
+        <note>Backup Manager, Preferences</note>
+      <alt-trans><target>Резервные копии</target></alt-trans></trans-unit>
+      <trans-unit id="Basic" xml:space="preserve">
+        <source>Basic</source>
+        <target state="translated">기본</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Основная</target></alt-trans></trans-unit>
+      <trans-unit id="Basic (and reversed card)" xml:space="preserve">
+        <source>Basic (and reversed card)</source>
+        <target state="translated">기본 (역방향 카드 포함)</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Основная (с обратной карточкой)</target></alt-trans></trans-unit>
+      <trans-unit id="Basic (optional reversed card)" xml:space="preserve">
+        <source>Basic (optional reversed card)</source>
+        <target state="translated">기본 (선택적 역방향 카드)</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Основная (обратная по выбору)</target></alt-trans></trans-unit>
+      <trans-unit id="Basic (type in the answer)" xml:space="preserve">
+        <source>Basic (type in the answer)</source>
+        <target state="translated">기본 (답 입력)</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Основная (с вводом ответа)</target></alt-trans></trans-unit>
+      <trans-unit id="Browse" xml:space="preserve">
+        <source>Browse</source>
+        <target state="translated">탐색</target>
+        <note>Actions, Search Screen</note>
+      <alt-trans><target>Обзор</target></alt-trans></trans-unit>
+      <trans-unit id="Build" xml:space="preserve">
+        <source>Build</source>
+        <target state="translated">모으기</target>
+        <note>Filtered Deck Screen</note>
+      <alt-trans><target>Сборка</target></alt-trans></trans-unit>
+      <trans-unit id="Bury Card" xml:space="preserve">
+        <source>Bury Card</source>
+        <target state="translated">카드 덮기</target>
+        <note>Actions, Auto Advance Options, Study Screen</note>
+      <alt-trans><target>Отложить карточку</target></alt-trans></trans-unit>
+      <trans-unit id="Bury Note" xml:space="preserve">
+        <source>Bury Note</source>
+        <target state="translated">노트 덮기</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Отложить запись</target></alt-trans></trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="translated">취소</target>
+        <note>App Delegate, Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+      <alt-trans><target>Отменить</target></alt-trans></trans-unit>
+      <trans-unit id="Card 1" xml:space="preserve">
+        <source>Card 1</source>
+        <target state="translated">카드 1</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Карточка 1</target></alt-trans></trans-unit>
+      <trans-unit id="Card 2" xml:space="preserve">
+        <source>Card 2</source>
+        <target state="translated">카드 2</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Карточка 2</target></alt-trans></trans-unit>
+      <trans-unit id="Card Type" xml:space="preserve">
+        <source>Card Type</source>
+        <target state="translated">카드 유형</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Тип карточки</target></alt-trans></trans-unit>
+      <trans-unit id="Card Types" xml:space="preserve">
+        <source>Card Types</source>
+        <target state="translated">카드 유형</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Типы карточек</target></alt-trans></trans-unit>
+      <trans-unit id="Cards" xml:space="preserve">
+        <source>Cards</source>
+        <target state="translated">카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Карточки</target></alt-trans></trans-unit>
+      <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
+        <source>Cards can't be manually moved into a filtered deck.</source>
+        <target state="translated">여과된 뭉치에 카드를 수동으로 옮겨 넣을 수 없습니다.</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Нельзя вручную переместить карточку в фильтрованную колоду.</target></alt-trans></trans-unit>
+      <trans-unit id="Change Deck" xml:space="preserve">
+        <source>Change Deck</source>
+        <target state="translated">뭉치 바꾸기</target>
+        <note>Edit Screen, Search Screen</note>
+      <alt-trans><target>Сменить колоду</target></alt-trans></trans-unit>
+      <trans-unit id="Checking..." xml:space="preserve">
+        <source>Checking...</source>
+        <target state="translated">검사 중...</target>
+        <note>Decks Screen, Preferences</note>
+      <alt-trans><target>Проверяется...</target></alt-trans></trans-unit>
+      <trans-unit id="Choose" xml:space="preserve">
+        <source>Choose</source>
+        <target state="translated">선택</target>
+        <note>Deck And Note Type Selector</note>
+      <alt-trans><target>Выбрать</target></alt-trans></trans-unit>
+      <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
+        <source>Congratulations! You have finished this deck for now.</source>
+        <target state="translated">축하합니다! 현재까지 이 뭉치에서 만기된 모든 카드를 공부했습니다.</target>
+        <note>Scheduler, Scheduler V2</note>
+      <alt-trans><target>Ура! На сегодня всё.</target></alt-trans></trans-unit>
+      <trans-unit id="Connecting..." xml:space="preserve">
+        <source>Connecting...</source>
+        <target state="translated">연결 중...</target>
+        <note>Syncer</note>
+      <alt-trans><target>Подключается...</target></alt-trans></trans-unit>
+      <trans-unit id="Cram" xml:space="preserve">
+        <source>Cram</source>
+        <target state="translated">몰아보기</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Зубрить</target></alt-trans></trans-unit>
+      <trans-unit id="Cumulative" xml:space="preserve">
+        <source>Cumulative</source>
+        <target state="translated">누적</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Совокупно</target></alt-trans></trans-unit>
+      <trans-unit id="Cumulative Answers" xml:space="preserve">
+        <source>Cumulative Answers</source>
+        <target state="translated">누적 답변</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Совокупно ответов</target></alt-trans></trans-unit>
+      <trans-unit id="Cumulative Cards" xml:space="preserve">
+        <source>Cumulative Cards</source>
+        <target state="translated">누적 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Совокупно карточек</target></alt-trans></trans-unit>
+      <trans-unit id="Current Deck" xml:space="preserve">
+        <source>Current Deck</source>
+        <target state="translated">현재 뭉치</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Текущая колода</target></alt-trans></trans-unit>
+      <trans-unit id="Custom Study" xml:space="preserve">
+        <source>Custom Study</source>
+        <target state="translated">맞춤 공부</target>
+        <note>Actions, Custom Study Screen, Scheduler, Scheduler V2</note>
+      <alt-trans><target>Учить ещё</target></alt-trans></trans-unit>
+      <trans-unit id="Custom Study Session" xml:space="preserve">
+        <source>Custom Study Session</source>
+        <target state="translated">맞춤 공부 세션</target>
+        <note>Custom Study Screen</note>
+      <alt-trans><target>Учить ещё</target></alt-trans></trans-unit>
+      <trans-unit id="Days studied" xml:space="preserve">
+        <source>Days studied</source>
+        <target state="translated">공부한 기간</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Дней учёбы</target></alt-trans></trans-unit>
+      <trans-unit id="Deck" xml:space="preserve">
+        <source>Deck</source>
+        <target state="translated">뭉치</target>
+        <note>Card Stats, Deck Stats Screen, Search Screen</note>
+      <alt-trans><target>Колода</target></alt-trans></trans-unit>
+      <trans-unit id="Decks" xml:space="preserve">
+        <source>Decks</source>
+        <target state="translated">뭉치</target>
+        <note>Actions, Decks Screen, Study Screen, Tools Screen</note>
+      <alt-trans><target>Колоды</target></alt-trans></trans-unit>
+      <trans-unit id="Decreasing intervals" xml:space="preserve">
+        <source>Decreasing intervals</source>
+        <target state="translated">복습 간격이 긴 것부터</target>
+        <note>Utils</note>
+      <alt-trans><target>От большего интервала к меньшему</target></alt-trans></trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <target state="translated">기본</target>
+        <note>Utils</note>
+      <alt-trans><target>По умолчанию</target></alt-trans></trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">삭제</target>
+        <note>Decks Screen, Profiles Screen</note>
+      <alt-trans><target>Удалить</target></alt-trans></trans-unit>
+      <trans-unit id="Delete Note" xml:space="preserve">
+        <source>Delete Note</source>
+        <target state="translated">노트 삭제</target>
+        <note>Actions, Edit Screen</note>
+      <alt-trans><target>Удалить запись</target></alt-trans></trans-unit>
+      <trans-unit id="Delete Notes" xml:space="preserve">
+        <source>Delete Notes</source>
+        <target state="translated">노트 삭제</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Удалить записи</target></alt-trans></trans-unit>
+      <trans-unit id="Download from AnkiWeb" xml:space="preserve">
+        <source>Download from AnkiWeb</source>
+        <target state="translated">AnkiWeb에서 다운로드</target>
+        <note>Sync Screen</note>
+      <alt-trans><target>Загрузить с AnkiWeb</target></alt-trans></trans-unit>
+      <trans-unit id="Due" xml:space="preserve">
+        <source>Due</source>
+        <target state="translated">만기</target>
+        <note>Card Stats</note>
+      <alt-trans><target>К просмотру</target></alt-trans></trans-unit>
+      <trans-unit id="Due tomorrow" xml:space="preserve">
+        <source>Due tomorrow</source>
+        <target state="translated">내일 만기</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>На завтра</target></alt-trans></trans-unit>
+      <trans-unit id="Ease" xml:space="preserve">
+        <source>Ease</source>
+        <target state="translated">수월함</target>
+        <note>Card Stats, Search Screen</note>
+      <alt-trans><target>Лёгкость</target></alt-trans></trans-unit>
+      <trans-unit id="Easy" xml:space="preserve">
+        <source>Easy</source>
+        <target state="translated">쉬움</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Легко</target></alt-trans></trans-unit>
+      <trans-unit id="Easy bonus" xml:space="preserve">
+        <source>Easy bonus</source>
+        <target state="translated">쉬움 버튼 보너스</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Множитель для «Легко»</target></alt-trans></trans-unit>
+      <trans-unit id="Easy interval" xml:space="preserve">
+        <source>Easy interval</source>
+        <target state="translated">쉬움 간격</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Интервал для «Легко»</target></alt-trans></trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target state="translated">편집</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Править</target></alt-trans></trans-unit>
+      <trans-unit id="Empty" xml:space="preserve">
+        <source>Empty</source>
+        <target state="translated">비우기</target>
+        <note>Actions</note>
+      <alt-trans><target>Очистить</target></alt-trans></trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <target state="translated">내보내기</target>
+        <note>Exporter</note>
+      <alt-trans><target>Экспортировать</target></alt-trans></trans-unit>
+      <trans-unit id="Extra" xml:space="preserve">
+        <source>Extra</source>
+        <target state="translated">기타</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Дополнительно</target></alt-trans></trans-unit>
+      <trans-unit id="Fields" xml:space="preserve">
+        <source>Fields</source>
+        <target state="translated">필드</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Поля</target></alt-trans></trans-unit>
+      <trans-unit id="Filter" xml:space="preserve">
+        <source>Filter</source>
+        <target state="translated">여과</target>
+        <note>Filtered Deck Screen, Search Screen</note>
+      <alt-trans><target>Фильтр</target></alt-trans></trans-unit>
+      <trans-unit id="Finish" xml:space="preserve">
+        <source>Finish</source>
+        <target state="translated">완료</target>
+        <note>Audio Manager, Edit Screen</note>
+      <alt-trans><target>Завершить</target></alt-trans></trans-unit>
+      <trans-unit id="First Review" xml:space="preserve">
+        <source>First Review</source>
+        <target state="translated">최초 복습</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Просмотрена впервые</target></alt-trans></trans-unit>
+      <trans-unit id="Flip" xml:space="preserve">
+        <source>Flip</source>
+        <target state="translated">뒤집기</target>
+        <note>Preview</note>
+      <alt-trans><target>Перевернуть</target></alt-trans></trans-unit>
+      <trans-unit id="Forecast" xml:space="preserve">
+        <source>Forecast</source>
+        <target state="translated">예상</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Прогноз</target></alt-trans></trans-unit>
+      <trans-unit id="Front" xml:space="preserve">
+        <source>Front</source>
+        <target state="translated">앞면</target>
+        <note>Card Template, Standard Models</note>
+      <alt-trans><target>Лицевая сторона</target></alt-trans></trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target state="translated">일반</target>
+        <note>Deck Options, Preferences</note>
+      <alt-trans><target>Общие</target></alt-trans></trans-unit>
+      <trans-unit id="Good" xml:space="preserve">
+        <source>Good</source>
+        <target state="translated">알맞음</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Хорошо</target></alt-trans></trans-unit>
+      <trans-unit id="Graduating interval" xml:space="preserve">
+        <source>Graduating interval</source>
+        <target state="translated">졸업 간격</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Интервал для «Хорошо»</target></alt-trans></trans-unit>
+      <trans-unit id="Hard" xml:space="preserve">
+        <source>Hard</source>
+        <target state="translated">어려움</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Трудно</target></alt-trans></trans-unit>
+      <trans-unit id="Highest ease" xml:space="preserve">
+        <source>Highest ease</source>
+        <target state="translated">최고 수월함</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Наибольшая лёгкость</target></alt-trans></trans-unit>
+      <trans-unit id="Hourly Breakdown" xml:space="preserve">
+        <source>Hourly Breakdown</source>
+        <target state="translated">시간대별 분석</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>По часам</target></alt-trans></trans-unit>
+      <trans-unit id="Hours" xml:space="preserve">
+        <source>Hours</source>
+        <target state="translated">시간</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Часы</target></alt-trans></trans-unit>
+      <trans-unit id="Hours with less than 30 reviews are not shown." xml:space="preserve">
+        <source>Hours with less than 30 reviews are not shown.</source>
+        <target state="translated">복습량이 30개 미만인 시간대는 표시되지 않습니다.</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Не показаны часы с менее чем 30 повторениями.</target></alt-trans></trans-unit>
+      <trans-unit id="If you studied every day" xml:space="preserve">
+        <source>If you studied every day</source>
+        <target state="translated">매일 공부한다면</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Если бы вы учились каждый день</target></alt-trans></trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <target state="translated">가져오기</target>
+        <note>Utils</note>
+      <alt-trans><target>Импортировать</target></alt-trans></trans-unit>
+      <trans-unit id="Increase today's new card limit" xml:space="preserve">
+        <source>Increase today's new card limit</source>
+        <target state="translated">오늘의 새 카드 제한 늘리기</target>
+        <note>Custom Study Screen</note>
+      <alt-trans><target>Добавить новых на сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Increase today's review card limit" xml:space="preserve">
+        <source>Increase today's review card limit</source>
+        <target state="translated">오늘의 복습 카드 제한 늘리기</target>
+        <note>Custom Study Screen</note>
+      <alt-trans><target>Добавить повторяемых на сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Increasing intervals" xml:space="preserve">
+        <source>Increasing intervals</source>
+        <target state="translated">복습 간격이 짧은 것부터</target>
+        <note>Utils</note>
+      <alt-trans><target>По возрастанию интервалов</target></alt-trans></trans-unit>
+      <trans-unit id="Interval" xml:space="preserve">
+        <source>Interval</source>
+        <target state="translated">간격</target>
+        <note>Card Stats, Search Screen</note>
+      <alt-trans><target>Интервал</target></alt-trans></trans-unit>
+      <trans-unit id="Interval modifier" xml:space="preserve">
+        <source>Interval modifier</source>
+        <target state="translated">복습 간격 조정값</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Модификатор интервала</target></alt-trans></trans-unit>
+      <trans-unit id="Intervals" xml:space="preserve">
+        <source>Intervals</source>
+        <target state="translated">복습 간격</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Интервалы</target></alt-trans></trans-unit>
+      <trans-unit id="Lapses" xml:space="preserve">
+        <source>Lapses</source>
+        <target state="translated">실패</target>
+        <note>Card Stats, Deck Options, Search Screen</note>
+      <alt-trans><target>Забытые</target></alt-trans></trans-unit>
+      <trans-unit id="Latest Review" xml:space="preserve">
+        <source>Latest Review</source>
+        <target state="translated">최근 복습</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Последнее повторение</target></alt-trans></trans-unit>
+      <trans-unit id="Latest added first" xml:space="preserve">
+        <source>Latest added first</source>
+        <target state="translated">나중에 추가한 것부터</target>
+        <note>Utils</note>
+      <alt-trans><target>Сначала последняя добавленная</target></alt-trans></trans-unit>
+      <trans-unit id="Learn" xml:space="preserve">
+        <source>Learn</source>
+        <target state="translated">익힘</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Изучаемые</target></alt-trans></trans-unit>
+      <trans-unit id="Learning" xml:space="preserve">
+        <source>Learning</source>
+        <target state="translated">익힘 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Обучение</target></alt-trans></trans-unit>
+      <trans-unit id="Leech action" xml:space="preserve">
+        <source>Leech action</source>
+        <target state="translated">거머리 처리</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Что делать с приставучими</target></alt-trans></trans-unit>
+      <trans-unit id="Leech threshold" xml:space="preserve">
+        <source>Leech threshold</source>
+        <target state="translated">거머리 기준</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Пород для приставучих</target></alt-trans></trans-unit>
+      <trans-unit id="Left" xml:space="preserve">
+        <source>Left</source>
+        <target state="translated">왼쪽</target>
+        <note>Preferences</note>
+      <alt-trans><target>Осталось</target></alt-trans></trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <target state="translated">여는 중...</target>
+        <note>Custom Study Screen, Deck Stats Screen</note>
+      <alt-trans><target>Грузится...</target></alt-trans></trans-unit>
+      <trans-unit id="Longest interval" xml:space="preserve">
+        <source>Longest interval</source>
+        <target state="translated">최대 복습 간격</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Самый длинный интервал</target></alt-trans></trans-unit>
+      <trans-unit id="Lowest ease" xml:space="preserve">
+        <source>Lowest ease</source>
+        <target state="translated">최저 수월함</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Наименьшая лёгкость</target></alt-trans></trans-unit>
+      <trans-unit id="Mature" xml:space="preserve">
+        <source>Mature</source>
+        <target state="translated">성숙한 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Закреплённые</target></alt-trans></trans-unit>
+      <trans-unit id="Maximum interval" xml:space="preserve">
+        <source>Maximum interval</source>
+        <target state="translated">최대 복습 간격</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Максимальный интервал</target></alt-trans></trans-unit>
+      <trans-unit id="Minimum interval" xml:space="preserve">
+        <source>Minimum interval</source>
+        <target state="translated">최소 복습 간격</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Минимальный интервал</target></alt-trans></trans-unit>
+      <trans-unit id="Minutes" xml:space="preserve">
+        <source>Minutes</source>
+        <target state="translated">분</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Минут</target></alt-trans></trans-unit>
+      <trans-unit id="Most lapses" xml:space="preserve">
+        <source>Most lapses</source>
+        <target state="translated">많이 틀린 순서대로</target>
+        <note>Utils</note>
+      <alt-trans><target>Наиболее забываемые</target></alt-trans></trans-unit>
+      <trans-unit id="New Cards" xml:space="preserve">
+        <source>New Cards</source>
+        <target state="translated">새 카드</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Новые карточки</target></alt-trans></trans-unit>
+      <trans-unit id="New interval" xml:space="preserve">
+        <source>New interval</source>
+        <target state="translated">새 복습 간격</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Новый интервал</target></alt-trans></trans-unit>
+      <trans-unit id="New name:" xml:space="preserve">
+        <source>New name:</source>
+        <target state="translated">새 이름:</target>
+        <note>Decks Screen</note>
+      <alt-trans><target>Новое имя:</target></alt-trans></trans-unit>
+      <trans-unit id="No Flag" xml:space="preserve">
+        <source>No Flag</source>
+        <target state="translated">표시 없음</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Без флага</target></alt-trans></trans-unit>
+      <trans-unit id="No mature cards were studied today." xml:space="preserve">
+        <source>No mature cards were studied today.</source>
+        <target state="translated">오늘 학습한 성숙한 카드가 없습니다.</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Ни одна закреплённая не была повторена сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Note Type" xml:space="preserve">
+        <source>Note Type</source>
+        <target state="translated">노트 유형</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Тип записи</target></alt-trans></trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="translated">확인</target>
+        <note>App Delegate, Deck Options, Decks Screen, Sync Screen, Utils</note>
+      <alt-trans><target>ОК</target></alt-trans></trans-unit>
+      <trans-unit id="Oldest seen first" xml:space="preserve">
+        <source>Oldest seen first</source>
+        <target state="translated">처음 공부한 지 오래된 것부터</target>
+        <note>Utils</note>
+      <alt-trans><target>Сначала просмотренные давно</target></alt-trans></trans-unit>
+      <trans-unit id="Options" xml:space="preserve">
+        <source>Options</source>
+        <target state="translated">옵션</target>
+        <note>Custom Study Screen, Filtered Deck Screen, Search Screen</note>
+      <alt-trans><target>Настройки</target></alt-trans></trans-unit>
+      <trans-unit id="Order" xml:space="preserve">
+        <source>Order</source>
+        <target state="translated">순서</target>
+        <note>Deck Options, Filtered Deck Screen</note>
+      <alt-trans><target>Порядок</target></alt-trans></trans-unit>
+      <trans-unit id="Order added" xml:space="preserve">
+        <source>Order added</source>
+        <target state="translated">추가한 순서대로</target>
+        <note>Utils</note>
+      <alt-trans><target>В порядке добавления</target></alt-trans></trans-unit>
+      <trans-unit id="Order due" xml:space="preserve">
+        <source>Order due</source>
+        <target state="translated">만기 순서대로</target>
+        <note>Utils</note>
+      <alt-trans><target>По расписанию повторения</target></alt-trans></trans-unit>
+      <trans-unit id="Percentage" xml:space="preserve">
+        <source>Percentage</source>
+        <target state="translated">백분율</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Процент</target></alt-trans></trans-unit>
+      <trans-unit id="Position" xml:space="preserve">
+        <source>Position</source>
+        <target state="translated">위치</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Позиция</target></alt-trans></trans-unit>
+      <trans-unit id="Preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <target state="translated">환경 설정</target>
+        <note>Preferences</note>
+      <alt-trans><target>Настройки</target></alt-trans></trans-unit>
+      <trans-unit id="Preview" xml:space="preserve">
+        <source>Preview</source>
+        <target state="translated">미리 보기</target>
+        <note>Card Template</note>
+      <alt-trans><target>Предпросмотр</target></alt-trans></trans-unit>
+      <trans-unit id="Preview new cards" xml:space="preserve">
+        <source>Preview new cards</source>
+        <target state="translated">새 카드 미리 보기</target>
+        <note>Custom Study Screen</note>
+      <alt-trans><target>Предпросмотр новых карточек</target></alt-trans></trans-unit>
+      <trans-unit id="Processing..." xml:space="preserve">
+        <source>Processing...</source>
+        <target state="translated">처리 중...</target>
+        <note>Actions Manager, App Delegate, Profiles Screen</note>
+      <alt-trans><target>Обрабатывается...</target></alt-trans></trans-unit>
+      <trans-unit id="Profiles" xml:space="preserve">
+        <source>Profiles</source>
+        <target state="translated">프로필</target>
+        <note>Preferences, Profiles Screen</note>
+      <alt-trans><target>Профили</target></alt-trans></trans-unit>
+      <trans-unit id="Question" xml:space="preserve">
+        <source>Question</source>
+        <target state="translated">질문</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Вопрос</target></alt-trans></trans-unit>
+      <trans-unit id="Random" xml:space="preserve">
+        <source>Random</source>
+        <target state="translated">무작위로</target>
+        <note>Utils</note>
+      <alt-trans><target>В случайном порядке</target></alt-trans></trans-unit>
+      <trans-unit id="Rebuild" xml:space="preserve">
+        <source>Rebuild</source>
+        <target state="translated">다시 모으기</target>
+        <note>Actions, Filtered Deck Screen</note>
+      <alt-trans><target>Перестроить</target></alt-trans></trans-unit>
+      <trans-unit id="Relative overdueness" xml:space="preserve">
+        <source>Relative overdueness</source>
+        <target state="translated">늦은 정도의 상대값</target>
+        <note>Utils</note>
+      <alt-trans><target>Относительная просроченность</target></alt-trans></trans-unit>
+      <trans-unit id="Relearn" xml:space="preserve">
+        <source>Relearn</source>
+        <target state="translated">재익힘</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Переучиваемые</target></alt-trans></trans-unit>
+      <trans-unit id="Rename" xml:space="preserve">
+        <source>Rename</source>
+        <target state="translated">이름 변경</target>
+        <note>Decks Screen, Profiles Screen</note>
+      <alt-trans><target>Переименовать</target></alt-trans></trans-unit>
+      <trans-unit id="Rename Deck" xml:space="preserve">
+        <source>Rename Deck</source>
+        <target state="translated">뭉치 이름 변경</target>
+        <note>Decks Screen</note>
+      <alt-trans><target>Переименовать колоду</target></alt-trans></trans-unit>
+      <trans-unit id="Replay Audio" xml:space="preserve">
+        <source>Replay Audio</source>
+        <target state="translated">오디오 재생</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Повторное воспроизведение аудио</target></alt-trans></trans-unit>
+      <trans-unit id="Reschedule" xml:space="preserve">
+        <source>Reschedule</source>
+        <target state="translated">일정 재조정</target>
+        <note>Filtered Deck Screen</note>
+      <alt-trans><target>Перепланировать</target></alt-trans></trans-unit>
+      <trans-unit id="Review" xml:space="preserve">
+        <source>Review</source>
+        <target state="translated">복습</target>
+        <note>Preferences</note>
+      <alt-trans><target>Повторение</target></alt-trans></trans-unit>
+      <trans-unit id="Review Count" xml:space="preserve">
+        <source>Review Count</source>
+        <target state="translated">복습 횟수</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Количество повторений</target></alt-trans></trans-unit>
+      <trans-unit id="Review Time" xml:space="preserve">
+        <source>Review Time</source>
+        <target state="translated">복습 시간</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Время на повторения</target></alt-trans></trans-unit>
+      <trans-unit id="Review ahead" xml:space="preserve">
+        <source>Review ahead</source>
+        <target state="translated">앞당겨 복습하기</target>
+        <note>Custom Study Screen</note>
+      <alt-trans><target>Просмотреть вперед (вне дневного лимита)</target></alt-trans></trans-unit>
+      <trans-unit id="Review forgotten cards" xml:space="preserve">
+        <source>Review forgotten cards</source>
+        <target state="translated">잊어버린 카드 복습하기</target>
+        <note>Custom Study Screen</note>
+      <alt-trans><target>Повторить забытые карточки</target></alt-trans></trans-unit>
+      <trans-unit id="Review success rate for each hour of the day." xml:space="preserve">
+        <source>Review success rate for each hour of the day.</source>
+        <target state="translated">하루 중 시간대 별 정답률.</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Доля удачных просмотров в определенный час</target></alt-trans></trans-unit>
+      <trans-unit id="Reviews" xml:space="preserve">
+        <source>Reviews</source>
+        <target state="translated">복습</target>
+        <note>Card Stats, Collection Stats, Deck Options, Search Screen</note>
+      <alt-trans><target>Повторение</target></alt-trans></trans-unit>
+      <trans-unit id="Right" xml:space="preserve">
+        <source>Right</source>
+        <target state="translated">오른쪽</target>
+        <note>Preferences</note>
+      <alt-trans><target>Справа</target></alt-trans></trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">저장하기</target>
+        <note>Edit Screen</note>
+      <alt-trans><target>Сохранить</target></alt-trans></trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target state="translated">찾기</target>
+        <note>Filtered Deck Screen</note>
+      <alt-trans><target>Поиск</target></alt-trans></trans-unit>
+      <trans-unit id="Select" xml:space="preserve">
+        <source>Select</source>
+        <target state="translated">이 뭉치에서</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Выбрать</target></alt-trans></trans-unit>
+      <trans-unit id="Show Answer" xml:space="preserve">
+        <source>Show Answer</source>
+        <target state="translated">답 보기</target>
+        <note>Actions</note>
+      <alt-trans><target>Показать ответ</target></alt-trans></trans-unit>
+      <trans-unit id="Sort Field" xml:space="preserve">
+        <source>Sort Field</source>
+        <target state="translated">정렬 필드</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Поле сортировки</target></alt-trans></trans-unit>
+      <trans-unit id="Starting ease" xml:space="preserve">
+        <source>Starting ease</source>
+        <target state="translated">초기 수월함</target>
+        <note>Deck Options</note>
+      <alt-trans><target>Исходная лёгкость</target></alt-trans></trans-unit>
+      <trans-unit id="Steps (in minutes)" xml:space="preserve">
+        <source>Steps (in minutes)</source>
+        <target state="translated">익힘 단계(분 단위)</target>
+        <note>Filtered Deck Screen</note>
+      <alt-trans><target>Шаги (в минутах)</target></alt-trans></trans-unit>
+      <trans-unit id="Studied Today" xml:space="preserve">
+        <source>Studied Today</source>
+        <target state="translated">오늘 공부</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Просмотрено сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Study" xml:space="preserve">
+        <source>Study</source>
+        <target state="translated">공부</target>
+        <note>Decks Screen</note>
+      <alt-trans><target>Учить</target></alt-trans></trans-unit>
+      <trans-unit id="Styling" xml:space="preserve">
+        <source>Styling</source>
+        <target state="translated">스타일</target>
+        <note>Card Template</note>
+      <alt-trans><target>Таблица стилей</target></alt-trans></trans-unit>
+      <trans-unit id="Suspend Card" xml:space="preserve">
+        <source>Suspend Card</source>
+        <target state="translated">카드 보류</target>
+        <note>Actions, Deck Options, Edit Screen, Study Screen</note>
+      <alt-trans><target>Исключить карточку</target></alt-trans></trans-unit>
+      <trans-unit id="Suspend Note" xml:space="preserve">
+        <source>Suspend Note</source>
+        <target state="translated">노트 보류</target>
+        <note>Actions, Edit Screen, Study Screen</note>
+      <alt-trans><target>Исключить запись</target></alt-trans></trans-unit>
+      <trans-unit id="Suspended" xml:space="preserve">
+        <source>Suspended</source>
+        <target state="translated">보류됨</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Исключённые</target></alt-trans></trans-unit>
+      <trans-unit id="Sync" xml:space="preserve">
+        <source>Sync</source>
+        <target state="translated">동기화</target>
+        <note>Decks Screen</note>
+      <alt-trans><target>Синхронизация</target></alt-trans></trans-unit>
+      <trans-unit id="Tag Only" xml:space="preserve">
+        <source>Tag Only</source>
+        <target state="translated">태그만 달기</target>
+        <note>Deck Options</note>
+      <alt-trans><target>только пометить</target></alt-trans></trans-unit>
+      <trans-unit id="Text" xml:space="preserve">
+        <source>Text</source>
+        <target state="translated">내용</target>
+        <note>Standard Models</note>
+      <alt-trans><target>Текст</target></alt-trans></trans-unit>
+      <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
+        <source>The division of cards in your deck(s).</source>
+        <target state="translated">뭉치에 들어있는 카드 분류.</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Распределение карточек в колоде (-ах).</target></alt-trans></trans-unit>
+      <trans-unit id="The number of questions you have answered." xml:space="preserve">
+        <source>The number of questions you have answered.</source>
+        <target state="translated">그동안 답변한 질문 개수</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Количество вопросов, на которые вы ответили.</target></alt-trans></trans-unit>
+      <trans-unit id="The number of reviews due in the future." xml:space="preserve">
+        <source>The number of reviews due in the future.</source>
+        <target state="translated">앞으로 공부할 복습량</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Число повторений, запланированных на будущее.</target></alt-trans></trans-unit>
+      <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
+        <source>The number of times you have pressed each button.</source>
+        <target state="translated">각 버튼을 누른 횟수</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Сколько раз Вы нажали каждую кнопку.</target></alt-trans></trans-unit>
+      <trans-unit id="The time taken to answer the questions." xml:space="preserve">
+        <source>The time taken to answer the questions.</source>
+        <target state="translated">질문에 답을 하기까지 걸린 시간</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Время, затраченное на ответы</target></alt-trans></trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <target state="translated">오늘</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Сегодня</target></alt-trans></trans-unit>
+      <trans-unit id="Toggle Suspend" xml:space="preserve">
+        <source>Toggle Suspend</source>
+        <target state="translated">보류하기</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Исключить — включить</target></alt-trans></trans-unit>
+      <trans-unit id="Total" xml:space="preserve">
+        <source>Total</source>
+        <target state="translated">전체</target>
+        <note>Card Stats, Collection Stats</note>
+      <alt-trans><target>Всего</target></alt-trans></trans-unit>
+      <trans-unit id="Total cards" xml:space="preserve">
+        <source>Total cards</source>
+        <target state="translated">전체 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Всего карточек</target></alt-trans></trans-unit>
+      <trans-unit id="Total notes" xml:space="preserve">
+        <source>Total notes</source>
+        <target state="translated">전체 노트</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Всего записей</target></alt-trans></trans-unit>
+      <trans-unit id="Undo" xml:space="preserve">
+        <source>Undo</source>
+        <target state="translated">실행 취소</target>
+        <note>Actions, Study Screen</note>
+      <alt-trans><target>Отмена</target></alt-trans></trans-unit>
+      <trans-unit id="Unseen" xml:space="preserve">
+        <source>Unseen</source>
+        <target state="translated">보지 않은 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Не просмотрено</target></alt-trans></trans-unit>
+      <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
+        <source>Upload to AnkiWeb</source>
+        <target state="translated">AnkiWeb으로 업로드</target>
+        <note>Sync Screen</note>
+      <alt-trans><target>Выгрузить на AnkiWeb</target></alt-trans></trans-unit>
+      <trans-unit id="User 1" xml:space="preserve">
+        <source>User 1</source>
+        <target state="translated">사용자 1</target>
+        <note>Profile Manager</note>
+      <alt-trans><target>1-й пользователь</target></alt-trans></trans-unit>
+      <trans-unit id="Whole Collection" xml:space="preserve">
+        <source>Whole Collection</source>
+        <target state="translated">모음집 전체</target>
+        <note>Search Screen</note>
+      <alt-trans><target>Вся коллекция</target></alt-trans></trans-unit>
+      <trans-unit id="Young" xml:space="preserve">
+        <source>Young</source>
+        <target state="translated">어린 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Свежие</target></alt-trans></trans-unit>
+      <trans-unit id="Young+Learn" xml:space="preserve">
+        <source>Young+Learn</source>
+        <target state="translated">어린 카드 + 익힘 카드</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>Свежие+Изучаемые</target></alt-trans></trans-unit>
+      <trans-unit id="added-date" xml:space="preserve">
+        <source>Added</source>
+        <target state="translated">추가됨</target>
+        <note>Card Stats</note>
+      <alt-trans><target>Добавлено</target></alt-trans></trans-unit>
+      <trans-unit id="added-popup" xml:space="preserve">
+        <source>Added</source>
+        <target state="translated">추가됨</target>
+        <note>Shown when user adds a card; Edit Old Screen, Edit Screen</note>
+      <alt-trans><target>Добавлено</target></alt-trans></trans-unit>
+      <trans-unit id="filter-cram-short-version" xml:space="preserve">
+        <source>Filter</source>
+        <target state="translated">여과</target>
+        <note>Actions</note>
+      <alt-trans><target>Фильтр</target></alt-trans></trans-unit>
+      <trans-unit id="gamepad-options-button" xml:space="preserve">
+        <source>Options</source>
+        <target state="translated">옵션</target>
+        <note>Preferences</note>
+      <alt-trans><target>Настройки</target></alt-trans></trans-unit>
+      <trans-unit id="hours" xml:space="preserve">
+        <source>hours</source>
+        <target state="translated">시간</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>часов</target></alt-trans></trans-unit>
+      <trans-unit id="minutes" xml:space="preserve">
+        <source>minutes</source>
+        <target state="translated">분</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>мин.</target></alt-trans></trans-unit>
+      <trans-unit id="reviews" xml:space="preserve">
+        <source>reviews</source>
+        <target state="translated">복습</target>
+        <note>Collection Stats</note>
+      <alt-trans><target>повторений</target></alt-trans></trans-unit>
+    </body>
+  </file>
+</xliff>
