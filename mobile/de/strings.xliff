@@ -2585,6 +2585,7 @@
       </trans-unit>
       <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
         <source>Tap synchronize when you're ready to proceed.</source>
+        <target>Tippen Sie auf Synchronisieren, wenn Sie bereit sind, fortzufahren.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
@@ -2639,6 +2640,7 @@
       </trans-unit>
       <trans-unit id="The provided deck does not exist." xml:space="preserve">
         <source>The provided deck does not exist.</source>
+        <target>Der bereitgestellte Stapel existiert nicht.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="The provided input does not generate any cards." xml:space="preserve">
