@@ -22,10 +22,12 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>The "Add to Photos" action requires your permission.</source>
+        <target>Die "Zu den Fotos hinzufügen"-Aktion benötigt Ihre Erlaubnis.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>This allows the photo browser to show.</source>
+        <target>Dies erlaubt, dass der Fotobrowser erscheinen kann.</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
@@ -67,6 +69,7 @@
       </trans-unit>
       <trans-unit id="%d/%d selected" xml:space="preserve">
         <source>%d/%d selected</source>
+        <target>%d/%d ausgewählt</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="(end)" xml:space="preserve">
@@ -76,6 +79,7 @@
       </trans-unit>
       <trans-unit id="(filtered)" xml:space="preserve">
         <source>(filtered)</source>
+        <target>(ausgewählt/gefiltert)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
@@ -185,10 +189,12 @@
       </trans-unit>
       <trans-unit id="Add New" xml:space="preserve">
         <source>Add New</source>
+        <target>Neue hinzufügen</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Options Group" xml:space="preserve">
         <source>Add Options Group</source>
+        <target>Optionengruppe hinzufügen</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Add Profile" xml:space="preserve">
@@ -203,6 +209,7 @@
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
+        <target>Hinzufügen/Exportieren</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
@@ -217,6 +224,7 @@
       </trans-unit>
       <trans-unit id="Added to frequent actions." xml:space="preserve">
         <source>Added to frequent actions.</source>
+        <target>Zu den häufigen Aktionen hinzugefügt.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Again" xml:space="preserve">
@@ -231,22 +239,27 @@
       </trans-unit>
       <trans-unit id="Alert Time" xml:space="preserve">
         <source>Alert Time</source>
+        <target>Alarmzeit</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="Alert When Due" xml:space="preserve">
         <source>Alert When Due</source>
+        <target>Bei Fälligkeit alarmieren</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target>Alles</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
         <source>All Actions</source>
+        <target>Alle Aktionen</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Already in frequent actions." xml:space="preserve">
         <source>Already in frequent actions.</source>
+        <target>Bereits in häufige Aktionen.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Always Duck + Ignore Mute" xml:space="preserve">
@@ -255,18 +268,22 @@
       </trans-unit>
       <trans-unit id="An error occurred on AnkiWeb." xml:space="preserve">
         <source>An error occurred on AnkiWeb.</source>
+        <target>Es ist ein Fehler auf AnkiWeb aufgetreten.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="An error occurred: %@" xml:space="preserve">
         <source>An error occurred: %@</source>
+        <target>Ein Fehler ist aufgetreten: %@</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="AnkiWeb is too busy at the moment." xml:space="preserve">
         <source>AnkiWeb is too busy at the moment.</source>
+        <target>AnkiWeb ist momentan zu stark ausgelastet.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Answer Action" xml:space="preserve">
         <source>Answer Action</source>
+        <target>Antwortaktion</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Answer Again" xml:space="preserve">
@@ -331,6 +348,7 @@
       </trans-unit>
       <trans-unit id="Append" xml:space="preserve">
         <source>Append</source>
+        <target>Anfügen</target>
         <note>add current row to existing search; Search Screen</note>
       </trans-unit>
       <trans-unit id="Append Negated" xml:space="preserve">
@@ -344,30 +362,37 @@
       </trans-unit>
       <trans-unit id="Audio Buttons" xml:space="preserve">
         <source>Audio Buttons</source>
+        <target>Audioknöpfe</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Authenticating..." xml:space="preserve">
         <source>Authenticating...</source>
+        <target>Es wird authentifziert...</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
         <source>Authentication failed. Please try again.</source>
+        <target>Authentifzierung fehlgeschlagen. Bitte versuchen Sie es erneut.</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
+        <target>Autom. Erw.</target>
         <note>Short version of 'Auto Advance'; Actions</note>
       </trans-unit>
       <trans-unit id="Auto Advance" xml:space="preserve">
         <source>Auto Advance</source>
+        <target>Automatische Erweiterung</target>
         <note>Actions, Auto Advance Options, Preferences</note>
       </trans-unit>
       <trans-unit id="Auto advance starting" xml:space="preserve">
         <source>Auto advance starting</source>
+        <target>Automatische Erweiterung startet</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Auto advance stopped" xml:space="preserve">
         <source>Auto advance stopped</source>
+        <target>Automatische Erweiterung gestoppt</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Automatically play audio" xml:space="preserve">
@@ -427,6 +452,7 @@
       </trans-unit>
       <trans-unit id="Bar Style" xml:space="preserve">
         <source>Bar Style</source>
+        <target>Balkenstil</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Basic" xml:space="preserve">
@@ -456,6 +482,7 @@
       </trans-unit>
       <trans-unit id="Bold" xml:space="preserve">
         <source>Bold</source>
+        <target>Fett</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Bot.B" xml:space="preserve">
@@ -464,10 +491,12 @@
       </trans-unit>
       <trans-unit id="Bottom Bar" xml:space="preserve">
         <source>Bottom Bar</source>
+        <target>Unterer Balken</target>
         <note>Actions, Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Bar Size" xml:space="preserve">
         <source>Bottom Bar Size</source>
+        <target>Größe des unteren Balkens</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Center" xml:space="preserve">
@@ -532,6 +561,7 @@
       </trans-unit>
       <trans-unit id="Button %d" xml:space="preserve">
         <source>Button %d</source>
+        <target>Knopf %d</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="C.Info" xml:space="preserve">
@@ -541,10 +571,12 @@
       </trans-unit>
       <trans-unit id="Can't edit - original image data not found." xml:space="preserve">
         <source>Can't edit - original image data not found.</source>
+        <target>Bearbeitung fehlgeschlagen - Ursprungsbilddaten konnten nicht gefunden werden.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Can't extend limits - no extra cards are available." xml:space="preserve">
         <source>Can't extend limits - no extra cards are available.</source>
+        <target>Der Grenzwert kann nicht erhöht werden - keine weiteren Karten verfügbar.</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -554,10 +586,12 @@
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
+        <target>Abbrechen und alle nicht gespeicherten Änderungen verlieren?</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Cannot Delete" xml:space="preserve">
         <source>Cannot Delete</source>
+        <target>Löschen fehlgeschlagen</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Card 1" xml:space="preserve">
@@ -636,10 +670,12 @@
       </trans-unit>
       <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
         <source>Cards can't be manually moved into a filtered deck.</source>
+        <target>Karten können nicht manuell in einen Auswahlstapel verschoben werden.</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Cards in a filtered deck can't be moved." xml:space="preserve">
         <source>Cards in a filtered deck can't be moved.</source>
+        <target>Karten in Auswahlstapeln können nicht verschoben werden.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Change Deck" xml:space="preserve">
@@ -649,6 +685,7 @@
       </trans-unit>
       <trans-unit id="Change Flag" xml:space="preserve">
         <source>Change Flag</source>
+        <target>Markierung ändern</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Check Database" xml:space="preserve">
@@ -663,7 +700,7 @@
       </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
-        <target>Überprüfung läuft …</target>
+        <target>Überprüfung läuft…</target>
         <note>Decks Screen, Preferences</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
@@ -761,6 +798,7 @@
       </trans-unit>
       <trans-unit id="Cumulative %@" xml:space="preserve">
         <source>Cumulative %@</source>
+        <target>Ingesamt %@</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Cumulative Answers" xml:space="preserve">
@@ -775,10 +813,12 @@
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
+        <target>Audiowiedergabe vorspulen +5s</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Audio -5s" xml:space="preserve">
         <source>Current Audio -5s</source>
+        <target>Audiowiedergabe zurückspulen -5%</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
@@ -816,14 +856,17 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
+        <target>Dunkel</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Dark &amp; Translucent" xml:space="preserve">
         <source>Dark &amp; Translucent</source>
+        <target>Dunkel &amp; durchsichtig</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Database rebuilt and optimized." xml:space="preserve">
         <source>Database rebuilt and optimized.</source>
+        <target>Datenbank erneut aufgebaut und optimiert.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Day Starts" xml:space="preserve">
@@ -837,10 +880,12 @@
       </trans-unit>
       <trans-unit id="Days to look ahead" xml:space="preserve">
         <source>Days to look ahead</source>
+        <target>Tage in Vorausschau</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Days to look back" xml:space="preserve">
         <source>Days to look back</source>
+        <target>Tage in Rückschau</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Deck" xml:space="preserve">
@@ -850,18 +895,22 @@
       </trans-unit>
       <trans-unit id="Deck Exists" xml:space="preserve">
         <source>Deck Exists</source>
+        <target>Existierende Stapel</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Deck Name" xml:space="preserve">
         <source>Deck Name</source>
+        <target>Stapelname</target>
         <note>Deck And Note Type Selector, Decks Screen</note>
       </trans-unit>
       <trans-unit id="Deck Options" xml:space="preserve">
         <source>Deck Options</source>
+        <target>Stapeloptionen</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Deck Statistics" xml:space="preserve">
         <source>Deck Statistics</source>
+        <target>Stapelstatistiken</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Deck: " xml:space="preserve">
@@ -896,6 +945,7 @@
       </trans-unit>
       <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
         <source>Delays until reviews are shown again.</source>
+        <target>Zeitverzögerungen bis zu wiederholende Karten angezeigt werden.</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -940,10 +990,12 @@
       </trans-unit>
       <trans-unit id="Display in order added" xml:space="preserve">
         <source>Display in order added</source>
+        <target>In der Reihenfolge anzeigen, wie sie hinzufügt wurden</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Display in random order" xml:space="preserve">
         <source>Display in random order</source>
+        <target>In zufälliger Reihenfolge anzeigen</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Do Nothing" xml:space="preserve">
@@ -958,10 +1010,12 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
+        <target>Verhinderung von Doppeltipp</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
         <source>Download Link</source>
+        <target>Link zum Herunterladen</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Download from AnkiWeb" xml:space="preserve">
@@ -971,6 +1025,7 @@
       </trans-unit>
       <trans-unit id="Download was corrupt." xml:space="preserve">
         <source>Download was corrupt.</source>
+        <target>Der Download war beschädigt.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Downloading..." xml:space="preserve">
@@ -990,6 +1045,7 @@
       </trans-unit>
       <trans-unit id="Drawing Screen Ignores Fingers" xml:space="preserve">
         <source>Drawing Screen Ignores Fingers</source>
+        <target>Zeichenbildschirm ignoriert Finger</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Due" xml:space="preserve">
@@ -1083,6 +1139,7 @@
       </trans-unit>
       <trans-unit id="Extra" xml:space="preserve">
         <source>Extra</source>
+        <target>Extra</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Extra new cards" xml:space="preserve">
@@ -1119,6 +1176,7 @@
       </trans-unit>
       <trans-unit id="Filtered Deck" xml:space="preserve">
         <source>Filtered Deck</source>
+        <target>Auswahlstapel</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Filtered Deck %i" xml:space="preserve">
@@ -1147,34 +1205,42 @@
       </trans-unit>
       <trans-unit id="Flag 1" xml:space="preserve">
         <source>Flag 1</source>
+        <target>Markierung 1</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 1 (Red)" xml:space="preserve">
         <source>Flag 1 (Red)</source>
+        <target>Markierung 1 (Rot)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 2" xml:space="preserve">
         <source>Flag 2</source>
+        <target>Markierung 2</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 2 (Orange)" xml:space="preserve">
         <source>Flag 2 (Orange)</source>
+        <target>Markierung 2 (Orange)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 3" xml:space="preserve">
         <source>Flag 3</source>
+        <target>Markierung 3</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 3 (Green)" xml:space="preserve">
         <source>Flag 3 (Green)</source>
+        <target>Markierung 3 (Grün)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 4" xml:space="preserve">
         <source>Flag 4</source>
+        <target>Markierung 4</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 4 (Blue)" xml:space="preserve">
         <source>Flag 4 (Blue)</source>
+        <target>Markierung 4 (Blau)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
@@ -1184,10 +1250,12 @@
       </trans-unit>
       <trans-unit id="Force Off" xml:space="preserve">
         <source>Force Off</source>
+        <target>Aus erzwingen</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Force On" xml:space="preserve">
         <source>Force On</source>
+        <target>An erzwingen</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Forecast" xml:space="preserve">
@@ -1296,6 +1364,7 @@
       </trans-unit>
       <trans-unit id="Huge" xml:space="preserve">
         <source>Huge</source>
+        <target>Groß</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="If you studied every day" xml:space="preserve">
@@ -1305,6 +1374,7 @@
       </trans-unit>
       <trans-unit id="Ignore Fingers" xml:space="preserve">
         <source>Ignore Fingers</source>
+        <target>Finger ignorieren</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Import" xml:space="preserve">
@@ -1404,6 +1474,7 @@
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
         <source>Large</source>
+        <target>Groß</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Latest Review" xml:space="preserve">
@@ -1423,6 +1494,7 @@
       </trans-unit>
       <trans-unit id="Learn Ahead Minutes" xml:space="preserve">
         <source>Learn Ahead Minutes</source>
+        <target>Um Minuten vorauslernen</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Learn new cards with certain tags" xml:space="preserve">
@@ -1485,6 +1557,7 @@
       </trans-unit>
       <trans-unit id="Light &amp; Translucent" xml:space="preserve">
         <source>Light &amp; Translucent</source>
+        <target>Hell &amp; durchlässig</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Link to .apkg file to import:" xml:space="preserve">
@@ -1524,6 +1597,7 @@
       </trans-unit>
       <trans-unit id="Long press on an item to customize." xml:space="preserve">
         <source>Long press on an item to customize.</source>
+        <target>Langes Drücken auf einen Eintrag zum Anpassen.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Longest interval" xml:space="preserve">
@@ -1546,18 +1620,22 @@
       </trans-unit>
       <trans-unit id="Mark" xml:space="preserve">
         <source>Mark</source>
+        <target>Kennzeichnen</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Mark + Bury" xml:space="preserve">
         <source>Mark + Bury</source>
+        <target>Kennzeichnen + zurückstellen</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Mark + Suspend" xml:space="preserve">
         <source>Mark + Suspend</source>
+        <target>Kennzeichnen + aussetzen</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Marked" xml:space="preserve">
         <source>Marked</source>
+        <target>Gekennzeichnet</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Mature" xml:space="preserve">
@@ -1567,18 +1645,22 @@
       </trans-unit>
       <trans-unit id="Max cards to gather" xml:space="preserve">
         <source>Max cards to gather</source>
+        <target>Max. Karten zum Erfassen</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Max new per day" xml:space="preserve">
         <source>Max new per day</source>
+        <target>Max. neue Karten pro Tag</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Max reviews per day" xml:space="preserve">
         <source>Max reviews per day</source>
+        <target>Max. Wiederholungen pro Tag</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Maximum Backups" xml:space="preserve">
         <source>Maximum Backups</source>
+        <target>Maximale Sicherungskopien</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Maximum interval" xml:space="preserve">
@@ -1588,18 +1670,22 @@
       </trans-unit>
       <trans-unit id="Media files exported: %d..." xml:space="preserve">
         <source>Media files exported: %d...</source>
+        <target>Mediendateien exportieren: %d...</target>
         <note>Anki Package Exporter</note>
       </trans-unit>
       <trans-unit id="Mid Center" xml:space="preserve">
         <source>Mid Center</source>
+        <target>mittig</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Mid Left" xml:space="preserve">
         <source>Mid Left</source>
+        <target>Mitte links</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Mid Right" xml:space="preserve">
         <source>Mid Right</source>
+        <target>Mitte rechts</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Minimum interval" xml:space="preserve">
@@ -1614,10 +1700,12 @@
       </trans-unit>
       <trans-unit id="Minutes Between Backups" xml:space="preserve">
         <source>Minutes Between Backups</source>
+        <target>Minuten zwischen Sicherungskopien</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Mix" xml:space="preserve">
         <source>Mix</source>
+        <target>Mischen</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Most lapses" xml:space="preserve">
@@ -1627,6 +1715,7 @@
       </trans-unit>
       <trans-unit id="Never Type Answer" xml:space="preserve">
         <source>Never Type Answer</source>
+        <target>Niemals Antwort eintippen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="New Cards" xml:space="preserve">
@@ -1636,10 +1725,12 @@
       </trans-unit>
       <trans-unit id="New cards" xml:space="preserve">
         <source>New cards</source>
+        <target>Neue Karten</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="New first" xml:space="preserve">
         <source>New first</source>
+        <target>Neue zuerst</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="New interval" xml:space="preserve">
@@ -1654,14 +1745,17 @@
       </trans-unit>
       <trans-unit id="New/Review Order" xml:space="preserve">
         <source>New/Review Order</source>
+        <target>Neu/Wiederholung-Reihenfolge</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Next Cloze" xml:space="preserve">
         <source>Next Cloze</source>
+        <target>Nächster Lückentext</target>
         <note>keyboard shortcut description; Edit Screen</note>
       </trans-unit>
       <trans-unit id="Next Field" xml:space="preserve">
         <source>Next Field</source>
+        <target>Nächstes Feld</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Next Times" xml:space="preserve">
@@ -1670,14 +1764,17 @@
       </trans-unit>
       <trans-unit id="Night" xml:space="preserve">
         <source>Night</source>
+        <target>Nacht</target>
         <note>Short version of 'Night Mode'; Actions</note>
       </trans-unit>
       <trans-unit id="Night Mode" xml:space="preserve">
         <source>Night Mode</source>
+        <target>Nachtmodus</target>
         <note>Actions, Theme Options</note>
       </trans-unit>
       <trans-unit id="No .apkg or .colpkg files were found in iTunes" xml:space="preserve">
         <source>No .apkg or .colpkg files were found in iTunes</source>
+        <target>Keine .apkg- oder .colpkg-Dateien in iTunes gefunden</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="No Flag" xml:space="preserve">
@@ -1687,22 +1784,27 @@
       </trans-unit>
       <trans-unit id="No Matches" xml:space="preserve">
         <source>No Matches</source>
+        <target>Keine Übereinstimmungen</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="No cards are selected." xml:space="preserve">
         <source>No cards are selected.</source>
+        <target>Keine Karte wurde ausgewählt.</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="No cards studied today." xml:space="preserve">
         <source>No cards studied today.</source>
+        <target>Keine Karten heute studiert.</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="No current card." xml:space="preserve">
         <source>No current card.</source>
+        <target>Keine aktuelle Karte.</target>
         <note>Actions Manager, Utils</note>
       </trans-unit>
       <trans-unit id="No link was found in the clipboard." xml:space="preserve">
         <source>No link was found in the clipboard.</source>
+        <target>Es wurde kein Link in der Zwischenablage gefunden.</target>
         <note>Download Manager</note>
       </trans-unit>
       <trans-unit id="No mature cards were studied today." xml:space="preserve">
@@ -1712,10 +1814,12 @@
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
+        <target>Normal</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Note Created" xml:space="preserve">
         <source>Note Created</source>
+        <target>Notiz erstellt</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Note Type" xml:space="preserve">
@@ -1725,54 +1829,67 @@
       </trans-unit>
       <trans-unit id="Note Updated" xml:space="preserve">
         <source>Note Updated</source>
+        <target>Notiz aktualisiert</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Note and its %i card(s) suspended" xml:space="preserve">
         <source>Note and its %i card(s) suspended</source>
+        <target>Notiz und ihre %i Karte(n) ausgesetzt</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note and its %i cards deleted" xml:space="preserve">
         <source>Note and its %i cards deleted</source>
+        <target>Notiz und ihre %i Karten gelöscht</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note buried" xml:space="preserve">
         <source>Note buried</source>
+        <target>Notiz zurückgestellt</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note deleted" xml:space="preserve">
         <source>Note deleted</source>
+        <target>Notiz gelöscht</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note marked and buried" xml:space="preserve">
         <source>Note marked and buried</source>
+        <target>Notiz gekennzeichnet und zurückgestellt</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note suspended" xml:space="preserve">
         <source>Note suspended</source>
+        <target>Notiz ausgesetzt</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note unsuspended" xml:space="preserve">
         <source>Note unsuspended</source>
+        <target>Notiz eingesetzt</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note: " xml:space="preserve">
         <source>Note: </source>
+        <target>Notiz:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
         <source>Nothing to undo</source>
+        <target>Nichts zum Zurücknehmen</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
         <source>Notifications</source>
+        <target>Benachrichtigungen</target>
         <note>Notification Options, Preferences</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
+        <target>OK</target>
         <note>App Delegate, Deck Options, Decks Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
+        <target>Aus</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Oldest seen first" xml:space="preserve">
@@ -1782,6 +1899,7 @@
       </trans-unit>
       <trans-unit id="Only one client can access AnkiWeb at a time." xml:space="preserve">
         <source>Only one client can access AnkiWeb at a time.</source>
+        <target>Nur ein Client kann auf AnkiWeb gleichzeitig zugreifen</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
@@ -1791,6 +1909,7 @@
       </trans-unit>
       <trans-unit id="Options group" xml:space="preserve">
         <source>Options group</source>
+        <target>Optionengruppe</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Order" xml:space="preserve">
@@ -1810,26 +1929,32 @@
       </trans-unit>
       <trans-unit id="Pad" xml:space="preserve">
         <source>Pad</source>
+        <target>Pad</target>
         <note>Short version of 'Scratchpad'; Actions</note>
       </trans-unit>
       <trans-unit id="Pad Size" xml:space="preserve">
         <source>Pad Size</source>
+        <target>Padgröße</target>
         <note>Short version of 'Scratchpad Size'; Actions</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
+        <target>Passwort</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
+        <target>Pausieren</target>
         <note>Short version of 'Pause Audio'; Actions</note>
       </trans-unit>
       <trans-unit id="Pause Audio" xml:space="preserve">
         <source>Pause Audio</source>
+        <target>Audio pausieren</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Pen Size" xml:space="preserve">
         <source>Pen Size</source>
+        <target>Stiftgröße</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Percentage" xml:space="preserve">
@@ -1839,38 +1964,47 @@
       </trans-unit>
       <trans-unit id="Please check your network connection and try again." xml:space="preserve">
         <source>Please check your network connection and try again.</source>
+        <target>Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es anschließend erneut.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
         <source>Please choose a file.</source>
+        <target>Bitte wählen Sie eine Datei aus.</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Please enter your AnkiWeb details." xml:space="preserve">
         <source>Please enter your AnkiWeb details.</source>
+        <target>Bitte geben Sie Ihre AnkiWeb-Daten ein.</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Please provide some text, avoiding symbols and underscores." xml:space="preserve">
         <source>Please provide some text, avoiding symbols and underscores.</source>
+        <target>Bitte stellen Sie etwas Text zur Verfügung und vermeiden Sie dabei Symbole und Unterstriche.</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Please run Empty Cards on the computer version." xml:space="preserve">
         <source>Please run Empty Cards on the computer version.</source>
+        <target>Bitte führen Sie die Aktion "Leere Karten" in der Computer-Version von Anki aus.</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Please select another profile first." xml:space="preserve">
         <source>Please select another profile first.</source>
+        <target>Bitte wählen Sie zunächst ein anderes Profil aus.</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Please tap the '?' in the top left to get started." xml:space="preserve">
         <source>Please tap the '?' in the top left to get started.</source>
+        <target>Bitte tippen Sie das '?' oben links an, um loszulegen.</target>
         <note>App Delegate</note>
       </trans-unit>
       <trans-unit id="Please wait a few minutes, and try again." xml:space="preserve">
         <source>Please wait a few minutes, and try again.</source>
+        <target>Bitte warten Sie einige Minuten und versuchen Sie es anschließend erneut.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Position" xml:space="preserve">
         <source>Position</source>
+        <target>Position</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Preferences" xml:space="preserve">
@@ -1885,6 +2019,7 @@
       </trans-unit>
       <trans-unit id="Preview all cards with certain tags" xml:space="preserve">
         <source>Preview all cards with certain tags</source>
+        <target>Vorschau aller Karten mit bestimmten Schlagwörtern</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Preview new cards" xml:space="preserve">
@@ -1894,6 +2029,7 @@
       </trans-unit>
       <trans-unit id="Processed media files: %d..." xml:space="preserve">
         <source>Processed media files: %d...</source>
+        <target>Mediendateien werden verarbeitet: %d...</target>
         <note>Anki Package Importer</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
@@ -1903,6 +2039,7 @@
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
+        <target>Profilname</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Profiles" xml:space="preserve">
@@ -1917,14 +2054,17 @@
       </trans-unit>
       <trans-unit id="Question Seconds" xml:space="preserve">
         <source>Question Seconds</source>
+        <target>Sekunden zum Fragen</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Question Side" xml:space="preserve">
         <source>Question Side</source>
+        <target>Frageseite</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Question+Answer" xml:space="preserve">
         <source>Question+Answer</source>
+        <target>Frage+Antwort</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Random" xml:space="preserve">
@@ -1939,14 +2079,17 @@
       </trans-unit>
       <trans-unit id="Record" xml:space="preserve">
         <source>Record</source>
+        <target>Aufnehmen</target>
         <note>Short version of 'Record Voice'; Actions</note>
       </trans-unit>
       <trans-unit id="Record Voice" xml:space="preserve">
         <source>Record Voice</source>
+        <target>Stimme aufnehmen</target>
         <note>Actions, Utils</note>
       </trans-unit>
       <trans-unit id="Recording..." xml:space="preserve">
         <source>Recording...</source>
+        <target>Aufnahme läuft...</target>
         <note>Audio Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Relative overdueness" xml:space="preserve">
@@ -1961,6 +2104,7 @@
       </trans-unit>
       <trans-unit id="Remaining Count" xml:space="preserve">
         <source>Remaining Count</source>
+        <target>Zähler für verbleibend</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Rename" xml:space="preserve">
@@ -1975,31 +2119,37 @@
       </trans-unit>
       <trans-unit id="Rename Profile" xml:space="preserve">
         <source>Rename Profile</source>
+        <target>Profil umbenennen</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Repetitions" xml:space="preserve">
         <source>Repetitions</source>
+        <target>Wiederholungen</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Replace Collection" xml:space="preserve">
         <source>Replace Collection</source>
+        <target>Sammlung ersetzen</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Replay" xml:space="preserve">
         <source>Replay</source>
+        <target>Erneut abspielen</target>
         <note>Short version of 'Replay Audio'; Actions</note>
       </trans-unit>
       <trans-unit id="Replay Audio" xml:space="preserve">
         <source>Replay Audio</source>
-        <target>Erneut abspielen</target>
+        <target>Audiodatei erneut abspielen</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Replay Card" xml:space="preserve">
         <source>Replay Card</source>
+        <target>Karte erneut abspielen</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Replay Voice" xml:space="preserve">
         <source>Replay Voice</source>
+        <target>Stimme erneut abspielen</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Replay q. audio in answer" xml:space="preserve">
@@ -2013,18 +2163,22 @@
       </trans-unit>
       <trans-unit id="Rescheduled card." xml:space="preserve">
         <source>Rescheduled card.</source>
+        <target>Karte zeitlich neu geplant.</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Reset Card" xml:space="preserve">
         <source>Reset Card</source>
+        <target>Karte resetten</target>
         <note>Actions, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Reset Cards" xml:space="preserve">
         <source>Reset Cards</source>
+        <target>Karten resetten</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Reset all settings to defaults?" xml:space="preserve">
         <source>Reset all settings to defaults?</source>
+        <target>Alle Einstellungen auf die Standardeinstellungen zurücksetzen?</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Reset.C" xml:space="preserve">
@@ -2033,6 +2187,7 @@
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
         <source>Restore Defaults</source>
+        <target>Standardeinstellungen wiederherstellen</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Revert" xml:space="preserve">
@@ -2041,10 +2196,12 @@
       </trans-unit>
       <trans-unit id="Revert to Backup" xml:space="preserve">
         <source>Revert to Backup</source>
+        <target>Auf den Stand der Sicherungskopie zurücksetzen</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Reverted to backup." xml:space="preserve">
         <source>Reverted to backup.</source>
+        <target>Auf den Stand der Sicherungskopie zurückgesetzt.</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
@@ -2069,6 +2226,7 @@
       </trans-unit>
       <trans-unit id="Review due cards with certain tags" xml:space="preserve">
         <source>Review due cards with certain tags</source>
+        <target>Fällige Karten wiederholen mit bestimmten Schlagwörtern</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Review forgotten cards" xml:space="preserve">
@@ -2083,6 +2241,7 @@
       </trans-unit>
       <trans-unit id="Review undone" xml:space="preserve">
         <source>Review undone</source>
+        <target>Wiederholung unvollständig</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Reviews" xml:space="preserve">
@@ -2092,6 +2251,7 @@
       </trans-unit>
       <trans-unit id="Reviews first" xml:space="preserve">
         <source>Reviews first</source>
+        <target>Wiederholungen zuerst</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
@@ -2101,6 +2261,7 @@
       </trans-unit>
       <trans-unit id="Right Shoulder" xml:space="preserve">
         <source>Right Shoulder</source>
+        <target>Rechte Schulter</target>
         <note>gamepad; Preferences</note>
       </trans-unit>
       <trans-unit id="Right Thumbstick Button" xml:space="preserve">
@@ -2113,10 +2274,12 @@
       </trans-unit>
       <trans-unit id="S.Ans" xml:space="preserve">
         <source>S.Ans</source>
+        <target>S.Ant.</target>
         <note>Short version of 'Show Answer'; Actions</note>
       </trans-unit>
       <trans-unit id="S.Date" xml:space="preserve">
         <source>S.Date</source>
+        <target>S.Datum</target>
         <note>Short version of 'Set Due Date'; Actions</note>
       </trans-unit>
       <trans-unit id="S.Opt" xml:space="preserve">
@@ -2125,6 +2288,7 @@
       </trans-unit>
       <trans-unit id="Same Cloze" xml:space="preserve">
         <source>Same Cloze</source>
+        <target>Gleicher Lückentext</target>
         <note>keyboard shortcut description; Edit Screen</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -2134,6 +2298,7 @@
       </trans-unit>
       <trans-unit id="Scheduling" xml:space="preserve">
         <source>Scheduling</source>
+        <target>Zeitplanung</target>
         <note>Collection Options, Preferences</note>
       </trans-unit>
       <trans-unit id="Scratchpad" xml:space="preserve">
@@ -2159,18 +2324,22 @@
       </trans-unit>
       <trans-unit id="Search matches %@" xml:space="preserve">
         <source>Search matches %@</source>
+        <target>Nach Übereinstimmungen mit %@ suchen</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Searching..." xml:space="preserve">
         <source>Searching...</source>
+        <target>Suche läuft...</target>
         <note>Custom Study Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Second Column (1-&gt;9)" xml:space="preserve">
         <source>Second Column (1-&gt;9)</source>
+        <target>Zweite Spalte (1-&gt;9)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Second Column (9-&gt;1)" xml:space="preserve">
         <source>Second Column (9-&gt;1)</source>
+        <target>Zweite Spalte (9-&gt;1)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Select" xml:space="preserve">
@@ -2180,18 +2349,22 @@
       </trans-unit>
       <trans-unit id="Select All" xml:space="preserve">
         <source>Select All</source>
+        <target>Alles auswählen</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Select Deck" xml:space="preserve">
         <source>Select Deck</source>
+        <target>Stapel auswählen</target>
         <note>Actions Manager, Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Select Note Type" xml:space="preserve">
         <source>Select Note Type</source>
+        <target>Notiztyp auswählen</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Set Due Date" xml:space="preserve">
         <source>Set Due Date</source>
+        <target>Fälligkeitsdatum auswählen</target>
         <note>Actions, Edit Screen, Search Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Shake Action" xml:space="preserve">
@@ -2200,10 +2373,12 @@
       </trans-unit>
       <trans-unit id="Shared Deck List" xml:space="preserve">
         <source>Shared Deck List</source>
+        <target>Geteilte Stapellisten</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Short" xml:space="preserve">
         <source>Short</source>
+        <target>Kurz</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Answer" xml:space="preserve">
@@ -2217,10 +2392,12 @@
       </trans-unit>
       <trans-unit id="Show Bottom Bar" xml:space="preserve">
         <source>Show Bottom Bar</source>
+        <target>Unteren Balkan anzeigen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Grid" xml:space="preserve">
         <source>Show Grid</source>
+        <target>Gitter anzeigen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Reminder" xml:space="preserve">
@@ -2229,6 +2406,7 @@
       </trans-unit>
       <trans-unit id="Show Top Bar" xml:space="preserve">
         <source>Show Top Bar</source>
+        <target>Oberen Balken anzeigen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show/Good" xml:space="preserve">
@@ -2241,6 +2419,7 @@
       </trans-unit>
       <trans-unit id="Small" xml:space="preserve">
         <source>Small</source>
+        <target>Klein</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Sort Field" xml:space="preserve">
@@ -2250,10 +2429,12 @@
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
         <source>Sort Order</source>
+        <target>Sortierreihenfolge</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Sort: " xml:space="preserve">
         <source>Sort: </source>
+        <target>Sortieren</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2263,6 +2444,7 @@
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
         <source>Steps</source>
+        <target>Lernstufen</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps (in minutes)" xml:space="preserve">
@@ -2282,10 +2464,12 @@
       </trans-unit>
       <trans-unit id="Study Options" xml:space="preserve">
         <source>Study Options</source>
+        <target>Lernoptionen</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Study Type" xml:space="preserve">
         <source>Study Type</source>
+        <target>Lerntyp</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Styling" xml:space="preserve">
@@ -2376,10 +2560,12 @@
       </trans-unit>
       <trans-unit id="Tag: " xml:space="preserve">
         <source>Tag: </source>
+        <target>Schlagwort:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
         <source>Tags</source>
+        <target>Schlagwörter:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
@@ -2392,10 +2578,12 @@
       </trans-unit>
       <trans-unit id="Template" xml:space="preserve">
         <source>Template</source>
+        <target>Vorlage</target>
         <note>Short version of 'Card Template'; Actions</note>
       </trans-unit>
       <trans-unit id="Text" xml:space="preserve">
         <source>Text</source>
+        <target>Text</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
@@ -2491,6 +2679,7 @@
       </trans-unit>
       <trans-unit id="Top Bar" xml:space="preserve">
         <source>Top Bar</source>
+        <target>Oberer Balken</target>
         <note>Actions, Preferences</note>
       </trans-unit>
       <trans-unit id="Top Center" xml:space="preserve">
