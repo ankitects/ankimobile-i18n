@@ -1455,7 +1455,7 @@
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
         <source>Interrupt Current Audio</source>
-        <target>test</target>
+        <target>再生中の音声を中断する</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -2440,6 +2440,7 @@
       </trans-unit>
       <trans-unit id="Show Grid" xml:space="preserve">
         <source>Show Grid</source>
+        <target>グリッドを表示</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Reminder" xml:space="preserve">
