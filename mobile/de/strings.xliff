@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>The microphone will only be used when you tap the record button.</source>
-        <target>Das Mikrofon wird nur angeschaltet wenn der Aufnamebutton gedrückt wird.</target>
+        <target>Das Mikrofon wird nur angeschaltet wenn der Aufnahmebutton gedrückt wird.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
@@ -379,17 +379,17 @@
       </trans-unit>
       <trans-unit id="Authenticating..." xml:space="preserve">
         <source>Authenticating...</source>
-        <target>Es wird authentifziert...</target>
+        <target>Authentifizierung läuft...</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
         <source>Authentication failed. Please try again.</source>
-        <target>Authentifzierung fehlgeschlagen. Bitte versuchen Sie es erneut.</target>
+        <target>Authentifizierung fehlgeschlagen. Bitte versuchen Sie es erneut.</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
-        <target>Autom. Erw.</target>
+        <target>Autom. Forts.</target>
         <note>Short version of 'Auto Advance'; Actions</note>
       </trans-unit>
       <trans-unit id="Auto Advance" xml:space="preserve">
@@ -964,7 +964,7 @@
       </trans-unit>
       <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
         <source>Delays until reviews are shown again.</source>
-        <target>Zeitverzögerungen bis zu wiederholende Karten angezeigt werden.</target>
+        <target>Zeitverzögerungen bis die zu wiederholende Karten angezeigt werden.</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -1154,7 +1154,7 @@
       </trans-unit>
       <trans-unit id="Exporting..." xml:space="preserve">
         <source>Exporting...</source>
-        <target>Es wird exportiert...</target>
+        <target>Export wird durchgeführt...</target>
         <note>App Delegate</note>
       </trans-unit>
       <trans-unit id="Extra" xml:space="preserve">
@@ -1319,12 +1319,12 @@
       </trans-unit>
       <trans-unit id="Full Sync" xml:space="preserve">
         <source>Full Sync</source>
-        <target>Vollständige Synchronisierung</target>
+        <target>Vollständige Synchronisation</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Full Sync Required" xml:space="preserve">
         <source>Full Sync Required</source>
-        <target>Vollständige Synchronisierung erforderlich</target>
+        <target>Vollständige Synchronisation erforderlich</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Gamepads" xml:space="preserve">
