@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
+  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
     </header>
@@ -47,7 +47,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
+  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
     </header>
@@ -1029,6 +1029,7 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
+        <target>连按预防</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
@@ -1452,6 +1453,7 @@
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
         <source>Interrupt Current Audio</source>
+        <target>停止当前音频</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
