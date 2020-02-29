@@ -403,6 +403,7 @@
       </trans-unit>
       <trans-unit id="Auto advance stopped" xml:space="preserve">
         <source>Auto advance stopped</source>
+        <target>Autoavanzar parado</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Automatically play audio" xml:space="preserve">
@@ -452,6 +453,7 @@
       </trans-unit>
       <trans-unit id="Backup failed: %@" xml:space="preserve">
         <source>Backup failed: %@</source>
+        <target>Copia de seguridad fallida: %@</target>
         <note>App Delegate</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
@@ -496,6 +498,7 @@
       </trans-unit>
       <trans-unit id="Bot.B" xml:space="preserve">
         <source>Bot.B</source>
+        <target>Inf.B</target>
         <note>Short version of 'Bottom Bar'; Actions</note>
       </trans-unit>
       <trans-unit id="Bottom Bar" xml:space="preserve">
@@ -505,18 +508,22 @@
       </trans-unit>
       <trans-unit id="Bottom Bar Size" xml:space="preserve">
         <source>Bottom Bar Size</source>
+        <target>Tamaño de la barra inferior</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Center" xml:space="preserve">
         <source>Bottom Center</source>
+        <target>Parte Inferior Central</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
         <source>Bottom Left</source>
+        <target>Parte Inferior Izquierda</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Right" xml:space="preserve">
         <source>Bottom Right</source>
+        <target>Parte Inferior Derecha</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Browse" xml:space="preserve">
@@ -531,6 +538,7 @@
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
+        <target>Enterradas+Suspendidas</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
@@ -545,14 +553,17 @@
       </trans-unit>
       <trans-unit id="Bury related new cards" xml:space="preserve">
         <source>Bury related new cards</source>
+        <target>Enterrar nuevas targetas relacionadas</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury related reviews" xml:space="preserve">
         <source>Bury related reviews</source>
+        <target>Enterrar repasos relacionados</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury.C" xml:space="preserve">
         <source>Bury.C</source>
+        <target>Enterr.C</target>
         <note>Short version of 'Bury Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Bury.N" xml:space="preserve">
@@ -647,6 +658,7 @@
       </trans-unit>
       <trans-unit id="Card returned to new card queue." xml:space="preserve">
         <source>Card returned to new card queue.</source>
+        <target>La tarjeta regresó a la cola de tarjetas nuevas.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card suspended" xml:space="preserve">
@@ -853,6 +865,7 @@
       </trans-unit>
       <trans-unit id="D.Stats" xml:space="preserve">
         <source>D.Stats</source>
+        <target>M.Estad</target>
         <note>Short version of 'Deck Statistics'; Actions</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
@@ -882,6 +895,7 @@
       </trans-unit>
       <trans-unit id="Days to look ahead" xml:space="preserve">
         <source>Days to look ahead</source>
+        <target>Días para mirar hacia adelante</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Days to look back" xml:space="preserve">
@@ -1046,6 +1060,7 @@
       </trans-unit>
       <trans-unit id="Drawing Screen Ignores Fingers" xml:space="preserve">
         <source>Drawing Screen Ignores Fingers</source>
+        <target>La pantalla de dibujo ignora los dedos</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Due" xml:space="preserve">
@@ -1055,10 +1070,12 @@
       </trans-unit>
       <trans-unit id="Due Date/Order" xml:space="preserve">
         <source>Due Date/Order</source>
+        <target>Fecha de Vencimiento/Orden</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Due Reviews" xml:space="preserve">
         <source>Due Reviews</source>
+        <target>Repasos vencidos</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Due tomorrow" xml:space="preserve">
@@ -1153,6 +1170,7 @@
       </trans-unit>
       <trans-unit id="Feedback Ticks" xml:space="preserve">
         <source>Feedback Ticks</source>
+        <target>Cuadro de comentarios</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Fields" xml:space="preserve">
@@ -1172,6 +1190,7 @@
       </trans-unit>
       <trans-unit id="Filter/Cram" xml:space="preserve">
         <source>Filter/Cram</source>
+        <target>Filtrar/Empollar</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Filtered Deck" xml:space="preserve">
@@ -1543,6 +1562,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Left Shoulder" xml:space="preserve">
         <source>Left Shoulder</source>
+        <target>Gatillo Izquierdo</target>
         <note>gamepad; Preferences</note>
       </trans-unit>
       <trans-unit id="Left Thumbstick Button" xml:space="preserve">
@@ -1602,6 +1622,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Long press on an item to customize." xml:space="preserve">
         <source>Long press on an item to customize.</source>
+        <target>Mantenga presionado un elemento para personalizarlo.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Longest interval" xml:space="preserve">
@@ -1751,6 +1772,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="New/Review Order" xml:space="preserve">
         <source>New/Review Order</source>
+        <target>Orden Nuevo/Repaso</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Next Cloze" xml:space="preserve">
@@ -1954,6 +1976,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Pen Size" xml:space="preserve">
         <source>Pen Size</source>
+        <target>Tamaño del lápiz</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Percentage" xml:space="preserve">
@@ -2177,6 +2200,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Reset.C" xml:space="preserve">
         <source>Reset.C</source>
+        <target>Reset.T</target>
         <note>Short version of 'Reset Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
@@ -2254,6 +2278,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Right Shoulder" xml:space="preserve">
         <source>Right Shoulder</source>
+        <target>Gatillo Derecho</target>
         <note>gamepad; Preferences</note>
       </trans-unit>
       <trans-unit id="Right Thumbstick Button" xml:space="preserve">
@@ -2700,18 +2725,22 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Top Bar" xml:space="preserve">
         <source>Top Bar</source>
+        <target>Barra Superior</target>
         <note>Actions, Preferences</note>
       </trans-unit>
       <trans-unit id="Top Center" xml:space="preserve">
         <source>Top Center</source>
+        <target>Parte Superior Central</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Top Left" xml:space="preserve">
         <source>Top Left</source>
+        <target>Parte Superior Izquierda</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Top Right" xml:space="preserve">
         <source>Top Right</source>
+        <target>Parte Superior Derecha</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
@@ -2739,6 +2768,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="UBury" xml:space="preserve">
         <source>UBury</source>
+        <target>Des M</target>
         <note>Short version of 'Unbury Deck'; Actions</note>
       </trans-unit>
       <trans-unit id="Unable to obtain image" xml:space="preserve">
@@ -2778,6 +2808,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Undo Clears All" xml:space="preserve">
         <source>Undo Clears All</source>
+        <target>Deshacer lo borra todo</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Unexpected file extension: " xml:space="preserve">
@@ -2795,6 +2826,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
         <source>Unmarked</source>
+        <target>Sin marcas</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Unseen" xml:space="preserve">
@@ -2953,10 +2985,12 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
+        <target>Eliminar este grupo de opciones evitará que cualquier cambio se fusione desde otros dispositivos en la próxima sincronización. ¿Continuar?</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="error-playing-audio-full" xml:space="preserve">
         <source>Error playing audio. This can be caused by a corrupt file, a file iOS does not support (eg .ogg), or an mp3 file incorrectly named .wav</source>
+        <target>Error al reproducir audio. Esto puede ser causado por un archivo dañado, un archivo que iOS no admite (por ejemplo, .ogg) o un archivo mp3 nombrado incorrectamente .wav</target>
         <note>Audio Manager</note>
       </trans-unit>
       <trans-unit id="filter-cram-short-version" xml:space="preserve">
@@ -3027,10 +3061,12 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
+        <target>Hay más tarjetas nuevas disponibles, pero se ha alcanzado el límite diario. Puede aumentar el límite en las opciones, pero tenga en cuenta que cuantas más tarjetas nuevas introduzca, mayor será su carga de trabajo de revisión a corto plazo.</target>
         <note>Scheduler, Scheduler V2</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
         <source>Night mode darkens the interface, and displays cards as white on black.</source>
+        <target>El modo nocturno oscurece la interfaz y muestra las tarjetas en blanco sobre negro.</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="night-mode-same-as-system" xml:space="preserve">
@@ -3089,6 +3125,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="revert-to-backup-confirm" xml:space="preserve">
         <source>Revert to %@? Any changes made since the backup will be lost.</source>
+        <target>Volver a %@? Cualquier cambio realizado desde la copia de seguridad se perderá.</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="review-limit-reached" xml:space="preserve">
@@ -3108,14 +3145,17 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="sync-conflict-msg" xml:space="preserve">
         <source>Your decks here and on AnkiWeb differ in such a way that they can't be merged together, so it's necessary to overwrite the decks on one side with the decks from the other. Do you want to upload the decks from here, or download the decks from AnkiWeb?</source>
+        <target>Sus mazos aquí y en AnkiWeb difieren de tal manera que no se pueden fusionar, por lo que es necesario sobrescribir los mazos de un lado con los mazos del otro. ¿Quiere subir los mazos desde aquí o descargar los mazos desde AnkiWeb?</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="sync-inconsistent" xml:space="preserve">
         <source>Your collection is in an inconsistent state. Please use the Check Database function, then try again.</source>
+        <target>Su colección está en un estado inconsistente. Utilice la función Verificar base de datos, luego intente nuevamente.</target>
         <note>Syncer, Syncer</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
         <source>To activate syncing, tap the synchronize button on the deck list screen.</source>
+        <target>Para activar la sincronización, toque el botón de sincronización en la pantalla principal.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="thanks-contributors" xml:space="preserve">
