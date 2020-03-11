@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
+  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
     </header>
@@ -47,7 +47,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
+  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
     </header>
@@ -75,7 +75,7 @@
       <trans-unit id="(end)" xml:space="preserve">
         <source>(end)</source>
         <target>(完成)</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="(filtered)" xml:space="preserve">
         <source>(filtered)</source>
@@ -455,7 +455,7 @@
       <trans-unit id="Backup failed: %@" xml:space="preserve">
         <source>Backup failed: %@</source>
         <target>备份失败：%@</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
@@ -595,7 +595,7 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>取消</target>
-        <note>App Delegate, Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+        <note>Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
@@ -675,7 +675,7 @@
       <trans-unit id="Card was a leech." xml:space="preserve">
         <source>Card was a leech.</source>
         <target>此卡片为记忆难点卡片。</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Cards" xml:space="preserve">
         <source>Cards</source>
@@ -740,7 +740,7 @@
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
         <target>卡组集合已保存至iTunes。</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Column 1" xml:space="preserve">
         <source>Column 1</source>
@@ -765,7 +765,7 @@
       <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
         <source>Congratulations! You have finished this deck for now.</source>
         <target>恭喜！您已经完成了目前的学习任务。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="Connecting..." xml:space="preserve">
         <source>Connecting...</source>
@@ -805,7 +805,7 @@
       <trans-unit id="Creating Backup..." xml:space="preserve">
         <source>Creating Backup...</source>
         <target>正在创建备份...</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Cumulative" xml:space="preserve">
         <source>Cumulative</source>
@@ -855,7 +855,7 @@
       <trans-unit id="Custom Study" xml:space="preserve">
         <source>Custom Study</source>
         <target>自定义学习</target>
-        <note>Actions, Custom Study Screen, Scheduler, Scheduler V2</note>
+        <note>Actions, Custom Study Screen, Scheduler</note>
       </trans-unit>
       <trans-unit id="Custom Study Session" xml:space="preserve">
         <source>Custom Study Session</source>
@@ -1029,7 +1029,6 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
-        <target>连按预防</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
@@ -1154,7 +1153,7 @@
       <trans-unit id="Exporting..." xml:space="preserve">
         <source>Exporting...</source>
         <target>正在导出...</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Extra" xml:space="preserve">
         <source>Extra</source>
@@ -1219,7 +1218,7 @@
       <trans-unit id="Finishing Backup..." xml:space="preserve">
         <source>Finishing Backup...</source>
         <target>正在完成备份...</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="First Review" xml:space="preserve">
         <source>First Review</source>
@@ -1453,7 +1452,6 @@
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
         <source>Interrupt Current Audio</source>
-        <target>停止当前音频</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -1830,11 +1828,6 @@
         <target>目前没有卡片。</target>
         <note>Actions Manager, Utils</note>
       </trans-unit>
-      <trans-unit id="No link was found in the clipboard." xml:space="preserve">
-        <source>No link was found in the clipboard.</source>
-        <target>在剪贴板中找不到链接。</target>
-        <note>Download Manager</note>
-      </trans-unit>
       <trans-unit id="No mature cards were studied today." xml:space="preserve">
         <source>No mature cards were studied today.</source>
         <target>今天没有学习熟悉的卡片。</target>
@@ -1913,7 +1906,7 @@
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
         <target>确定</target>
-        <note>App Delegate, Deck Options, Decks Screen, Sync Screen, Utils</note>
+        <note>Deck Options, Decks Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
@@ -2023,7 +2016,7 @@
       <trans-unit id="Please tap the '?' in the top left to get started." xml:space="preserve">
         <source>Please tap the '?' in the top left to get started.</source>
         <target>请点击左上角的 ? 以开始。</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Please wait a few minutes, and try again." xml:space="preserve">
         <source>Please wait a few minutes, and try again.</source>
@@ -2063,7 +2056,7 @@
       <trans-unit id="Processing..." xml:space="preserve">
         <source>Processing...</source>
         <target>处理中...</target>
-        <note>Actions Manager, App Delegate, Profiles Screen</note>
+        <note>Actions Manager, Profiles Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
@@ -2783,11 +2776,6 @@
         <target>笔记总数</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="Type answer: unknown field %@" xml:space="preserve">
-        <source>Type answer: unknown field %@</source>
-        <target>输入答案：未知字段 %@</target>
-        <note>Study Screen</note>
-      </trans-unit>
       <trans-unit id="Type in the answer" xml:space="preserve">
         <source>Type in the answer</source>
         <target>输入答案</target>
@@ -2911,7 +2899,7 @@
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
         <target>欢迎！</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="When answer shown" xml:space="preserve">
         <source>When answer shown</source>
@@ -2981,7 +2969,7 @@
       <trans-unit id="buried-cards-msg" xml:space="preserve">
         <source>Some related or buried cards were delayed. They will be shown in a future study session, or you can %@</source>
         <target>有一些同源的或已延期的卡片被推迟显示。它们会出现在在后续的学习中，或您可以直接 %@</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
         <source>The front of this card is blank.</source>
@@ -3010,7 +2998,7 @@
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
         <target>想进行常规计划之外的学习，你可以使用 %@</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
@@ -3094,7 +3082,7 @@
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
         <target>卡组中还有新卡片可供学习，但现已达到该卡组的每日学习上限。您可以在“学习选项”中更改每日学习上限，但请注意，您学习的新卡片越多，短期的复习量就会越大。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
         <source>Night mode darkens the interface, and displays cards as white on black.</source>
@@ -3114,7 +3102,7 @@
       <trans-unit id="no-load-restore-backup" xml:space="preserve">
         <source>Your collection couldn't be loaded. Please restore from an automatic backup via the preferences screen.</source>
         <target>无法加载您的卡组集合。请访问 偏好设置-&gt;备份 以恢复数据。</target>
-        <note>Profile Manager</note>
+        <note>Profiles Screen, Utils</note>
       </trans-unit>
       <trans-unit id="no-tags" xml:space="preserve">
         <source>none</source>
@@ -3164,12 +3152,16 @@
       <trans-unit id="review-limit-reached" xml:space="preserve">
         <source>Today's review limit has been reached, but there are still cards waiting to be reviewed. For optimum memory, consider increasing the daily limit in the options.</source>
         <target>已达到今日复习上限，但仍有到期卡片待您复习。为使记忆最佳化，请考虑在选项中上调限额。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="reviews" xml:space="preserve">
         <source>reviews</source>
         <target>次答题</target>
         <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
+        <source>Please go the iOS Settings app, locate the Anki section, and enable notifications.</source>
+        <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
         <source>some third-party libraries</source>
@@ -3214,7 +3206,7 @@
       <trans-unit id="unbury cards now" xml:space="preserve">
         <source>unbury cards now</source>
         <target>立刻取消延期</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
         <source>Cards will be returned to their original deck as you answer them. </source>

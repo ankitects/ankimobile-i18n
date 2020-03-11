@@ -75,7 +75,7 @@
       <trans-unit id="(end)" xml:space="preserve">
         <source>(end)</source>
         <target>(終了)</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="(filtered)" xml:space="preserve">
         <source>(filtered)</source>
@@ -455,7 +455,7 @@
       <trans-unit id="Backup failed: %@" xml:space="preserve">
         <source>Backup failed: %@</source>
         <target>バックアップに失敗しました：%@</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
@@ -595,7 +595,7 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>キャンセル</target>
-        <note>App Delegate, Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+        <note>Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
@@ -675,7 +675,7 @@
       <trans-unit id="Card was a leech." xml:space="preserve">
         <source>Card was a leech.</source>
         <target>このカードは定着困難です。</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Cards" xml:space="preserve">
         <source>Cards</source>
@@ -740,7 +740,7 @@
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
         <target>コレクションをiTunesに保存しました。</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Column 1" xml:space="preserve">
         <source>Column 1</source>
@@ -766,7 +766,7 @@
         <source>Congratulations! You have finished this deck for now.</source>
         <target>おつかれさまでした！このデッキの課題はすべてやり遂げました！
 </target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="Connecting..." xml:space="preserve">
         <source>Connecting...</source>
@@ -806,7 +806,7 @@
       <trans-unit id="Creating Backup..." xml:space="preserve">
         <source>Creating Backup...</source>
         <target>バックアップを作成中…</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Cumulative" xml:space="preserve">
         <source>Cumulative</source>
@@ -856,7 +856,7 @@
       <trans-unit id="Custom Study" xml:space="preserve">
         <source>Custom Study</source>
         <target>カスタム学習</target>
-        <note>Actions, Custom Study Screen, Scheduler, Scheduler V2</note>
+        <note>Actions, Custom Study Screen, Scheduler</note>
       </trans-unit>
       <trans-unit id="Custom Study Session" xml:space="preserve">
         <source>Custom Study Session</source>
@@ -1156,7 +1156,7 @@
       <trans-unit id="Exporting..." xml:space="preserve">
         <source>Exporting...</source>
         <target>エクスポートしています...</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Extra" xml:space="preserve">
         <source>Extra</source>
@@ -1221,7 +1221,7 @@
       <trans-unit id="Finishing Backup..." xml:space="preserve">
         <source>Finishing Backup...</source>
         <target>バックアップを終了中...</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="First Review" xml:space="preserve">
         <source>First Review</source>
@@ -1833,11 +1833,6 @@
         <target>カードがありません。</target>
         <note>Actions Manager, Utils</note>
       </trans-unit>
-      <trans-unit id="No link was found in the clipboard." xml:space="preserve">
-        <source>No link was found in the clipboard.</source>
-        <target>クリップボードにリンクがありません。</target>
-        <note>Download Manager</note>
-      </trans-unit>
       <trans-unit id="No mature cards were studied today." xml:space="preserve">
         <source>No mature cards were studied today.</source>
         <target>今日は定着済カードの復習をしていません。</target>
@@ -1916,7 +1911,7 @@
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
         <target>OK</target>
-        <note>App Delegate, Deck Options, Decks Screen, Sync Screen, Utils</note>
+        <note>Deck Options, Decks Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
@@ -2026,7 +2021,7 @@
       <trans-unit id="Please tap the '?' in the top left to get started." xml:space="preserve">
         <source>Please tap the '?' in the top left to get started.</source>
         <target>左上の？アイコンをタップするとAnkiMobileのウェブサイトを開きます。</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="Please wait a few minutes, and try again." xml:space="preserve">
         <source>Please wait a few minutes, and try again.</source>
@@ -2066,7 +2061,7 @@
       <trans-unit id="Processing..." xml:space="preserve">
         <source>Processing...</source>
         <target>処理中...</target>
-        <note>Actions Manager, App Delegate, Profiles Screen</note>
+        <note>Actions Manager, Profiles Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
@@ -2788,11 +2783,6 @@
         <target>ノートの合計数</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="Type answer: unknown field %@" xml:space="preserve">
-        <source>Type answer: unknown field %@</source>
-        <target>答えを入力：不明なフィールド%@</target>
-        <note>Study Screen</note>
-      </trans-unit>
       <trans-unit id="Type in the answer" xml:space="preserve">
         <source>Type in the answer</source>
         <target>答えを入力してください</target>
@@ -2916,7 +2906,7 @@
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
         <target>ようこそ！</target>
-        <note>App Delegate</note>
+        <note>Utils</note>
       </trans-unit>
       <trans-unit id="When answer shown" xml:space="preserve">
         <source>When answer shown</source>
@@ -2986,7 +2976,7 @@
       <trans-unit id="buried-cards-msg" xml:space="preserve">
         <source>Some related or buried cards were delayed. They will be shown in a future study session, or you can %@</source>
         <target>いくつかの関連するカードと延期カードを後に遅らせました。これらのカードは今後の学習セッションで再び表示されます。あるいは、%@することもできます。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
         <source>The front of this card is blank.</source>
@@ -3016,7 +3006,7 @@
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
         <target>%@を使用することで、通常のスケジュールの外で学習することができます。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
@@ -3101,7 +3091,7 @@
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
         <target>まだ新規カードは残っていますが、設定した一日の上限に達しました。学習設定より上限を変更することも可能ですが、それにより短期的に一日の復習量が増え、しばらくの間、通常よりも学習負荷がかかりますのでご注意ください。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
         <source>Night mode darkens the interface, and displays cards as white on black.</source>
@@ -3121,7 +3111,7 @@
       <trans-unit id="no-load-restore-backup" xml:space="preserve">
         <source>Your collection couldn't be loaded. Please restore from an automatic backup via the preferences screen.</source>
         <target>コレクションを読み込めませんでした。「設定」→「バックアップ」より、コレクションを復元してください。</target>
-        <note>Profile Manager</note>
+        <note>Profiles Screen, Utils</note>
       </trans-unit>
       <trans-unit id="no-tags" xml:space="preserve">
         <source>none</source>
@@ -3171,12 +3161,16 @@
       <trans-unit id="review-limit-reached" xml:space="preserve">
         <source>Today's review limit has been reached, but there are still cards waiting to be reviewed. For optimum memory, consider increasing the daily limit in the options.</source>
         <target>まだ学習できるカードは残っていますが、設定した本日分の上限に達しました。右下「アクション」アイコン→「学習設定」で復習カードの上限を変更し、よりご自身に合う学習をカストマイズすることも可能です。</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="reviews" xml:space="preserve">
         <source>reviews</source>
         <target>枚</target>
         <note>Collection Stats</note>
+      </trans-unit>
+      <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
+        <source>Please go the iOS Settings app, locate the Anki section, and enable notifications.</source>
+        <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
         <source>some third-party libraries</source>
@@ -3221,7 +3215,7 @@
       <trans-unit id="unbury cards now" xml:space="preserve">
         <source>unbury cards now</source>
         <target>カードの延期を解除</target>
-        <note>Scheduler, Scheduler V2</note>
+        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
         <source>Cards will be returned to their original deck as you answer them. </source>
