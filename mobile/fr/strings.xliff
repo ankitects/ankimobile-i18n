@@ -707,11 +707,6 @@
         <target>Vérifier la base de données</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Check Media" xml:space="preserve">
-        <source>Check Media</source>
-        <target>Vérifier les médias</target>
-        <note>Check Media Screen, Preferences</note>
-      </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
         <target>Vérification...</target>
@@ -982,11 +977,6 @@
         <target>Supprimer les notes</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Delete Unused" xml:space="preserve">
-        <source>Delete Unused</source>
-        <target>Supprimer les médias inutilisés</target>
-        <note>Check Media Screen</note>
-      </trans-unit>
       <trans-unit id="Delete imported file?" xml:space="preserve">
         <source>Delete imported file?</source>
         <target>Supprimer le fichier importé?</target>
@@ -996,11 +986,6 @@
         <source>Delete note and its cards?</source>
         <target>Supprimer la note et ses cartes?</target>
         <note>Actions Manager</note>
-      </trans-unit>
-      <trans-unit id="Deleting..." xml:space="preserve">
-        <source>Deleting...</source>
-        <target>Suppression...</target>
-        <note>Check Media Screen</note>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
         <source>Discard Changes</source>
@@ -2861,11 +2846,6 @@
         <source>Unsuspend Note</source>
         <target>Enlever la suspension de la note</target>
         <note>Edit Screen</note>
-      </trans-unit>
-      <trans-unit id="Unused files removed." xml:space="preserve">
-        <source>Unused files removed.</source>
-        <target>Fichiers inutilisés supprimés.</target>
-        <note>Check Media Screen</note>
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>

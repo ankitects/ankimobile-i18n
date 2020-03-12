@@ -601,10 +601,6 @@
         <source>Check Database</source>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Check Media" xml:space="preserve">
-        <source>Check Media</source>
-        <note>Check Media Screen, Preferences</note>
-      </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
         <target>檢查中...</target>
@@ -841,10 +837,6 @@
         <target>刪除筆記</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Delete Unused" xml:space="preserve">
-        <source>Delete Unused</source>
-        <note>Check Media Screen</note>
-      </trans-unit>
       <trans-unit id="Delete imported file?" xml:space="preserve">
         <source>Delete imported file?</source>
         <note>Utils</note>
@@ -852,10 +844,6 @@
       <trans-unit id="Delete note and its cards?" xml:space="preserve">
         <source>Delete note and its cards?</source>
         <note>Actions Manager</note>
-      </trans-unit>
-      <trans-unit id="Deleting..." xml:space="preserve">
-        <source>Deleting...</source>
-        <note>Check Media Screen</note>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
         <source>Discard Changes</source>
@@ -2460,10 +2448,6 @@
       <trans-unit id="Unsuspend Note" xml:space="preserve">
         <source>Unsuspend Note</source>
         <note>Edit Screen</note>
-      </trans-unit>
-      <trans-unit id="Unused files removed." xml:space="preserve">
-        <source>Unused files removed.</source>
-        <note>Check Media Screen</note>
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>
