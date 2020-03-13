@@ -3152,6 +3152,7 @@ rozważ zwiększenie dziennego limitu w opcjach.</target>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications.</source>
+        <target>Przejdź do ustawień systemu iOS, znajdź sekcję Anki i włącz powiadomienia.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
