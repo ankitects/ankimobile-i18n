@@ -2040,7 +2040,7 @@
       </trans-unit>
       <trans-unit id="Processed media files: %d..." xml:space="preserve">
         <source>Processed media files: %d...</source>
-        <target>メディアファイルを処理中：</target>
+        <target>メディアファイルを処理中：%d...</target>
         <note>Anki Package Importer</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
