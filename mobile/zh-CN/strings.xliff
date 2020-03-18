@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
+  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
     </header>
@@ -47,7 +47,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
+  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
     </header>
@@ -1014,6 +1014,7 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
+        <target>防止双击</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
@@ -1048,6 +1049,7 @@
       </trans-unit>
       <trans-unit id="Drawing Screen Ignores Fingers" xml:space="preserve">
         <source>Drawing Screen Ignores Fingers</source>
+        <target>绘图界面忽略手指</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Due" xml:space="preserve">
@@ -1437,6 +1439,7 @@
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
         <source>Interrupt Current Audio</source>
+        <target>中断当前音频</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -1766,6 +1769,7 @@
       </trans-unit>
       <trans-unit id="Next Field" xml:space="preserve">
         <source>Next Field</source>
+        <target>下一字段</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Next Times" xml:space="preserve">
@@ -2330,6 +2334,7 @@
       </trans-unit>
       <trans-unit id="Scratchpad Transparency" xml:space="preserve">
         <source>Scratchpad Transparency</source>
+        <target>涂鸦板透明度</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -2414,6 +2419,7 @@
       </trans-unit>
       <trans-unit id="Show Grid" xml:space="preserve">
         <source>Show Grid</source>
+        <target>显示网格</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Reminder" xml:space="preserve">
@@ -2953,6 +2959,7 @@
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
         <source>The front of this card is blank.</source>
+        <target>此卡片正面为空白。</target>
         <note>Template</note>
       </trans-unit>
       <trans-unit id="check-clock" xml:space="preserve">
@@ -3057,6 +3064,7 @@
       </trans-unit>
       <trans-unit id="more-info" xml:space="preserve">
         <source>More info</source>
+        <target>更多信息</target>
         <note>Template</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
@@ -3141,6 +3149,7 @@
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications.</source>
+        <target>请到iOS设置中，找到Anki，然后启用通知。</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
