@@ -165,7 +165,7 @@
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
         <target>Actions</target>
-        <note>Search Screen</note>
+        <note>Check Media Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
@@ -530,7 +530,7 @@
       <trans-unit id="Browse" xml:space="preserve">
         <source>Browse</source>
         <target>Parcourir</target>
-        <note>Actions, Search Screen</note>
+        <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Build" xml:space="preserve">
         <source>Build</source>
@@ -595,7 +595,7 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Annuler</target>
-        <note>Audio Manager, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
@@ -630,7 +630,7 @@
       <trans-unit id="Card Template" xml:space="preserve">
         <source>Card Template</source>
         <target>Modèle de carte</target>
-        <note>Actions, Card Template</note>
+        <note>Actions, Card Template, Search Screen</note>
       </trans-unit>
       <trans-unit id="Card Type" xml:space="preserve">
         <source>Card Type</source>
@@ -1832,7 +1832,7 @@
       <trans-unit id="Note Type" xml:space="preserve">
         <source>Note Type</source>
         <target>Type de note</target>
-        <note>Card Stats</note>
+        <note>Card Stats, Search Screen</note>
       </trans-unit>
       <trans-unit id="Note Updated" xml:space="preserve">
         <source>Note Updated</source>
@@ -2600,7 +2600,7 @@
       <trans-unit id="Tags" xml:space="preserve">
         <source>Tags</source>
         <target>Tags</target>
-        <note>Edit Screen</note>
+        <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
         <source>Tap synchronize when you're ready to proceed.</source>
