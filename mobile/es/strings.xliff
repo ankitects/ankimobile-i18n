@@ -3151,6 +3151,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications.</source>
+        <target>Vaya a la aplicación Configuración de iOS, busque la sección Anki y habilite las notificaciones.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
