@@ -3109,7 +3109,7 @@
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
         <source>Overwrite entire collection with imported file? This action can not be undone.</source>
-        <target>すべてのコレクションをインポートファイルで上書きしますか。このアクションを元に戻すことはできません。</target>
+        <target>コレクション全体をインポートファイルで上書きしますか？このアクションを元に戻すことはできません。</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="part-of-whole" xml:space="preserve">
