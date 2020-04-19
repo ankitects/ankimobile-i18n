@@ -3054,7 +3054,7 @@
       </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
-        <target>AnkiMobile jest zbudowane przy użyciu %@, hojnie udostępnianych przez społeczność deweloperów iOS.</target>
+        <target>AnkiMobile jest zbudowane przy użyciu %@, hojnie udostępnianych przez społeczność deweloperów.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="minutes" xml:space="preserve">
