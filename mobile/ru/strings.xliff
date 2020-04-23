@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This allows Anki to insert the images you capture onto your cards.</source>
-        <target>Это позволит Anki вставлять захваченные изображения в карточки.</target>
+        <target>Это позволит Anki вставлять изображения в карточки.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
-        <target>Добавить/экспортировать</target>
+        <target>Добавить/экспорт.</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
@@ -389,22 +389,22 @@
       </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
-        <target>Автопрод.</target>
+        <target>Автопросм.</target>
         <note>Short version of 'Auto Advance'; Actions</note>
       </trans-unit>
       <trans-unit id="Auto Advance" xml:space="preserve">
         <source>Auto Advance</source>
-        <target>Автопродвижение</target>
+        <target>Автопросмотр</target>
         <note>Actions, Auto Advance Options, Preferences</note>
       </trans-unit>
       <trans-unit id="Auto advance starting" xml:space="preserve">
         <source>Auto advance starting</source>
-        <target>Начало автопродвижения</target>
+        <target>Начало автопросмотра</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Auto advance stopped" xml:space="preserve">
         <source>Auto advance stopped</source>
-        <target>Окончание автопродвижения</target>
+        <target>Окончание автопросмотра</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Automatically play audio" xml:space="preserve">
@@ -2949,7 +2949,7 @@
       </trans-unit>
       <trans-unit id="auto-advance-to-start" xml:space="preserve">
         <source>To start automatically advancing, use the 'Auto Advance' action.</source>
-        <target>Для автоматического просмотра карточек используйте 'Автопродвижение'.</target>
+        <target>Для автоматического просмотра карточек используйте 'Автопросмотр'.</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="buried-cards-msg" xml:space="preserve">
