@@ -22,7 +22,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>The "Add to Photos" action requires your permission.</source>
-        <target>Действие "Добавить в фото" требует вашего согласия.</target>
+        <target>Действие «Добавить в фото» требует вашего согласия.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
-        <target>Всё</target>
+        <target>Все</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="Answer Again" xml:space="preserve">
         <source>Answer Again</source>
-        <target>Ответить "снова"</target>
+        <target>Ответить «снова»</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Buttons" xml:space="preserve">
@@ -304,17 +304,17 @@
       </trans-unit>
       <trans-unit id="Answer Easy" xml:space="preserve">
         <source>Answer Easy</source>
-        <target>Ответить "легко"</target>
+        <target>Ответить «легко»</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Good" xml:space="preserve">
         <source>Answer Good</source>
-        <target>Ответить "хорошо"</target>
+        <target>Ответить «хорошо»</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Hard" xml:space="preserve">
         <source>Answer Hard</source>
-        <target>Ответить "трудно"</target>
+        <target>Ответить «трудно»</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Keeps Zoom" xml:space="preserve">
@@ -434,12 +434,12 @@
       </trans-unit>
       <trans-unit id="Average ease" xml:space="preserve">
         <source>Average ease</source>
-        <target>Средняя лёгкость</target>
+        <target>Средняя легкость</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average for days studied" xml:space="preserve">
         <source>Average for days studied</source>
-        <target>В среднем в день учёбы</target>
+        <target>В среднем за дни учебы</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average interval" xml:space="preserve">
@@ -489,7 +489,7 @@
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
-        <target>Чёрный</target>
+        <target>Черный</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Bold" xml:space="preserve">
@@ -539,7 +539,7 @@
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
-        <target>Отложенные+Исключённые</target>
+        <target>Отложенные+Исключенные</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
@@ -759,12 +759,12 @@
       </trans-unit>
       <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
         <source>Congratulations! You have finished this deck for now.</source>
-        <target>Ура! На сегодня всё.</target>
+        <target>Ура! На сегодня все.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="Connecting..." xml:space="preserve">
         <source>Connecting...</source>
-        <target>Подключается...</target>
+        <target>Подключение...</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
@@ -774,7 +774,7 @@
       </trans-unit>
       <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
         <source>Correct answers on mature cards:</source>
-        <target>Правильные ответы закреплённых карт:</target>
+        <target>Правильные ответы закрепленных карт:</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Cram" xml:space="preserve">
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="Cram seen cards with certain tags" xml:space="preserve">
         <source>Cram seen cards with certain tags</source>
-        <target>Зубрить пройденные карточки с определёнными пометками</target>
+        <target>Зубрить пройденные карточки с определенными пометками</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
@@ -824,12 +824,12 @@
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
-        <target>Текущий звук +5с</target>
+        <target>Текущее аудио +5с</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Audio -5s" xml:space="preserve">
         <source>Current Audio -5s</source>
-        <target>Текущий звук -5с</target>
+        <target>Текущее аудио -5с</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
@@ -849,7 +849,7 @@
       </trans-unit>
       <trans-unit id="Custom Study" xml:space="preserve">
         <source>Custom Study</source>
-        <target>Учить ещё</target>
+        <target>Учить еще</target>
         <note>Actions, Custom Study Screen, Scheduler</note>
       </trans-unit>
       <trans-unit id="Custom Study Session" xml:space="preserve">
@@ -859,7 +859,7 @@
       </trans-unit>
       <trans-unit id="Custom study can't be used on a filtered deck." xml:space="preserve">
         <source>Custom study can't be used on a filtered deck.</source>
-        <target>Своя учёба не может быть использована на отфильтрованной колоде.</target>
+        <target>Пользовательская учеба не может быть использована на отфильтрованной колоде.</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="D.Stats" xml:space="preserve">
@@ -869,12 +869,12 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target>Тёмный</target>
+        <target>Темный</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Dark &amp; Translucent" xml:space="preserve">
         <source>Dark &amp; Translucent</source>
-        <target>Тёмный и прозрачный</target>
+        <target>Темный и прозрачный</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Database rebuilt and optimized." xml:space="preserve">
@@ -884,17 +884,17 @@
       </trans-unit>
       <trans-unit id="Day Starts" xml:space="preserve">
         <source>Day Starts</source>
-        <target>День начинается</target>
+        <target>День начинается в</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Days studied" xml:space="preserve">
         <source>Days studied</source>
-        <target>Дней учёбы</target>
+        <target>Дней учебы</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Days to look ahead" xml:space="preserve">
         <source>Days to look ahead</source>
-        <target>Дней до просмотра вперёд</target>
+        <target>Дней до просмотра вперед</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Days to look back" xml:space="preserve">
@@ -984,7 +984,7 @@
       </trans-unit>
       <trans-unit id="Delete note and its cards?" xml:space="preserve">
         <source>Delete note and its cards?</source>
-        <target>Удалить записи и её карточки?</target>
+        <target>Удалить записи и ее карточки?</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="Ease" xml:space="preserve">
         <source>Ease</source>
-        <target>Лёгкость</target>
+        <target>Легкость</target>
         <note>Card Stats, Search Screen</note>
       </trans-unit>
       <trans-unit id="Easy" xml:space="preserve">
@@ -1139,7 +1139,7 @@
       </trans-unit>
       <trans-unit id="Exporting..." xml:space="preserve">
         <source>Exporting...</source>
-        <target>Идёт экспорт...</target>
+        <target>Идет экспорт...</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Extra" xml:space="preserve">
@@ -1239,7 +1239,7 @@
       </trans-unit>
       <trans-unit id="Flag 3 (Green)" xml:space="preserve">
         <source>Flag 3 (Green)</source>
-        <target>Флаг 3 (зелёный)</target>
+        <target>Флаг 3 (зеленый)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 4" xml:space="preserve">
@@ -1349,7 +1349,7 @@
       </trans-unit>
       <trans-unit id="Highest ease" xml:space="preserve">
         <source>Highest ease</source>
-        <target>Наибольшая лёгкость</target>
+        <target>Наибольшая легкость</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Hourly Breakdown" xml:space="preserve">
@@ -1404,12 +1404,12 @@
       </trans-unit>
       <trans-unit id="Importing..." xml:space="preserve">
         <source>Importing...</source>
-        <target>Идёт импорт...</target>
+        <target>Идет импорт...</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Include Media" xml:space="preserve">
         <source>Include Media</source>
-        <target>Включить файлы</target>
+        <target>Включить медиафайлы</target>
         <note>Exporter</note>
       </trans-unit>
       <trans-unit id="Include cards with tag" xml:space="preserve">
@@ -1544,7 +1544,7 @@
       </trans-unit>
       <trans-unit id="Left" xml:space="preserve">
         <source>Left</source>
-        <target>Осталось</target>
+        <target>Слева</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Left Shoulder" xml:space="preserve">
@@ -1619,7 +1619,7 @@
       </trans-unit>
       <trans-unit id="Lowest ease" xml:space="preserve">
         <source>Lowest ease</source>
-        <target>Наименьшая лёгкость</target>
+        <target>Наименьшая легкость</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
@@ -1654,7 +1654,7 @@
       </trans-unit>
       <trans-unit id="Mature" xml:space="preserve">
         <source>Mature</source>
-        <target>Закреплённые</target>
+        <target>Закрепленные</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Max cards to gather" xml:space="preserve">
@@ -1684,22 +1684,22 @@
       </trans-unit>
       <trans-unit id="Media files exported: %d..." xml:space="preserve">
         <source>Media files exported: %d...</source>
-        <target>Файлов экспортировано: %d...</target>
+        <target>Медиафайлов экспортировано: %d...</target>
         <note>Anki Package Exporter</note>
       </trans-unit>
       <trans-unit id="Mid Center" xml:space="preserve">
         <source>Mid Center</source>
-        <target>Центр</target>
+        <target>По середине</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Mid Left" xml:space="preserve">
         <source>Mid Left</source>
-        <target>Левый центр</target>
+        <target>Слева по середине</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Mid Right" xml:space="preserve">
         <source>Mid Right</source>
-        <target>Правый центр</target>
+        <target>Справа по середине</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Minimum interval" xml:space="preserve">
@@ -1759,7 +1759,7 @@
       </trans-unit>
       <trans-unit id="New/Review Order" xml:space="preserve">
         <source>New/Review Order</source>
-        <target>Упорядоченность по новым/повторениям</target>
+        <target>Порядок новых/просмотров</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Next Cloze" xml:space="preserve">
@@ -1784,7 +1784,7 @@
       </trans-unit>
       <trans-unit id="Night Mode" xml:space="preserve">
         <source>Night Mode</source>
-        <target>Тёмный режим</target>
+        <target>Темный режим</target>
         <note>Actions, Theme Options</note>
       </trans-unit>
       <trans-unit id="No .apkg or .colpkg files were found in iTunes" xml:space="preserve">
@@ -1819,12 +1819,12 @@
       </trans-unit>
       <trans-unit id="No mature cards were studied today." xml:space="preserve">
         <source>No mature cards were studied today.</source>
-        <target>Ни одна закреплённая карточка не была повторена сегодня.</target>
+        <target>Ни одна закрепленная карточка не была повторена сегодня.</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
-        <target>По умолчанию</target>
+        <target>Обычный</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Note Created" xml:space="preserve">
@@ -1844,12 +1844,12 @@
       </trans-unit>
       <trans-unit id="Note and its %i card(s) suspended" xml:space="preserve">
         <source>Note and its %i card(s) suspended</source>
-        <target>Запись вместе с её %i карточками исключена</target>
+        <target>Запись вместе с ее %i карточками исключена</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note and its %i cards deleted" xml:space="preserve">
         <source>Note and its %i cards deleted</source>
-        <target>Запись вместе с её %i карточками удалена</target>
+        <target>Запись вместе с ее %i карточками удалена</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note buried" xml:space="preserve">
@@ -1974,7 +1974,7 @@
       </trans-unit>
       <trans-unit id="Please check your network connection and try again." xml:space="preserve">
         <source>Please check your network connection and try again.</source>
-        <target>Проверьте своё интернет-соединение и попробуйте снова.</target>
+        <target>Проверьте свое интернет-соединение и попробуйте снова.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
@@ -1989,7 +1989,7 @@
       </trans-unit>
       <trans-unit id="Please provide some text, avoiding symbols and underscores." xml:space="preserve">
         <source>Please provide some text, avoiding symbols and underscores.</source>
-        <target>Впишите текст, избегая символов и знаков подчёркивания.</target>
+        <target>Впишите текст, избегая символов и знаков подчеркивания.</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Please run Empty Cards on the computer version." xml:space="preserve">
@@ -2039,7 +2039,7 @@
       </trans-unit>
       <trans-unit id="Processed media files: %d..." xml:space="preserve">
         <source>Processed media files: %d...</source>
-        <target>Обработано файлов: %d...</target>
+        <target>Обработано медиафайлов: %d...</target>
         <note>Anki Package Importer</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
@@ -2069,7 +2069,7 @@
       </trans-unit>
       <trans-unit id="Question Side" xml:space="preserve">
         <source>Question Side</source>
-        <target>Сторона с ответом</target>
+        <target>Сторона вопроса</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Question+Answer" xml:space="preserve">
@@ -2114,7 +2114,7 @@
       </trans-unit>
       <trans-unit id="Remaining Count" xml:space="preserve">
         <source>Remaining Count</source>
-        <target>Оставшееся кол-во</target>
+        <target>Оставшееся количество</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Rename" xml:space="preserve">
@@ -2234,7 +2234,7 @@
       </trans-unit>
       <trans-unit id="Review ahead" xml:space="preserve">
         <source>Review ahead</source>
-        <target>Просмотреть вперёд (вне дневного лимита)</target>
+        <target>Просмотреть вперед (вне дневного лимита)</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Review due cards with certain tags" xml:space="preserve">
@@ -2254,7 +2254,7 @@
       </trans-unit>
       <trans-unit id="Review undone" xml:space="preserve">
         <source>Review undone</source>
-        <target>Просмотр отменён</target>
+        <target>Просмотр отменен</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Reviews" xml:space="preserve">
@@ -2349,7 +2349,7 @@
       </trans-unit>
       <trans-unit id="Searching..." xml:space="preserve">
         <source>Searching...</source>
-        <target>Идёт поиск...</target>
+        <target>Идет поиск...</target>
         <note>Custom Study Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Second Column (1-&gt;9)" xml:space="preserve">
@@ -2369,7 +2369,7 @@
       </trans-unit>
       <trans-unit id="Select All" xml:space="preserve">
         <source>Select All</source>
-        <target>Выбрать всё</target>
+        <target>Выбрать все</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Select Deck" xml:space="preserve">
@@ -2409,7 +2409,7 @@
       </trans-unit>
       <trans-unit id="Show Answer/Answer Good" xml:space="preserve">
         <source>Show Answer/Answer Good</source>
-        <target>Показать ответ/ответить "хорошо"</target>
+        <target>Показать ответ/ответить «хорошо»</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Show Bottom Bar" xml:space="preserve">
@@ -2434,7 +2434,7 @@
       </trans-unit>
       <trans-unit id="Show/Good" xml:space="preserve">
         <source>Show/Good</source>
-        <target>Показать/"хорошо"</target>
+        <target>Показать/«хорошо»</target>
         <note>Short version of Show Answer/Answer Good; Actions</note>
       </trans-unit>
       <trans-unit id="Slate" xml:space="preserve">
@@ -2464,7 +2464,7 @@
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
         <source>Starting ease</source>
-        <target>Исходная лёгкость</target>
+        <target>Исходная легкость</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
@@ -2489,12 +2489,12 @@
       </trans-unit>
       <trans-unit id="Study Options" xml:space="preserve">
         <source>Study Options</source>
-        <target>Настройки учёбы</target>
+        <target>Настройки учебы</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Study Type" xml:space="preserve">
         <source>Study Type</source>
-        <target>Тип учёбы</target>
+        <target>Тип учебы</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Styling" xml:space="preserve">
@@ -2524,7 +2524,7 @@
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target>Исключённые</target>
+        <target>Исключенные</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Swipe Down" xml:space="preserve">
@@ -2574,7 +2574,7 @@
       </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
-        <target>Синхронизировать звуки и изображения</target>
+        <target>Синхр. звуки и изображения</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Synchronize" xml:space="preserve">
@@ -2609,7 +2609,7 @@
       </trans-unit>
       <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
         <source>Tap synchronize when you're ready to proceed.</source>
-        <target>Коснитесь "Синхронизировать", когда будете готовы.</target>
+        <target>Коснитесь «Синхронизировать», когда будете готовы.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
@@ -2629,7 +2629,7 @@
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
         <source>The default deck cannot be deleted.</source>
-        <target>Колода "По умолчанию" не может быть удалена.</target>
+        <target>Колода «По умолчанию» не может быть удалена.</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
@@ -2804,7 +2804,7 @@
       </trans-unit>
       <trans-unit id="Underline" xml:space="preserve">
         <source>Underline</source>
-        <target>Подчёркивание</target>
+        <target>Подчеркивание</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Undo" xml:space="preserve">
@@ -2814,7 +2814,7 @@
       </trans-unit>
       <trans-unit id="Undo Clears All" xml:space="preserve">
         <source>Undo Clears All</source>
-        <target>Отмена очищает всё</target>
+        <target>Отмена очищает все</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Unexpected file extension:" xml:space="preserve">
@@ -2954,7 +2954,7 @@
       </trans-unit>
       <trans-unit id="buried-cards-msg" xml:space="preserve">
         <source>Some related or buried cards were delayed. They will be shown in a future study session, or you can %@</source>
-        <target>Некоторые связанные или исключённые карточки были отложены. Они будут показаны в будущих сессиях изучения, либо можно %@</target>
+        <target>Некоторые связанные или исключенные карточки были отложены. Они будут показаны в будущих сессиях изучения, либо можно %@</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
@@ -2994,7 +2994,7 @@
       </trans-unit>
       <trans-unit id="error-playing-audio-full" xml:space="preserve">
         <source>Error playing audio. This can be caused by a corrupt file, a file iOS does not support (eg .ogg), or an mp3 file incorrectly named .wav</source>
-        <target>Ошибка воспроизведения аудио. Причиной может быть либо повреждённый файл, либо файл, который не поддерживается iOS (например, .ogg), либо mp3 файл, который неверно назван как .wav</target>
+        <target>Ошибка воспроизведения аудио. Причиной может быть либо поврежденный файл, либо файл, который не поддерживается iOS (например, .ogg), либо mp3 файл, который неверно назван как .wav</target>
         <note>Audio Manager</note>
       </trans-unit>
       <trans-unit id="filter-cram-short-version" xml:space="preserve">
@@ -3054,7 +3054,7 @@
       </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
-        <target>AnkiMobile сделан с помощью %@, щедро подаренными сообществом разработчиков.</target>
+        <target>AnkiMobile создан с помощью %@, щедро подаренными сообществом разработчиков.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="minutes" xml:space="preserve">
@@ -3074,12 +3074,12 @@
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
         <source>Night mode darkens the interface, and displays cards as white on black.</source>
-        <target>Тёмный режим затемняет интерфейс и карточки становятся белыми на чёрном фоне.</target>
+        <target>Темный режим затемняет интерфейс и карточки становятся белыми на черном фоне.</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="night-mode-same-as-system" xml:space="preserve">
         <source>Follow System</source>
-        <target>Как в системе</target>
+        <target>Использовать системную тему</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="no tags available" xml:space="preserve">
@@ -3129,7 +3129,7 @@
       </trans-unit>
       <trans-unit id="return-by-delete" xml:space="preserve">
         <source>To return all cards at once, swipe over the blue deck in the deck list, and delete it.</source>
-        <target>Чтобы вернуть все карточки разом, смахните налево над синей колодой в списке, и удалите её.</target>
+        <target>Чтобы вернуть все карточки разом, смахните налево над синей колодой в списке, и удалите ее.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="revert-to-backup-confirm" xml:space="preserve">
@@ -3139,7 +3139,7 @@
       </trans-unit>
       <trans-unit id="review-limit-reached" xml:space="preserve">
         <source>Today's review limit has been reached, but there are still cards waiting to be reviewed. For optimum memory, consider increasing the daily limit in the options.</source>
-        <target>Лимит повторов на сегодня достигнут, но ещё остались карточки для просмотра. Для наилучшего запоминания, увеличьте дневной лимит в настройках.</target>
+        <target>Лимит повторов на сегодня достигнут, но еще остались карточки для просмотра. Для наилучшего запоминания, увеличьте дневной лимит в настройках.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="reviews" xml:space="preserve">
@@ -3149,6 +3149,7 @@
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.</source>
+        <target>Пожалуйста, откройте настройки системы iOS, найдите там раздел с Anki и включите уведомления, наклейки и предупреждения.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
