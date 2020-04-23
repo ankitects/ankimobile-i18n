@@ -927,8 +927,8 @@
         <target>Stapelstatistiken</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
         <target>Stapel:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
@@ -1587,8 +1587,8 @@
         <target>Abmelden</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
         <target>Angemeldet als:</target>
         <note>Preferences</note>
       </trans-unit>
@@ -1877,8 +1877,8 @@
         <target>Notiz eingesetzt</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
         <target>Notiz:</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2457,8 +2457,8 @@
         <target>Sortierreihenfolge</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
         <target>Sortieren</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2597,8 +2597,8 @@
         <target>Nur verschlagworten</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
         <target>Schlagwort:</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2817,8 +2817,8 @@
         <target>"Alles aufräumen" rückgängig machen</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
         <target>Unerwartete Dateierweiterung:</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2827,8 +2827,8 @@
         <target>Unerwartetes Rich-Text-Format - bitte versuchen Sie es mit Kopieren &amp; Einfügen</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
         <target>Unerwarteter Statuscode:</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2973,7 +2973,7 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
+        <source>Cloze</source>
         <target>Lückentext</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
@@ -3103,7 +3103,7 @@
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
+        <source>Type:</source>
         <target>Typ:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
@@ -3197,7 +3197,7 @@
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
+        <source>Cards will be returned to their original deck as you answer them.</source>
         <target>Karten kehren in ihren ursprünglichen Stapel zurück, wenn sie beantwortet werden.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>

@@ -927,8 +927,8 @@
         <target>デッキの統計</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
         <target>デッキ：</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
@@ -1587,9 +1587,9 @@
         <target>ログアウト</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
-        <target>ログイン中のユーザ名: </target>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
+        <target>ログイン中のユーザ名:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1877,9 +1877,9 @@
         <target>ノートの保留を解除しました</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
-        <target>ノート： </target>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
+        <target>ノート：</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
@@ -2457,9 +2457,9 @@
         <target>ソート順</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
-        <target>ソート： </target>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
+        <target>ソート：</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2597,9 +2597,9 @@
         <target>タグを付けるだけ</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
-        <target>タグ： </target>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
+        <target>タグ：</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
@@ -2817,8 +2817,8 @@
         <target>元に戻すタップですべて消去</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
         <target>予期しないファイル拡張子：</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2827,8 +2827,8 @@
         <target>予期しないリッチテキストフォーマット：コピーアンドペーストを実行してみてください。</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
         <target>予期しないステータスコード：</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2973,8 +2973,8 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
-        <target>穴埋め </target>
+        <source>Cloze</source>
+        <target>穴埋め</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -3103,7 +3103,7 @@
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
+        <source>Type:</source>
         <target>タイプ：</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
@@ -3197,7 +3197,7 @@
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
+        <source>Cards will be returned to their original deck as you answer them.</source>
         <target>ここで回答したカードは元のデッキに戻されます。</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>

@@ -927,9 +927,9 @@
         <target>Statystyki talii</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
-        <target>Talia: </target>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
+        <target>Talia:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -1587,9 +1587,9 @@
         <target>Wyloguj się</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
-        <target>Zalogowano jako: </target>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
+        <target>Zalogowano jako:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1877,9 +1877,9 @@
         <target>Notatka odwieszona</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
-        <target>Notatka: </target>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
+        <target>Notatka:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
@@ -2457,9 +2457,9 @@
         <target>Kolejność sortowania</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
-        <target>Sortowanie: </target>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
+        <target>Sortowanie:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2597,9 +2597,9 @@
         <target>Tylko etykieta</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
-        <target>Etykieta: </target>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
+        <target>Etykieta:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
@@ -2817,9 +2817,9 @@
         <target>Cofnij usuwa wszystko</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
-        <target>Nieoczekiwane rozszerzenie pliku: </target>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
+        <target>Nieoczekiwane rozszerzenie pliku:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected rich text format - please try copying &amp; pasting." xml:space="preserve">
@@ -2827,9 +2827,9 @@
         <target>Nieoczekiwany wzbogacony format tekstowy (RTF) - spróbuj kopiować &amp; wklejać.</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
-        <target>Nieoczekiwany kod statusu: </target>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
+        <target>Nieoczekiwany kod statusu:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
@@ -2973,8 +2973,8 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
-        <target>Luka </target>
+        <source>Cloze</source>
+        <target>Luka</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -3104,8 +3104,8 @@ do przejrzenia w najbliższym czasie.</target>
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
-        <target>Typ: </target>
+        <source>Type:</source>
+        <target>Typ:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
@@ -3200,8 +3200,8 @@ rozważ zwiększenie dziennego limitu w opcjach.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
-        <target>Po odpowiedzi na karty powrócą one do talii początkowej. </target>
+        <source>Cards will be returned to their original deck as you answer them.</source>
+        <target>Po odpowiedzi na karty powrócą one do talii początkowej.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="x-per-day" xml:space="preserve">

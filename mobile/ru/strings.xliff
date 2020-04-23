@@ -927,8 +927,8 @@
         <target>Статистика колоды</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
         <target>Колода:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
@@ -1587,8 +1587,8 @@
         <target>Выйти</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
         <target>Выполнен вход как:</target>
         <note>Preferences</note>
       </trans-unit>
@@ -1877,8 +1877,8 @@
         <target>Запись включена</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
         <target>Запись:</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2457,8 +2457,8 @@
         <target>Порядок сортировки</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
         <target>Сортировка:</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2597,8 +2597,8 @@
         <target>Только пометить</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
         <target>Метка:</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2817,8 +2817,8 @@
         <target>Отмена очищает всё</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
         <target>Неожиданное разрешение файла:</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2827,8 +2827,8 @@
         <target>Неожиданный RTF - попробуйте скопировать и вставить.</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
         <target>Неожиданный код статуса:</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2973,7 +2973,7 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
+        <source>Cloze</source>
         <target>Задание с проусками</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
@@ -3103,7 +3103,7 @@
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
+        <source>Type:</source>
         <target>Тип:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
@@ -3197,7 +3197,7 @@
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
+        <source>Cards will be returned to their original deck as you answer them.</source>
         <target>После ответа карточки будут возвращены в изначальную колоду.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>

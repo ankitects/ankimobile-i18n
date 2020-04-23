@@ -927,9 +927,9 @@
         <target>Estadísticas</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
-        <target>Mazo: </target>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
+        <target>Mazo:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -1589,9 +1589,9 @@ Por favor, inténtelo de nuevo.</target>
         <target>Cerrar sesión</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
-        <target>Conectado como: </target>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
+        <target>Conectado como:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1879,9 +1879,9 @@ Por favor, inténtelo de nuevo.</target>
         <target>Nota sin suspender</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
-        <target>Nota: </target>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
+        <target>Nota:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
@@ -2459,9 +2459,9 @@ Por favor, inténtelo de nuevo.</target>
         <target>Ordenar</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
-        <target>Ordenar: </target>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
+        <target>Ordenar:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2599,9 +2599,9 @@ Por favor, inténtelo de nuevo.</target>
         <target>Solo etiquetar</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
-        <target>Etiqueta: </target>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
+        <target>Etiqueta:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
@@ -2819,9 +2819,9 @@ Por favor, inténtelo de nuevo.</target>
         <target>Deshacer lo borra todo</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
-        <target>Extensión de archivo inesperada: </target>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
+        <target>Extensión de archivo inesperada:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected rich text format - please try copying &amp; pasting." xml:space="preserve">
@@ -2829,8 +2829,8 @@ Por favor, inténtelo de nuevo.</target>
         <target>Formato de texto enriquecido inesperado - por favor, intente copiar y pegar.</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
         <target>Código de estado inesperado:</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2975,8 +2975,8 @@ Por favor, inténtelo de nuevo.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
-        <target>Hueco </target>
+        <source>Cloze</source>
+        <target>Hueco</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -3105,8 +3105,8 @@ Por favor, inténtelo de nuevo.</target>
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
-        <target>Tipo: </target>
+        <source>Type:</source>
+        <target>Tipo:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
@@ -3199,8 +3199,8 @@ Por favor, inténtelo de nuevo.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
-        <target>Las tarjetas serán devueltas a su mazo original a medida que las respondas. </target>
+        <source>Cards will be returned to their original deck as you answer them.</source>
+        <target>Las tarjetas serán devueltas a su mazo original a medida que las respondas.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="x-per-day" xml:space="preserve">

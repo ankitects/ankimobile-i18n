@@ -927,9 +927,9 @@
         <target>Statistiques du paquet</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
-        <target>Paquet : </target>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
+        <target>Paquet :</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -1585,9 +1585,9 @@
         <target>Déconnexion</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
-        <target>Logué en tant que: </target>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
+        <target>Logué en tant que:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1874,9 +1874,9 @@
         <target>Note non suspendue</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
-        <target>Note : </target>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
+        <target>Note :</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
@@ -2191,7 +2191,7 @@
       </trans-unit>
       <trans-unit id="Reset.C" xml:space="preserve">
         <source>Reset.C</source>
-        <target>Reset </target>
+        <target>Reset</target>
         <note>Short version of 'Reset Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
@@ -2452,9 +2452,9 @@
         <target>Ordre de tri</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
-        <target>Trier : </target>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
+        <target>Trier :</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2592,9 +2592,9 @@
         <target>Tager uniquement</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
-        <target>Tag: </target>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
+        <target>Tag:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
@@ -2812,9 +2812,9 @@
         <target>‘Annuler’ efface tout</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
-        <target>Extension de fichier inattendue: </target>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
+        <target>Extension de fichier inattendue:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected rich text format - please try copying &amp; pasting." xml:space="preserve">
@@ -2822,9 +2822,9 @@
         <target>Format de texte enrichi inattendu - veuillez essayer de copier et coller.</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
-        <target>Code de statut inattendu : </target>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
+        <target>Code de statut inattendu :</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
@@ -2967,8 +2967,8 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
-        <target>Texte à trous </target>
+        <source>Cloze</source>
+        <target>Texte à trous</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -3099,8 +3099,8 @@ travail à court terme de révisions sera élevée.</target>
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
-        <target>Type: </target>
+        <source>Type:</source>
+        <target>Type:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
@@ -3195,8 +3195,8 @@ la limite quotidienne, dans les options.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
-        <target>Replace les cartes dans leur paquet après y avoir répondu. </target>
+        <source>Cards will be returned to their original deck as you answer them.</source>
+        <target>Replace les cartes dans leur paquet après y avoir répondu.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="x-per-day" xml:space="preserve">

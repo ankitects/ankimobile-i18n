@@ -927,9 +927,9 @@
         <target>Deck Statistics</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
-        <target>Deck: </target>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
+        <target>Deck:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -1587,9 +1587,9 @@
         <target>Log Out</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
-        <target>Logged in as: </target>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
+        <target>Logged in as:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1877,9 +1877,9 @@
         <target>Note unsuspended</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
-        <target>Note: </target>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
+        <target>Note:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
@@ -2457,9 +2457,9 @@
         <target>Sort Order</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
-        <target>Sort: </target>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
+        <target>Sort:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2597,9 +2597,9 @@
         <target>Tag Only</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
-        <target>Tag: </target>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
+        <target>Tag:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
@@ -2817,9 +2817,9 @@
         <target>Undo Clears All</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
-        <target>Unexpected file extension: </target>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
+        <target>Unexpected file extension:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected rich text format - please try copying &amp; pasting." xml:space="preserve">
@@ -2827,9 +2827,9 @@
         <target>Unexpected rich text format - please try copying &amp; pasting.</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
-        <target>Unexpected status code: </target>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
+        <target>Unexpected status code:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
@@ -2973,8 +2973,8 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
-        <target>Cloze </target>
+        <source>Cloze</source>
+        <target>Cloze</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -3103,8 +3103,8 @@
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
-        <target>Type: </target>
+        <source>Type:</source>
+        <target>Type:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
@@ -3198,8 +3198,8 @@
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
-        <target>Cards will be returned to their original deck as you answer them. </target>
+        <source>Cards will be returned to their original deck as you answer them.</source>
+        <target>Cards will be returned to their original deck as you answer them.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="x-per-day" xml:space="preserve">

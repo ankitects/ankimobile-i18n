@@ -769,7 +769,7 @@
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
-        <target>正确率 - </target>
+        <target>正确率 -</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
@@ -927,8 +927,8 @@
         <target>卡组统计</target>
         <note>Actions</note>
       </trans-unit>
-      <trans-unit id="Deck: " xml:space="preserve">
-        <source>Deck: </source>
+      <trans-unit id="Deck:" xml:space="preserve">
+        <source>Deck:</source>
         <target>卡组：</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
@@ -1587,8 +1587,8 @@
         <target>注销</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Logged in as: " xml:space="preserve">
-        <source>Logged in as: </source>
+      <trans-unit id="Logged in as:" xml:space="preserve">
+        <source>Logged in as:</source>
         <target>登录为：</target>
         <note>Preferences</note>
       </trans-unit>
@@ -1877,8 +1877,8 @@
         <target>保留笔记已取出</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Note: " xml:space="preserve">
-        <source>Note: </source>
+      <trans-unit id="Note:" xml:space="preserve">
+        <source>Note:</source>
         <target>笔记：</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2457,8 +2457,8 @@
         <target>排序</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Sort: " xml:space="preserve">
-        <source>Sort: </source>
+      <trans-unit id="Sort:" xml:space="preserve">
+        <source>Sort:</source>
         <target>排序：</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2597,8 +2597,8 @@
         <target>贴‘leech’标签</target>
         <note>Deck Options</note>
       </trans-unit>
-      <trans-unit id="Tag: " xml:space="preserve">
-        <source>Tag: </source>
+      <trans-unit id="Tag:" xml:space="preserve">
+        <source>Tag:</source>
         <target>标签：</target>
         <note>Search Screen</note>
       </trans-unit>
@@ -2817,8 +2817,8 @@
         <target>撤销清除全部</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Unexpected file extension: " xml:space="preserve">
-        <source>Unexpected file extension: </source>
+      <trans-unit id="Unexpected file extension:" xml:space="preserve">
+        <source>Unexpected file extension:</source>
         <target>不支持的文件扩展名：</target>
         <note>Edit Screen</note>
       </trans-unit>
@@ -2827,9 +2827,9 @@
         <target>文本格式不支持 - 请尝试复制和粘贴</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="Unexpected status code: " xml:space="preserve">
-        <source>Unexpected status code: </source>
-        <target>意外的状态代码： </target>
+      <trans-unit id="Unexpected status code:" xml:space="preserve">
+        <source>Unexpected status code:</source>
+        <target>意外的状态代码：</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
@@ -2973,8 +2973,8 @@
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
-        <source>Cloze </source>
-        <target>填空 </target>
+        <source>Cloze</source>
+        <target>填空</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -3103,7 +3103,7 @@
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
-        <source>Type: </source>
+        <source>Type:</source>
         <target>类型：</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
@@ -3197,7 +3197,7 @@
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
-        <source>Cards will be returned to their original deck as you answer them. </source>
+        <source>Cards will be returned to their original deck as you answer them.</source>
         <target>这些卡片会在您做出回答后被放回原卡组。</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
