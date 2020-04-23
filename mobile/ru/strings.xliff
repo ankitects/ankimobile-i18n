@@ -2414,7 +2414,7 @@
       </trans-unit>
       <trans-unit id="Show Bottom Bar" xml:space="preserve">
         <source>Show Bottom Bar</source>
-        <target>Показаать нижнюю панель</target>
+        <target>Показать нижнюю панель</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Grid" xml:space="preserve">
