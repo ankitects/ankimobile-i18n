@@ -1049,6 +1049,7 @@
       </trans-unit>
       <trans-unit id="Drawing Screen Ignores Fingers" xml:space="preserve">
         <source>Drawing Screen Ignores Fingers</source>
+        <target>Ignorer les doigts sur l’écran de dessin</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Due" xml:space="preserve">
@@ -1438,6 +1439,7 @@
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
         <source>Interrupt Current Audio</source>
+        <target>Interrompre l’audio en cours</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -1767,6 +1769,7 @@
       </trans-unit>
       <trans-unit id="Next Field" xml:space="preserve">
         <source>Next Field</source>
+        <target>Prochain champ</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Next Times" xml:space="preserve">
@@ -2331,6 +2334,7 @@
       </trans-unit>
       <trans-unit id="Scratchpad Transparency" xml:space="preserve">
         <source>Scratchpad Transparency</source>
+        <target>Transparence du bloc-notes</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -2415,6 +2419,7 @@
       </trans-unit>
       <trans-unit id="Show Grid" xml:space="preserve">
         <source>Show Grid</source>
+        <target>Afficher la grille</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Reminder" xml:space="preserve">
@@ -2954,6 +2959,7 @@
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
         <source>The front of this card is blank.</source>
+        <target>Le verso de cette carte est vide.</target>
         <note>Template</note>
       </trans-unit>
       <trans-unit id="check-clock" xml:space="preserve">
@@ -3058,6 +3064,7 @@
       </trans-unit>
       <trans-unit id="more-info" xml:space="preserve">
         <source>More info</source>
+        <target>Plus d’informations</target>
         <note>Template</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
@@ -3147,6 +3154,7 @@ la limite quotidienne, dans les options.</target>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.</source>
+        <target>Veuillez accéder aux paramètres d’iOS, puis à la section Anki et activez les notifications, badges et alertes.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
