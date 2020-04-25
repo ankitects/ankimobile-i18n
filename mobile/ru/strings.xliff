@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
-        <target>Добавить/экспорт.</target>
+        <target>Добав./экспорт.</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
@@ -354,7 +354,7 @@
       </trans-unit>
       <trans-unit id="App Icon Shows Due Count" xml:space="preserve">
         <source>App Icon Shows Due Count</source>
-        <target>Число повторений на значке приложения</target>
+        <target>Число повтор. на значке</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="Append" xml:space="preserve">
@@ -1774,7 +1774,7 @@
       </trans-unit>
       <trans-unit id="Next Times" xml:space="preserve">
         <source>Next Times</source>
-        <target>Время до след. раза</target>
+        <target>Время до следующего раза</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Night" xml:space="preserve">
