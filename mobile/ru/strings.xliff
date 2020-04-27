@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="Alert When Due" xml:space="preserve">
         <source>Alert When Due</source>
-        <target>Оповестить, когда наступит время просмотра</target>
+        <target>Опов., когда наст. время просм.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -319,12 +319,12 @@
       </trans-unit>
       <trans-unit id="Answer Keeps Zoom" xml:space="preserve">
         <source>Answer Keeps Zoom</source>
-        <target>Ответ сохраняет приближение</target>
+        <target>Ответ сохраняет приближ.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Answer Seconds" xml:space="preserve">
         <source>Answer Seconds</source>
-        <target>Секунд отвечено</target>
+        <target>Секунд для ответа</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Answer Side" xml:space="preserve">
@@ -514,7 +514,7 @@
       </trans-unit>
       <trans-unit id="Bottom Center" xml:space="preserve">
         <source>Bottom Center</source>
-        <target>Снизу по центру</target>
+        <target>Снизу по середине</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
@@ -959,7 +959,7 @@
       </trans-unit>
       <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
         <source>Delays until reviews are shown again.</source>
-        <target>Задержки до повторений снова показаны.</target>
+        <target>Задержки до повторений показываются снова.</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -1439,7 +1439,7 @@
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
         <source>Interrupt Current Audio</source>
-        <target>Прервать текущее аудио</target>
+        <target>Прерывать текущее аудио</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="Long" xml:space="preserve">
         <source>Long</source>
-        <target>Долгий</target>
+        <target>Долгое</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Long press on an item to customize." xml:space="preserve">
@@ -1824,7 +1824,7 @@
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
-        <target>Обычный</target>
+        <target>По умолчанию</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Note Created" xml:space="preserve">
@@ -2064,7 +2064,7 @@
       </trans-unit>
       <trans-unit id="Question Seconds" xml:space="preserve">
         <source>Question Seconds</source>
-        <target>Секунд для ответа</target>
+        <target>Секунд для вопроса</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Question Side" xml:space="preserve">
@@ -2399,7 +2399,7 @@
       </trans-unit>
       <trans-unit id="Short" xml:space="preserve">
         <source>Short</source>
-        <target>Короткий</target>
+        <target>Короткое</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Show Answer" xml:space="preserve">
@@ -2659,7 +2659,7 @@
       </trans-unit>
       <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
         <source>The number of times you have pressed each button.</source>
-        <target>Сколько раз Вы нажали каждую кнопку.</target>
+        <target>Сколько раз вы нажали каждую кнопку.</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="The provided deck does not exist." xml:space="preserve">
@@ -2869,7 +2869,7 @@
       </trans-unit>
       <trans-unit id="Use Legacy Editor" xml:space="preserve">
         <source>Use Legacy Editor</source>
-        <target>Использовать старый редактор</target>
+        <target>Использ. старый редактор</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="User 1" xml:space="preserve">
@@ -3149,14 +3149,17 @@
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
+        <target>Средняя</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
         <source>None</source>
+        <target>Нет</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-slight" xml:space="preserve">
         <source>Slight</source>
+        <target>Небольшая</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
