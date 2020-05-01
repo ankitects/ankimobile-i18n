@@ -1415,7 +1415,7 @@
       </trans-unit>
       <trans-unit id="Mark" xml:space="preserve">
         <source>Mark</source>
-        <note>Actions</note>
+        <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Mark + Bury" xml:space="preserve">
         <source>Mark + Bury</source>

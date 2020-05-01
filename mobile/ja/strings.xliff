@@ -1635,7 +1635,7 @@
       <trans-unit id="Mark" xml:space="preserve">
         <source>Mark</source>
         <target>マークする</target>
-        <note>Actions</note>
+        <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Mark + Bury" xml:space="preserve">
         <source>Mark + Bury</source>
