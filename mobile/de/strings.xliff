@@ -3149,14 +3149,17 @@
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
+        <target>Mittel</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
         <source>None</source>
+        <target>Nichts</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-slight" xml:space="preserve">
         <source>Slight</source>
+        <target>Gering</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
