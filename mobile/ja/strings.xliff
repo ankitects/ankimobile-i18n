@@ -599,6 +599,7 @@
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
+        <target>キャンセルをすると、保存していない変更は失われますがよろしいですか？</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Cannot Delete" xml:space="preserve">
@@ -2989,7 +2990,7 @@
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
-        <target>この設定グループを削除すると、次に同期をする際、他のデバイス上で変更したことをご使用中のデバイスに統合できません。それでも削除しますか。</target>
+        <target>この設定グループを削除すると、次に同期をする際、他のデバイス上で変更したことをご使用中のデバイスに統合できません。それでも削除しますか？</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="error-playing-audio-full" xml:space="preserve">
@@ -3004,7 +3005,7 @@
       </trans-unit>
       <trans-unit id="force-sync-confirm" xml:space="preserve">
         <source>Force a one way sync? All changes on one side will be lost.</source>
-        <target>一方の状態をもう片方に上書きしますか。実行した場合、片方で行われた変更のすべてが失われます。</target>
+        <target>一方の状態をもう片方に上書きしますか？実行した場合、片方で行われた変更はすべて失われます。</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="gamepad-button-mapping" xml:space="preserve">
