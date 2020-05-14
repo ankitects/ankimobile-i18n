@@ -924,7 +924,7 @@
       </trans-unit>
       <trans-unit id="Deck Statistics" xml:space="preserve">
         <source>Deck Statistics</source>
-        <target>Stapel-statistiken</target>
+        <target>Stapelstatistiken</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Deck:" xml:space="preserve">
