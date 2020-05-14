@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="Card Info" xml:space="preserve">
         <source>Card Info</source>
-        <target>Karten-information</target>
+        <target>Karteninformation</target>
         <note>Actions, Card Stats Screen, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card Template" xml:space="preserve">
@@ -2489,7 +2489,7 @@
       </trans-unit>
       <trans-unit id="Study Options" xml:space="preserve">
         <source>Study Options</source>
-        <target>Lern-optionen</target>
+        <target>Lernoptionen</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Study Type" xml:space="preserve">
@@ -2809,7 +2809,7 @@
       </trans-unit>
       <trans-unit id="Undo" xml:space="preserve">
         <source>Undo</source>
-        <target>Rück-gängig</target>
+        <target>Rückgängig</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Undo Clears All" xml:space="preserve">
