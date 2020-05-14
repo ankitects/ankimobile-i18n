@@ -3154,6 +3154,7 @@ la limite quotidienne, dans les options.</target>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
+        <target>Moyen</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
