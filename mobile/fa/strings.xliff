@@ -2773,362 +2773,452 @@
       </trans-unit>
       <trans-unit id="UBury" xml:space="preserve">
         <source>UBury</source>
+        <target>لغو دفن</target>
         <note>Short version of 'Unbury Deck'; Actions</note>
       </trans-unit>
       <trans-unit id="Unable to obtain image" xml:space="preserve">
         <source>Unable to obtain image</source>
+        <target>فراهم کردن تصویر ممکن نیست</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unable to open Safari - please check parental controls." xml:space="preserve">
         <source>Unable to open Safari - please check parental controls.</source>
+        <target>بازکردن سافاری ممکن نیست - لطفاً مجوز‌های برنامه را بررسی کنید.</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Unable to open profile" xml:space="preserve">
         <source>Unable to open profile</source>
+        <target>باز کردن پروفایل ممکن نیست</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="Unable to read file" xml:space="preserve">
         <source>Unable to read file</source>
+        <target>خواندن فایل ممکن نیست</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unbury Deck" xml:space="preserve">
         <source>Unbury Deck</source>
+        <target>لغو دفن دسته</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Underline" xml:space="preserve">
         <source>Underline</source>
+        <target>زیر خط</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Undo" xml:space="preserve">
         <source>Undo</source>
+        <target>لغو عمل</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Undo Clears All" xml:space="preserve">
         <source>Undo Clears All</source>
+        <target>لغو عمل همه را پاک کند</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Unexpected file extension:" xml:space="preserve">
         <source>Unexpected file extension:</source>
+        <target>پسوند فایل نامعبتر:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected rich text format - please try copying &amp; pasting." xml:space="preserve">
         <source>Unexpected rich text format - please try copying &amp; pasting.</source>
+        <target>فرمت متن نامعتبر - لطفاً از کپی/پیست استفاده کنید.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected status code:" xml:space="preserve">
         <source>Unexpected status code:</source>
+        <target>کد وضعیت نامعتبر:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
         <source>Unmarked</source>
+        <target>علامت پاک شد</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Unseen" xml:space="preserve">
         <source>Unseen</source>
+        <target>دیده‌نشده</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Unsuspend Card" xml:space="preserve">
         <source>Unsuspend Card</source>
+        <target>لغو تعلیق کارت</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unsuspend Note" xml:space="preserve">
         <source>Unsuspend Note</source>
+        <target>لغو تعلیق یادداشت</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>
+        <target>آپلو به AnkiWeb</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Upload was corrupt." xml:space="preserve">
         <source>Upload was corrupt.</source>
+        <target>آپلود خراب است.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Uploading..." xml:space="preserve">
         <source>Uploading...</source>
+        <target>در حال آپلود...</target>
         <note>Sync Screen, Syncer</note>
       </trans-unit>
       <trans-unit id="Use Legacy Editor" xml:space="preserve">
         <source>Use Legacy Editor</source>
+        <target>استافاده از ویرایشگر قدیمی</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="User 1" xml:space="preserve">
         <source>User 1</source>
+        <target>کاربر 1</target>
         <note>Profile Manager</note>
       </trans-unit>
       <trans-unit id="Wait for Audio" xml:space="preserve">
         <source>Wait for Audio</source>
+        <target>توقف برای صوت</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Welcome!" xml:space="preserve">
         <source>Welcome!</source>
+        <target>خوش آمدید!</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="When answer shown" xml:space="preserve">
         <source>When answer shown</source>
+        <target>هنگامی که پاسخ نشان داده شده</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="When question shown" xml:space="preserve">
         <source>When question shown</source>
+        <target>هنگامی که سوال نشان داده شده</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Whole Collection" xml:space="preserve">
         <source>Whole Collection</source>
+        <target>تمام مجموعه</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="You can only empty a filtered deck." xml:space="preserve">
         <source>You can only empty a filtered deck.</source>
+        <target>خالی کردن فقط برای دسته‌های فیلتر شده ممکن است.</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="You can only rebuild a filtered deck." xml:space="preserve">
         <source>You can only rebuild a filtered deck.</source>
+        <target>امکان بازسازی فقط برای دسته‌های فیلتر شده ممکن است.</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="You have been logged out." xml:space="preserve">
         <source>You have been logged out.</source>
+        <target>شما خارج شدید.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Young" xml:space="preserve">
         <source>Young</source>
+        <target>جوان</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Young+Learn" xml:space="preserve">
         <source>Young+Learn</source>
+        <target>جوان+یادگیری</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="added-date" xml:space="preserve">
         <source>Added</source>
+        <target>اضافه شده</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="added-popup" xml:space="preserve">
         <source>Added</source>
+        <target>اضافه شده</target>
         <note>Shown when user adds a card; Edit Old Screen, Edit Screen</note>
       </trans-unit>
       <trans-unit id="anki-written-by" xml:space="preserve">
         <source>AnkiMobile was written by Damien Elmes and Richard Smith, and is based off Damien's work on the computer version of Anki.</source>
+        <target>AnkiMobile توسط Damien Elmes و Richard Smith و بر اساس نسخۀ کامپیوتر آنکی نوشته شده است.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="any-tag" xml:space="preserve">
         <source>any</source>
+        <target>هرکدام</target>
         <note>any tag; Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="auto-advance-to-start" xml:space="preserve">
         <source>To start automatically advancing, use the 'Auto Advance' action.</source>
+        <target>برای شروع پیشروی خودکار، از گزینۀ 'پیشروی خودکار' استفاده کنید.</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="buried-cards-msg" xml:space="preserve">
         <source>Some related or buried cards were delayed. They will be shown in a future study session, or you can %@</source>
+        <target>بعضی از کارت‌های مرتبط به تعویق افتاده‌اند. این کارت‌ها تا جلسه‌های آینده نشان داده نخواهند شد، یا شما می‌توانید %@</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
         <source>The front of this card is blank.</source>
+        <target>جلوی این کارت خالی است.</target>
         <note>Template</note>
       </trans-unit>
       <trans-unit id="check-clock" xml:space="preserve">
         <source>Please ensure your clock is set to the correct date and time, then try again.</source>
+        <target>لطفاً از تنظیم بودن ساعت دستگاه خود اطمینان حاصل کرده، سپس دوباره تلاش کنید.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="check-version-sync" xml:space="preserve">
         <source>Please check that you are running the latest version of AnkiMobile.</source>
+        <target>لطفاً اطمینان حاصل کنید که از آخرین نسخۀ AnkiMobile استفاده می‌کنید.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
         <source>Cloze</source>
+        <target>جاخالی</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
         <source>Your collection is corrupt. Please post on the support site for help.</source>
+        <target>مجموعۀ شما خراب است. لطفاً در سایت پشتیبانی درخواست کمک کنید.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
+        <target>برای مطالعه خارج از زمانبندی عادی می‌توانید از %@ استفاده کنید</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
+        <target>حذف این گروه اختیارات در همگام‌سازی بعدی از یکسان‌سازی هر تغییری روی دستگاه‌های دیگر جلوگیری خواهد کرد. ادامه؟</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="error-playing-audio-full" xml:space="preserve">
         <source>Error playing audio. This can be caused by a corrupt file, a file iOS does not support (eg .ogg), or an mp3 file incorrectly named .wav</source>
+        <target>خطا در پخش صوت. این ممکن است در اثر یک فایل خراب، فایلی که iOS از آن پشتیبانی نمی‌کند (مثلاً .ogg)، یا اشتباه نامگذاری فایل .mp3 به‌صورت .wav رخ داده باشد</target>
         <note>Audio Manager</note>
       </trans-unit>
       <trans-unit id="filter-cram-short-version" xml:space="preserve">
         <source>Filter</source>
+        <target>فیلتر</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="force-sync-confirm" xml:space="preserve">
         <source>Force a one way sync? All changes on one side will be lost.</source>
+        <target>همگام‌سازی یک‌طرفه اجباری؟ همۀ تغییرات در یک سمت از دست خواهد رفت.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="gamepad-button-mapping" xml:space="preserve">
         <source>Button Mapping</source>
+        <target>شخصی‌سازی دکمه‌ها</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="gamepad-menu-button" xml:space="preserve">
         <source>Menu</source>
+        <target>منو</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="gamepad-options-button" xml:space="preserve">
         <source>Options</source>
+        <target>تنظیمات</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="graph-label-days" xml:space="preserve">
         <source>d</source>
+        <target>روز</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="graph-label-months" xml:space="preserve">
         <source>mo</source>
+        <target>ماه</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="graph-label-weeks" xml:space="preserve">
         <source>w</source>
+        <target>هفته</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="have-ready-to-study" xml:space="preserve">
         <source>You have %@ ready to study.</source>
+        <target>شما %@ آماده مطالعه دارید.</target>
         <note>...have (5 cards) ready...; Utils</note>
       </trans-unit>
       <trans-unit id="hours" xml:space="preserve">
         <source>hours</source>
+        <target>ساعت</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="if-failed-try-again" xml:space="preserve">
         <source>If a previous sync failed, please try again in a few minutes.</source>
+        <target>اگر همگام‌سازی قبلی با مشکل موجه شد، لطفاً بعد از چند دقیقه دوباره تلاش کنید.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
+        <target>AnkiMobile با استفاده از %@ که توسط توسعه دهندگان به اشتراک گذاشته شده، ساخته شده است.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="minutes" xml:space="preserve">
         <source>minutes</source>
+        <target>دقیقه</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="more-info" xml:space="preserve">
         <source>More info</source>
+        <target>اطلاعات بیشتر</target>
         <note>Template</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
+        <target>کارت‌های بیشتری در دسترس است، اما حد مطالعه پر شده است. شما می‌توانید حد مطالعه را در تنظیمات دسته افزایش دهید، اما بخ خاطر داشته باشد که هرچه تعداد کارت‌های جدید بیشتری مطالعه کنید، تعداد کارت‌هایی که باید در کوتاه مدت مطالعه کنید بیشتر می‌شوند.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
         <source>Night mode darkens the interface, and displays cards as white on black.</source>
+        <target>حالت شب رابط کاربری را تیره می‌کند، و کارت‌ها را به‌صورت سفید روی سیاه نشان می‌دهد.</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="night-mode-same-as-system" xml:space="preserve">
         <source>Follow System</source>
+        <target>مثل دستگاه</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="no tags available" xml:space="preserve">
         <source>no tags available</source>
+        <target>برچسبی در دسترس نیست</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="no-load-restore-backup" xml:space="preserve">
         <source>Your collection couldn't be loaded. Please restore from an automatic backup via the preferences screen.</source>
+        <target>بارگذاری مجموعۀ شما انجام نشد. لطفاً با استفاده از یکی از پشتیبان‌های خودکار در صفحۀ تنظیمات مجموعه را بازنشانی کنید.</target>
         <note>Profiles Screen, Utils</note>
       </trans-unit>
       <trans-unit id="no-tags" xml:space="preserve">
         <source>none</source>
+        <target>هیچکدام</target>
         <note>no tags selected; Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="not-valid-link" xml:space="preserve">
         <source>does not appear to be a valid http/https link.</source>
+        <target>لینک نامعتبر.</target>
         <note>(http://example.com) does not appear to be...; Download Manager</note>
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
         <source>Type:</source>
+        <target>نوع:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
         <source>Overwrite entire collection with imported file? This action can not be undone.</source>
+        <target>بازنویسی همۀ مجموعه با استفاده از فایل وارد شده؟ این عمل غیرقابل برگشت است.</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="part-of-whole" xml:space="preserve">
         <source>%1$d of %2$d</source>
+        <target>%1$d از %2$d</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="please-see" xml:space="preserve">
         <source>Please see %@ for more information.</source>
+        <target>لطفاً برای اطلاعات بیشتر به %@ مراجعه کنید.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="privacy-microphone" xml:space="preserve">
         <source>Please go to Privacy&gt;Microphone in your device's settings, and allow Anki to access the microphone.</source>
+        <target>لطفاً به مسیر حریم خصوصی&gt;میکروفون در تنظیمات دستگاه خود مراجعه کرده، و اجازۀ استفاده از میکروفون را برای آنکی صادر کنید.</target>
         <note>Audio Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="return-by-delete" xml:space="preserve">
         <source>To return all cards at once, swipe over the blue deck in the deck list, and delete it.</source>
+        <target>برای بازگردانی همۀ کارت‌ها به‌صورت یکجا، روی دستۀ آبی در لیست دسته‌ها بکشید، و آن را حذف کنید.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="revert-to-backup-confirm" xml:space="preserve">
         <source>Revert to %@? Any changes made since the backup will be lost.</source>
+        <target>بازگردانی به %@؟ هر تغییری که بعد از پشتیبان‌گیری انجام گرفته است از دست خواهد رفت.</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="review-limit-reached" xml:space="preserve">
         <source>Today's review limit has been reached, but there are still cards waiting to be reviewed. For optimum memory, consider increasing the daily limit in the options.</source>
+        <target>حد مرور امروز پر شده است، اما هنوز تعدادی کارت برای مرور وجود دارند. برای بهسازی یادگیری، لطفاً حد مرور کارت‌ها را افزایش در تنظیمات دسته افزایش دهید.</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="reviews" xml:space="preserve">
         <source>reviews</source>
+        <target>مرورها</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
+        <target>متوسط</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
         <source>None</source>
+        <target>هیچکدام</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-slight" xml:space="preserve">
         <source>Slight</source>
+        <target>جزئی</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.</source>
+        <target>لطفاً به تنظیمات مراجعه کرده، آنکی را پیدا کرده، و اعلان‌ها، نشانک‌ها و هشدارها را برای آنکی فعال کنید.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
         <source>some third-party libraries</source>
+        <target>بعضی از مجموعه‌های دیگر</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="sync-conflict-msg" xml:space="preserve">
         <source>Your decks here and on AnkiWeb differ in such a way that they can't be merged together, so it's necessary to overwrite the decks on one side with the decks from the other. Do you want to upload the decks from here, or download the decks from AnkiWeb?</source>
+        <target>دسته‌های شما در اینجا و در AnkiWeb آنقدر تفاوت دارند که دیگر نمی‌توانند یکسان‌سازی شوند، پس بازنویسی دسته‌های یکی از طرفین با استفاده از دستۀ دیگر لازم است صورت بگیرد. آیا می‌خواهید دسته‌ها را از اینجا آپلود کنید، یا دسته‌های موجود بر AnkiWeb را دانلود کنید؟</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="sync-inconsistent" xml:space="preserve">
         <source>Your collection is in an inconsistent state. Please use the Check Database function, then try again.</source>
+        <target>مجموعۀ شما در حالت ناپایدار است. لطفاً دیتابیس را بررسی کرده، سپس مجدداً تلاش کنید.</target>
         <note>Syncer, Syncer</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
         <source>To activate syncing, tap the synchronize button on the deck list screen.</source>
+        <target>برای فعال‌سازی همگام‌سازی، بر روی دکمۀ همگام‌سازی در لیست دسته‌ها بزنید.</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="thanks-contributors" xml:space="preserve">
         <source>A big thanks to everyone who has provided translations, bug reports, and suggestions.</source>
+        <target>از همۀ کسانی که ترجمه، گزارش مشکل، و پیشنهادات را فراهم کردند تشکر می‌کنیم.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="thanks-for-support" xml:space="preserve">
         <source>Thank you for buying AnkiMobile! Anki development would not be able to continue without your support, so it is greatly appreciated.</source>
+        <target>از شما برای خریدن AnkiMobile تشکر می‌کنیم! توسعۀ آنکی بدون حمایت شما ممکن نبود، پس کمال قدردانی را از حمایتتان داریم.</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="the Anki homepage" xml:space="preserve">
         <source>the Anki homepage</source>
+        <target>صفحۀ آنکی</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="today-again-count" xml:space="preserve">
         <source>Again count: %d (%0.2f%% correct)</source>
+        <target>تعداد دوباره: %d (%0.2f%% صحیح)</target>
         <note>eg. Again count: 32 (86.32% correct); Utils</note>
       </trans-unit>
       <trans-unit id="unbury cards now" xml:space="preserve">
         <source>unbury cards now</source>
+        <target>لغو دفن کارت‌ها</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
         <source>Cards will be returned to their original deck as you answer them.</source>
+        <target>کارت‌ها بعد از پاسخ به دستۀ اصلی خود بازگردانده می‌شوند.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="x-per-day" xml:space="preserve">
         <source>%@/day</source>
+        <target>%@ در روز</target>
         <note>Collection Stats</note>
       </trans-unit>
     </body>
