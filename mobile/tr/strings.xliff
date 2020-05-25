@@ -7,22 +7,27 @@
     <body>
       <trans-unit id="Add Cards" xml:space="preserve">
         <source>Add Cards</source>
+        <target>Kart Ekle</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This allows Anki to insert the images you capture onto your cards.</source>
+        <target>Bu, Anki'nin çektiğiniz resimleri kartlarınıza eklemesini sağlar.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>The microphone will only be used when you tap the record button.</source>
+        <target>Mikrofon yalnızca kayıt düğmesine dokunduğunuzda kullanılır.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>The "Add to Photos" action requires your permission.</source>
+        <target>"Fotoğraflar'a Ekle" işlemi için izniniz gerekiyor.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>This allows the photo browser to show.</source>
+        <target>Bu, fotoğraf tarayıcısının gösterilmesini sağlar.</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
@@ -35,6 +40,7 @@
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
+        <target>Ara</target>
         <note/>
       </trans-unit>
     </body>
@@ -46,10 +52,12 @@
     <body>
       <trans-unit id="% Correct" xml:space="preserve">
         <source>% Correct</source>
+        <target>% Doğruluk</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="% Total" xml:space="preserve">
         <source>% Total</source>
+        <target>Toplam %</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="%@ available" xml:space="preserve">
@@ -58,102 +66,127 @@
       </trans-unit>
       <trans-unit id="%d/%d selected" xml:space="preserve">
         <source>%d/%d selected</source>
+        <target>%d/%d seçili</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="(end)" xml:space="preserve">
         <source>(end)</source>
+        <target>(son)</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="(filtered)" xml:space="preserve">
         <source>(filtered)</source>
+        <target>(filtreli)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
         <source>+5s</source>
+        <target>+5 sn</target>
         <note>Short version of 'Current Audio +5s'; Actions</note>
       </trans-unit>
       <trans-unit id="-5s" xml:space="preserve">
         <source>-5s</source>
+        <target>-5 sn</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
       </trans-unit>
       <trans-unit id="1 Month" xml:space="preserve">
         <source>1 Month</source>
+        <target>1 Ay</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="1 Year" xml:space="preserve">
         <source>1 Year</source>
+        <target>1 Yıl</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="3AM" xml:space="preserve">
         <source>3AM</source>
+        <target>03:00</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="4PM" xml:space="preserve">
         <source>4PM</source>
+        <target>16:00</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="10AM" xml:space="preserve">
         <source>10AM</source>
+        <target>10:00</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="10PM" xml:space="preserve">
         <source>10PM</source>
+        <target>22:00</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="A deck must be provided." xml:space="preserve">
         <source>A deck must be provided.</source>
+        <target>Bir deste sağlanmalıdır.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A deck named '%@' already exists." xml:space="preserve">
         <source>A deck named '%@' already exists.</source>
+        <target>'% @' isimli bir deste zaten var.</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="A deck with that name already exists." xml:space="preserve">
         <source>A deck with that name already exists.</source>
+        <target>Bu isimde bir deste zaten var.</target>
         <note>Deck And Note Type Selector, Decks Screen</note>
       </trans-unit>
       <trans-unit id="A note type must be provided." xml:space="preserve">
         <source>A note type must be provided.</source>
+        <target>Bir not tipi belirtilmelidir.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A note with the same first field already exists." xml:space="preserve">
         <source>A note with the same first field already exists.</source>
+        <target>Aynı ilk alana sahip bir not zaten var.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A profile must be provided." xml:space="preserve">
         <source>A profile must be provided.</source>
+        <target>Bir profil belirtilmelidir.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A profile with that name already exists." xml:space="preserve">
         <source>A profile with that name already exists.</source>
+        <target>Bu isimde bir profil zaten var.</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
+        <target>Hakkında</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
+        <target>İşlemler</target>
         <note>Check Media Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
+        <target>Ekle</target>
         <note>Actions, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Add Deck" xml:space="preserve">
         <source>Add Deck</source>
+        <target>Deste Ekle</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Empty Deck" xml:space="preserve">
         <source>Add Empty Deck</source>
+        <target>Boş Deste Ekle</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Add Media" xml:space="preserve">
         <source>Add Media</source>
+        <target>Medya Ekle</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Add New" xml:space="preserve">
         <source>Add New</source>
+        <target>Yeni Ekle</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Options Group" xml:space="preserve">
