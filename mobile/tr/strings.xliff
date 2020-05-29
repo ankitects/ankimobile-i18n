@@ -161,7 +161,7 @@
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
-        <target>İşlemler</target>
+        <target>Eylemler</target>
         <note>Check Media Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
@@ -191,122 +191,152 @@
       </trans-unit>
       <trans-unit id="Add Options Group" xml:space="preserve">
         <source>Add Options Group</source>
+        <target>Seçenekler Grubu Ekle</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Add Profile" xml:space="preserve">
         <source>Add Profile</source>
+        <target>Profil Ekle</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
+        <target>Ekle/Dışa Aktar</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
         <source>Added Today</source>
+        <target>Bugün Eklenen</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Added note." xml:space="preserve">
         <source>Added note.</source>
+        <target>Eklenen not.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="Added to frequent actions." xml:space="preserve">
         <source>Added to frequent actions.</source>
+        <target>Sık eylemlere eklendi.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Again" xml:space="preserve">
         <source>Again</source>
+        <target>Tekrar</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Again Today" xml:space="preserve">
         <source>Again Today</source>
+        <target>Bugün Tekrar</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Alert Time" xml:space="preserve">
         <source>Alert Time</source>
+        <target>Uyarı Zamanı</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="Alert When Due" xml:space="preserve">
         <source>Alert When Due</source>
+        <target>Süresi Dolduğunda Uyar</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target>Hepsi</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
         <source>All Actions</source>
+        <target>Bütün Eylemler</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Already in frequent actions." xml:space="preserve">
         <source>Already in frequent actions.</source>
+        <target>Zaten Sık Eylemlerde var.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Always Duck + Ignore Mute" xml:space="preserve">
         <source>Always Duck + Ignore Mute</source>
+        <target>Her Zaman Etkisiz + Sessizliği Yoksay</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="An error occurred on AnkiWeb." xml:space="preserve">
         <source>An error occurred on AnkiWeb.</source>
+        <target>AnkiWeb'te bir hata oluştu.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="An error occurred: %@" xml:space="preserve">
         <source>An error occurred: %@</source>
+        <target>Bir hata oluştu: %@</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="AnkiWeb is too busy at the moment." xml:space="preserve">
         <source>AnkiWeb is too busy at the moment.</source>
+        <target>AnkiWeb şu anda çok yoğun.</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Answer Action" xml:space="preserve">
         <source>Answer Action</source>
+        <target>Cevaplama Eylemi</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Answer Again" xml:space="preserve">
         <source>Answer Again</source>
+        <target>Tekrar Cevapla</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Buttons" xml:space="preserve">
         <source>Answer Buttons</source>
+        <target>Cevap Tuşları</target>
         <note>Collection Stats, Preferences</note>
       </trans-unit>
       <trans-unit id="Answer Count" xml:space="preserve">
         <source>Answer Count</source>
+        <target>Cevap Sayısı</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Answer Easy" xml:space="preserve">
         <source>Answer Easy</source>
+        <target>Kolay</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Good" xml:space="preserve">
         <source>Answer Good</source>
+        <target>İyi</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Hard" xml:space="preserve">
         <source>Answer Hard</source>
+        <target>Zor</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Keeps Zoom" xml:space="preserve">
         <source>Answer Keeps Zoom</source>
+        <target>Cevap Yakınlaştırmayı Korur</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Answer Seconds" xml:space="preserve">
         <source>Answer Seconds</source>
+        <target>Cevap Saniyesi</target>
         <note>Auto Advance Options</note>
       </trans-unit>
       <trans-unit id="Answer Side" xml:space="preserve">
         <source>Answer Side</source>
+        <target>Cevap Yüzü</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Answer time cap" xml:space="preserve">
         <source>Answer time cap</source>
+        <target>Cevap zaman sınırı</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Answer time elapsed" xml:space="preserve">
         <source>Answer time elapsed</source>
+        <target>Cevap süresi geçen</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Answers" xml:space="preserve">
         <source>Answers</source>
+        <target>Cevaplar</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Any Flag" xml:space="preserve">
@@ -315,10 +345,12 @@
       </trans-unit>
       <trans-unit id="App Icon Shows Due Count" xml:space="preserve">
         <source>App Icon Shows Due Count</source>
+        <target>Simgede Bekleyen Not Sayısını Gösterir</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="Append" xml:space="preserve">
         <source>Append</source>
+        <target>Sonuna Ekle</target>
         <note>add current row to existing search; Search Screen</note>
       </trans-unit>
       <trans-unit id="Append Negated" xml:space="preserve">
@@ -327,218 +359,272 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
+        <target>Emin misin?</target>
         <note>Decks Screen, Profiles Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Audio Buttons" xml:space="preserve">
         <source>Audio Buttons</source>
+        <target>Ses Tuşları</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Authenticating..." xml:space="preserve">
         <source>Authenticating...</source>
+        <target>Doğrulanıyor...</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
         <source>Authentication failed. Please try again.</source>
+        <target>Kimlik doğrulama başarısız oldu. Lütfen tekrar deneyin.</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
+        <target>Oto İlerle.</target>
         <note>Short version of 'Auto Advance'; Actions</note>
       </trans-unit>
       <trans-unit id="Auto Advance" xml:space="preserve">
         <source>Auto Advance</source>
+        <target>Otomatik İlerleme</target>
         <note>Actions, Auto Advance Options, Preferences</note>
       </trans-unit>
       <trans-unit id="Auto advance starting" xml:space="preserve">
         <source>Auto advance starting</source>
+        <target>Otomatik ilerleme başlatılıyor</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Auto advance stopped" xml:space="preserve">
         <source>Auto advance stopped</source>
+        <target>Otomatik ilerleme durduruldu</target>
         <note>Study Screen</note>
       </trans-unit>
       <trans-unit id="Automatically play audio" xml:space="preserve">
         <source>Automatically play audio</source>
+        <target>Sesi otomatik olarak çal</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Available backups" xml:space="preserve">
         <source>Available backups</source>
+        <target>Mevcut yedekler</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
         <source>Average</source>
+        <target>Ortalama</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average Time" xml:space="preserve">
         <source>Average Time</source>
+        <target>Ortalama Zaman</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Average answer time" xml:space="preserve">
         <source>Average answer time</source>
+        <target>Ortalama cevap süresi</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average ease" xml:space="preserve">
         <source>Average ease</source>
+        <target>Ortalama kolaylık</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average for days studied" xml:space="preserve">
         <source>Average for days studied</source>
+        <target>Ortalama çalışılan gün</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average interval" xml:space="preserve">
         <source>Average interval</source>
+        <target>Ortalama fasıla</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
+        <target>Geri</target>
         <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Backup failed: %@" xml:space="preserve">
         <source>Backup failed: %@</source>
+        <target>Yedekleme başarısız oldu: %@</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
+        <target>Yedekler</target>
         <note>Backup Manager, Preferences</note>
       </trans-unit>
       <trans-unit id="Bar Style" xml:space="preserve">
         <source>Bar Style</source>
+        <target>Bar Sitili</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
+        <target>Siyah</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Bold" xml:space="preserve">
         <source>Bold</source>
+        <target>Kalın</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Bot.B" xml:space="preserve">
         <source>Bot.B</source>
+        <target>Alt B.</target>
         <note>Short version of 'Bottom Bar'; Actions</note>
       </trans-unit>
       <trans-unit id="Bottom Bar" xml:space="preserve">
         <source>Bottom Bar</source>
+        <target>Alt Bar</target>
         <note>Actions, Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Bar Size" xml:space="preserve">
         <source>Bottom Bar Size</source>
+        <target>Alt Bar Boyutu</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Center" xml:space="preserve">
         <source>Bottom Center</source>
+        <target>Alt Orta</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
         <source>Bottom Left</source>
+        <target>Sol Alt</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Bottom Right" xml:space="preserve">
         <source>Bottom Right</source>
+        <target>Sağ Alt</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Browse" xml:space="preserve">
         <source>Browse</source>
+        <target>Gözat</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Build" xml:space="preserve">
         <source>Build</source>
+        <target>Oluştur</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
+        <target>Gizli + Askıda</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
         <source>Bury Card</source>
+        <target>Kartı Gizle</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Bury Note" xml:space="preserve">
         <source>Bury Note</source>
+        <target>Notu Gizle</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Bury related new cards" xml:space="preserve">
         <source>Bury related new cards</source>
+        <target>İlgili yeni kartları gizle</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury related reviews" xml:space="preserve">
         <source>Bury related reviews</source>
+        <target>İlgili çalışmaları gizle</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury.C" xml:space="preserve">
         <source>Bury.C</source>
+        <target>KrtGzl.</target>
         <note>Short version of 'Bury Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Bury.N" xml:space="preserve">
         <source>Bury.N</source>
+        <target>NotGzl.</target>
         <note>Short version of 'Bury Note'; Actions</note>
       </trans-unit>
       <trans-unit id="Button %d" xml:space="preserve">
         <source>Button %d</source>
+        <target>%d Tuşu</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="C.Info" xml:space="preserve">
         <source>C.Info</source>
+        <target>Krt.B.</target>
         <note>Short version of 'Card Info'; Actions</note>
       </trans-unit>
       <trans-unit id="Can't edit - original image data not found." xml:space="preserve">
         <source>Can't edit - original image data not found.</source>
+        <target>Düzenlenemiyor - orijinal resim bulunamadı.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Can't extend limits - no extra cards are available." xml:space="preserve">
         <source>Can't extend limits - no extra cards are available.</source>
+        <target>Limitler uzatılamıyor - ilave kart yok.</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>İptal</target>
         <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
+        <target>Kaydedilmemiş değişiklikler iptal edilsin mi?</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Cannot Delete" xml:space="preserve">
         <source>Cannot Delete</source>
+        <target>Silinemiyor</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Card Count" xml:space="preserve">
         <source>Card Count</source>
+        <target>Kart Sayısı</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Card Info" xml:space="preserve">
         <source>Card Info</source>
+        <target>Kart Bilgisi</target>
         <note>Actions, Card Stats Screen, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card Template" xml:space="preserve">
         <source>Card Template</source>
+        <target>Kart Şablonu</target>
         <note>Actions, Card Template, Search Screen</note>
       </trans-unit>
       <trans-unit id="Card Type" xml:space="preserve">
         <source>Card Type</source>
+        <target>Kart Tipi</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Card Types" xml:space="preserve">
         <source>Card Types</source>
+        <target>Kart Tipleri</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Card Updated" xml:space="preserve">
         <source>Card Updated</source>
+        <target>Kart Güncellendi</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Card buried" xml:space="preserve">
         <source>Card buried</source>
+        <target>Kart gizlendi.</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Card limit" xml:space="preserve">
         <source>Card limit</source>
+        <target>Kart limiti</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Card returned to new card queue." xml:space="preserve">
         <source>Card returned to new card queue.</source>
+        <target>Kart yeni kart sırasına geri döndü.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card suspended" xml:space="preserve">
         <source>Card suspended</source>
+        <target>Kart askıya alındı</target>
         <note>Actions Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card unsuspended" xml:space="preserve">
@@ -551,18 +637,22 @@
       </trans-unit>
       <trans-unit id="Cards" xml:space="preserve">
         <source>Cards</source>
+        <target>Kartlar</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
         <source>Cards can't be manually moved into a filtered deck.</source>
+        <target>Kartlar filtrelenmiş bir desteye manuel olarak taşınamaz.</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Cards in a filtered deck can't be moved." xml:space="preserve">
         <source>Cards in a filtered deck can't be moved.</source>
+        <target>Filtrelenmiş destedeki kartlar taşınamaz.</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Change Deck" xml:space="preserve">
         <source>Change Deck</source>
+        <target>Desteyi Değiştir</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Change Flag" xml:space="preserve">
