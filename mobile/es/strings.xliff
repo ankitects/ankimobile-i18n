@@ -3151,10 +3151,12 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
+        <target>Medio</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
         <source>None</source>
+        <target>Ninguno</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-slight" xml:space="preserve">
@@ -3163,6 +3165,7 @@ Por favor, inténtelo de nuevo.</target>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.</source>
+        <target>Por favor, vaya a configuración de aplicaciónes de iOS, localize la sección de Anki, y habilite las notificaciones, insignias y alertas.</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
