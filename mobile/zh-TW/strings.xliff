@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hant" datatype="plaintext">
+  <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.4.1" build-num="11E503a"/>
     </header>
     <body>
       <trans-unit id="Add Cards" xml:space="preserve">
         <source>Add Cards</source>
+        <target>新增卡片</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
@@ -27,10 +28,12 @@
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
         <source>Packaged Anki Collection</source>
+        <target>已封裝的Anki收藏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Packaged Anki Deck" xml:space="preserve">
         <source>Packaged Anki Deck</source>
+        <target>已封裝的Anki牌組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -40,14 +43,14 @@
       </trans-unit>
     </body>
   </file>
-  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hant" datatype="plaintext">
+  <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.4.1" build-num="11E503a"/>
     </header>
     <body>
       <trans-unit id="% Correct" xml:space="preserve">
         <source>% Correct</source>
-        <target>% 正確</target>
+        <target>正确率(%)</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="% Total" xml:space="preserve">
@@ -89,34 +92,42 @@
       </trans-unit>
       <trans-unit id="3AM" xml:space="preserve">
         <source>3AM</source>
+        <target>上午3點</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="4PM" xml:space="preserve">
         <source>4PM</source>
+        <target>下午4點</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="10AM" xml:space="preserve">
         <source>10AM</source>
+        <target>上午10點</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="10PM" xml:space="preserve">
         <source>10PM</source>
+        <target>下午10點</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="A deck must be provided." xml:space="preserve">
         <source>A deck must be provided.</source>
+        <target>必須提供一個牌組。</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A deck named '%@' already exists." xml:space="preserve">
         <source>A deck named '%@' already exists.</source>
+        <target>已存在名為「%@」的牌組了。</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="A deck with that name already exists." xml:space="preserve">
         <source>A deck with that name already exists.</source>
+        <target>已存在名稱相同的牌組了。</target>
         <note>Deck And Note Type Selector, Decks Screen</note>
       </trans-unit>
       <trans-unit id="A note type must be provided." xml:space="preserve">
         <source>A note type must be provided.</source>
+        <target>必須提供一個筆記類型。</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A note with the same first field already exists." xml:space="preserve">
@@ -133,6 +144,7 @@
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
+        <target>關於</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
@@ -146,14 +158,17 @@
       </trans-unit>
       <trans-unit id="Add Deck" xml:space="preserve">
         <source>Add Deck</source>
+        <target>新增牌組</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Empty Deck" xml:space="preserve">
         <source>Add Empty Deck</source>
+        <target>新增空白牌組</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Add Media" xml:space="preserve">
         <source>Add Media</source>
+        <target>新增媒體</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Add New" xml:space="preserve">
@@ -166,6 +181,7 @@
       </trans-unit>
       <trans-unit id="Add Profile" xml:space="preserve">
         <source>Add Profile</source>
+        <target>新增設定檔</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Add Reverse" xml:space="preserve">
@@ -175,6 +191,7 @@
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
+        <target>新增/匯出</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
@@ -184,6 +201,7 @@
       </trans-unit>
       <trans-unit id="Added note." xml:space="preserve">
         <source>Added note.</source>
+        <target>已新增筆記。</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="Added to frequent actions." xml:space="preserve">
@@ -210,6 +228,7 @@
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target>全部</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
@@ -292,6 +311,7 @@
       </trans-unit>
       <trans-unit id="Any Flag" xml:space="preserve">
         <source>Any Flag</source>
+        <target>任何旗標</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="App Icon Shows Due Count" xml:space="preserve">
@@ -308,18 +328,22 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
+        <target>你確定嗎？</target>
         <note>Decks Screen, Profiles Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Audio Buttons" xml:space="preserve">
         <source>Audio Buttons</source>
+        <target>音訊按鈕</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Authenticating..." xml:space="preserve">
         <source>Authenticating...</source>
+        <target>正在驗證...</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
         <source>Authentication failed. Please try again.</source>
+        <target>驗證失敗。請再試一次。</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
@@ -402,24 +426,27 @@
       </trans-unit>
       <trans-unit id="Basic (and reversed card)" xml:space="preserve">
         <source>Basic (and reversed card)</source>
-        <target>基本型(含反向的卡片)</target>
+        <target>基本型（含反向的卡片）</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Basic (optional reversed card)" xml:space="preserve">
         <source>Basic (optional reversed card)</source>
-        <target>基本型(可選用反向的卡片)</target>
+        <target>基本型（可選用反向的卡片）</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Basic (type in the answer)" xml:space="preserve">
         <source>Basic (type in the answer)</source>
+        <target>基本型（輸入答案）</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
+        <target>黑色</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Bold" xml:space="preserve">
         <source>Bold</source>
+        <target>粗體</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Bot.B" xml:space="preserve">
@@ -530,10 +557,12 @@
       </trans-unit>
       <trans-unit id="Card Info" xml:space="preserve">
         <source>Card Info</source>
+        <target>卡片資訊</target>
         <note>Actions, Card Stats Screen, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card Template" xml:space="preserve">
         <source>Card Template</source>
+        <target>卡片模板</target>
         <note>Actions, Card Template, Search Screen</note>
       </trans-unit>
       <trans-unit id="Card Type" xml:space="preserve">
@@ -548,6 +577,7 @@
       </trans-unit>
       <trans-unit id="Card Updated" xml:space="preserve">
         <source>Card Updated</source>
+        <target>卡片更新時間</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Card buried" xml:space="preserve">
@@ -595,10 +625,12 @@
       </trans-unit>
       <trans-unit id="Change Flag" xml:space="preserve">
         <source>Change Flag</source>
+        <target>變更旗標</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Check Database" xml:space="preserve">
         <source>Check Database</source>
+        <target>檢查資料庫</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Checking..." xml:space="preserve">
@@ -613,19 +645,22 @@
       </trans-unit>
       <trans-unit id="Clear Flag" xml:space="preserve">
         <source>Clear Flag</source>
+        <target>清除旗標</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Cloze" xml:space="preserve">
         <source>Cloze</source>
-        <target>克漏題</target>
+        <target>克漏字</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Collection" xml:space="preserve">
         <source>Collection</source>
+        <target>收藏</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
+        <target>收藏已儲存到 iTunes。</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Column 1" xml:space="preserve">
@@ -638,10 +673,12 @@
       </trans-unit>
       <trans-unit id="Confirm Delete" xml:space="preserve">
         <source>Confirm Delete</source>
+        <target>確定刪除</target>
         <note>Actions Manager, Decks Screen, Profiles Screen, Search Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Confirm Reset" xml:space="preserve">
         <source>Confirm Reset</source>
+        <target>確定重設</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
@@ -656,6 +693,7 @@
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
+        <target>正確</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
@@ -673,14 +711,17 @@
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
         <source>Create</source>
+        <target>建立</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Create Now" xml:space="preserve">
         <source>Create Now</source>
+        <target>立即建立</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Creating Backup..." xml:space="preserve">
         <source>Creating Backup...</source>
+        <target>正在建立備份...</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Cumulative" xml:space="preserve">
@@ -704,10 +745,12 @@
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
+        <target>當前音訊+5s</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Audio -5s" xml:space="preserve">
         <source>Current Audio -5s</source>
+        <target>當前音訊-5s</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
@@ -717,10 +760,12 @@
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
         <source>Custom</source>
+        <target>自訂</target>
         <note>Short version of 'Custom Study'; Actions</note>
       </trans-unit>
       <trans-unit id="Custom Steps" xml:space="preserve">
         <source>Custom Steps</source>
+        <target>自訂步驟</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Custom Study" xml:space="preserve">
@@ -743,10 +788,12 @@
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
+        <target>深色</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Dark &amp; Translucent" xml:space="preserve">
         <source>Dark &amp; Translucent</source>
+        <target>深色半透明</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Database rebuilt and optimized." xml:space="preserve">
@@ -793,6 +840,7 @@
       </trans-unit>
       <trans-unit id="Deck:" xml:space="preserve">
         <source>Deck:</source>
+        <target>牌組：</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -812,10 +860,12 @@
       </trans-unit>
       <trans-unit id="Defaults" xml:space="preserve">
         <source>Defaults</source>
+        <target>預設</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Del" xml:space="preserve">
         <source>Del</source>
+        <target>刪除</target>
         <note>Short version of 'Delete Note'; Actions</note>
       </trans-unit>
       <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
@@ -839,14 +889,17 @@
       </trans-unit>
       <trans-unit id="Delete imported file?" xml:space="preserve">
         <source>Delete imported file?</source>
+        <target>刪除已匯入的檔案？</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Delete note and its cards?" xml:space="preserve">
         <source>Delete note and its cards?</source>
+        <target>刪除筆記和其卡片？</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Discard Changes" xml:space="preserve">
         <source>Discard Changes</source>
+        <target>捨棄變更</target>
         <note>Drawing Screen, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Display in order added" xml:space="preserve">
@@ -863,6 +916,7 @@
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target>完成</target>
         <note>Akconfig Table Edit Row, Card Template Editor, Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
@@ -871,6 +925,7 @@
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
         <source>Download Link</source>
+        <target>下載連結</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Download from AnkiWeb" xml:space="preserve">
@@ -880,10 +935,12 @@
       </trans-unit>
       <trans-unit id="Download was corrupt." xml:space="preserve">
         <source>Download was corrupt.</source>
+        <target>下載損毀。</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Downloading..." xml:space="preserve">
         <source>Downloading...</source>
+        <target>正在下載...</target>
         <note>Add Note Scheme, Download Manager, Edit Screen, Sync Screen, Syncer</note>
       </trans-unit>
       <trans-unit id="Drag here to remove" xml:space="preserve">
@@ -943,6 +1000,7 @@
       </trans-unit>
       <trans-unit id="Email address" xml:space="preserve">
         <source>Email address</source>
+        <target>電子信箱位址</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Empty" xml:space="preserve">
@@ -965,18 +1023,22 @@
       </trans-unit>
       <trans-unit id="Export Collection" xml:space="preserve">
         <source>Export Collection</source>
+        <target>匯出收藏</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Export to Share Sheet" xml:space="preserve">
         <source>Export to Share Sheet</source>
+        <target>匯出到...</target>
         <note>Exporter</note>
       </trans-unit>
       <trans-unit id="Export to iTunes" xml:space="preserve">
         <source>Export to iTunes</source>
+        <target>匯出到 iTunes</target>
         <note>Exporter</note>
       </trans-unit>
       <trans-unit id="Exporting..." xml:space="preserve">
         <source>Exporting...</source>
+        <target>正在匯出...</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Extra" xml:space="preserve">
@@ -1042,34 +1104,42 @@
       </trans-unit>
       <trans-unit id="Flag 1" xml:space="preserve">
         <source>Flag 1</source>
+        <target>旗標 1</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 1 (Red)" xml:space="preserve">
         <source>Flag 1 (Red)</source>
+        <target>旗標 1（紅色）</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 2" xml:space="preserve">
         <source>Flag 2</source>
+        <target>旗標 2</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 2 (Orange)" xml:space="preserve">
         <source>Flag 2 (Orange)</source>
+        <target>旗標 2（橙色）</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 3" xml:space="preserve">
         <source>Flag 3</source>
+        <target>旗標 3</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 3 (Green)" xml:space="preserve">
         <source>Flag 3 (Green)</source>
+        <target>旗標 3（綠色）</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 4" xml:space="preserve">
         <source>Flag 4</source>
+        <target>旗標 4</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 4 (Blue)" xml:space="preserve">
         <source>Flag 4 (Blue)</source>
+        <target>旗標 4（藍色）</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
@@ -1079,10 +1149,12 @@
       </trans-unit>
       <trans-unit id="Force Off" xml:space="preserve">
         <source>Force Off</source>
+        <target>強制關閉</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Force On" xml:space="preserve">
         <source>Force On</source>
+        <target>強制開啟</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Forecast" xml:space="preserve">
@@ -1353,10 +1425,12 @@
       </trans-unit>
       <trans-unit id="Light &amp; Translucent" xml:space="preserve">
         <source>Light &amp; Translucent</source>
+        <target>淺色半透明</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Link to .apkg file to import:" xml:space="preserve">
         <source>Link to .apkg file to import:</source>
+        <target>連結至 .apkg 檔來匯入：</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1366,18 +1440,22 @@
       </trans-unit>
       <trans-unit id="Log Out" xml:space="preserve">
         <source>Log Out</source>
+        <target>登出</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Logged in as:" xml:space="preserve">
         <source>Logged in as:</source>
+        <target>已登入為：</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
+        <target>登入</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Login Failed" xml:space="preserve">
         <source>Login Failed</source>
+        <target>登入失敗</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Long" xml:space="preserve">
@@ -1520,6 +1598,7 @@
       </trans-unit>
       <trans-unit id="Next Cloze" xml:space="preserve">
         <source>Next Cloze</source>
+        <target>下一個克漏字</target>
         <note>keyboard shortcut description; Edit Screen</note>
       </trans-unit>
       <trans-unit id="Next Field" xml:space="preserve">
@@ -1532,10 +1611,12 @@
       </trans-unit>
       <trans-unit id="Night" xml:space="preserve">
         <source>Night</source>
+        <target>夜晚</target>
         <note>Short version of 'Night Mode'; Actions</note>
       </trans-unit>
       <trans-unit id="Night Mode" xml:space="preserve">
         <source>Night Mode</source>
+        <target>夜晚模式</target>
         <note>Actions, Theme Options</note>
       </trans-unit>
       <trans-unit id="No .apkg or .colpkg files were found in iTunes" xml:space="preserve">
@@ -1622,6 +1703,7 @@
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
         <source>Notifications</source>
+        <target>通知</target>
         <note>Notification Options, Preferences</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -1762,6 +1844,7 @@
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
+        <target>設定檔名稱</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Profiles" xml:space="preserve">
@@ -1798,14 +1881,17 @@
       </trans-unit>
       <trans-unit id="Record" xml:space="preserve">
         <source>Record</source>
+        <target>錄製</target>
         <note>Short version of 'Record Voice'; Actions</note>
       </trans-unit>
       <trans-unit id="Record Voice" xml:space="preserve">
         <source>Record Voice</source>
+        <target>錄製聲音</target>
         <note>Actions, Utils</note>
       </trans-unit>
       <trans-unit id="Recording..." xml:space="preserve">
         <source>Recording...</source>
+        <target>正在錄製...</target>
         <note>Audio Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Relative overdueness" xml:space="preserve">
@@ -1834,6 +1920,7 @@
       </trans-unit>
       <trans-unit id="Rename Profile" xml:space="preserve">
         <source>Rename Profile</source>
+        <target>重新命名設定檔</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Repetitions" xml:space="preserve">
@@ -1846,6 +1933,7 @@
       </trans-unit>
       <trans-unit id="Replay" xml:space="preserve">
         <source>Replay</source>
+        <target>重播</target>
         <note>Short version of 'Replay Audio'; Actions</note>
       </trans-unit>
       <trans-unit id="Replay Audio" xml:space="preserve">
@@ -1855,10 +1943,12 @@
       </trans-unit>
       <trans-unit id="Replay Card" xml:space="preserve">
         <source>Replay Card</source>
+        <target>重播卡片</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Replay Voice" xml:space="preserve">
         <source>Replay Voice</source>
+        <target>重播聲音</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Replay q. audio in answer" xml:space="preserve">
@@ -1876,14 +1966,17 @@
       </trans-unit>
       <trans-unit id="Reset Card" xml:space="preserve">
         <source>Reset Card</source>
+        <target>重設卡片</target>
         <note>Actions, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Reset Cards" xml:space="preserve">
         <source>Reset Cards</source>
+        <target>重設卡片</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Reset all settings to defaults?" xml:space="preserve">
         <source>Reset all settings to defaults?</source>
+        <target>重設所有設定為預設值？</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Reset.C" xml:space="preserve">
@@ -1892,6 +1985,7 @@
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
         <source>Restore Defaults</source>
+        <target>恢復預設</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Revert" xml:space="preserve">
@@ -1984,6 +2078,7 @@
       </trans-unit>
       <trans-unit id="Same Cloze" xml:space="preserve">
         <source>Same Cloze</source>
+        <target>相同的克漏字</target>
         <note>keyboard shortcut description; Edit Screen</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -2177,26 +2272,32 @@
       </trans-unit>
       <trans-unit id="Swipe Down" xml:space="preserve">
         <source>Swipe Down</source>
+        <target>下滑</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipe Left" xml:space="preserve">
         <source>Swipe Left</source>
+        <target>左滑</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipe Right" xml:space="preserve">
         <source>Swipe Right</source>
+        <target>右滑</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipe Up" xml:space="preserve">
         <source>Swipe Up</source>
+        <target>上滑</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipes" xml:space="preserve">
         <source>Swipes</source>
+        <target>滑動手勢</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Swipes must begin from the far left or right of the screen." xml:space="preserve">
         <source>Swipes must begin from the far left or right of the screen.</source>
+        <target>必須從螢幕最左或最右側開始滑動手勢。</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Sync" xml:space="preserve">
@@ -2210,22 +2311,27 @@
       </trans-unit>
       <trans-unit id="Sync Failed" xml:space="preserve">
         <source>Sync Failed</source>
+        <target>同步失敗</target>
         <note>Sync Screen</note>
       </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
+        <target>同步聲音和影像</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Synchronize" xml:space="preserve">
         <source>Synchronize</source>
+        <target>同步</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Syncing" xml:space="preserve">
         <source>Syncing</source>
+        <target>同步</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Syncing changes..." xml:space="preserve">
         <source>Syncing changes...</source>
+        <target>正在同步變更...</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Tag Only" xml:space="preserve">
@@ -2235,10 +2341,12 @@
       </trans-unit>
       <trans-unit id="Tag:" xml:space="preserve">
         <source>Tag:</source>
+        <target>標籤：</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
         <source>Tags</source>
+        <target>標籤</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
@@ -2251,6 +2359,7 @@
       </trans-unit>
       <trans-unit id="Template" xml:space="preserve">
         <source>Template</source>
+        <target>模板</target>
         <note>Short version of 'Card Template'; Actions</note>
       </trans-unit>
       <trans-unit id="Text" xml:space="preserve">
@@ -2260,6 +2369,7 @@
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
         <source>The default deck cannot be deleted.</source>
+        <target>無法刪除預設牌組。</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
@@ -2317,6 +2427,7 @@
       </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
+        <target>佈景主題</target>
         <note>Preferences, Theme Options</note>
       </trans-unit>
       <trans-unit id="Thick" xml:space="preserve">
@@ -2409,6 +2520,7 @@
       </trans-unit>
       <trans-unit id="Underline" xml:space="preserve">
         <source>Underline</source>
+        <target>底線</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Undo" xml:space="preserve">
@@ -2554,6 +2666,7 @@
       </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
         <source>Cloze</source>
+        <target>克漏字</target>
         <note>eg Cloze (1); Search Screen</note>
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
@@ -2642,10 +2755,12 @@
       </trans-unit>
       <trans-unit id="night-mode-same-as-system" xml:space="preserve">
         <source>Follow System</source>
+        <target>跟隨系統</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="no tags available" xml:space="preserve">
         <source>no tags available</source>
+        <target>沒有可用的標籤</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="no-load-restore-backup" xml:space="preserve">
@@ -2654,6 +2769,7 @@
       </trans-unit>
       <trans-unit id="no-tags" xml:space="preserve">
         <source>none</source>
+        <target>無</target>
         <note>no tags selected; Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="not-valid-link" xml:space="preserve">
@@ -2662,6 +2778,7 @@
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
         <source>Type:</source>
+        <target>類型：</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
@@ -2670,6 +2787,7 @@
       </trans-unit>
       <trans-unit id="part-of-whole" xml:space="preserve">
         <source>%1$d of %2$d</source>
+        <target>%1$d / %2$d</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="please-see" xml:space="preserve">
@@ -2703,6 +2821,7 @@
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
         <source>None</source>
+        <target>無</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-slight" xml:space="preserve">
@@ -2715,6 +2834,7 @@
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
         <source>some third-party libraries</source>
+        <target>部分第三方函式庫</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="sync-conflict-msg" xml:space="preserve">
@@ -2735,10 +2855,12 @@
       </trans-unit>
       <trans-unit id="thanks-for-support" xml:space="preserve">
         <source>Thank you for buying AnkiMobile! Anki development would not be able to continue without your support, so it is greatly appreciated.</source>
+        <target>感謝您購買AnkiMobile！Anki的開發工作離不開您的支持。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="the Anki homepage" xml:space="preserve">
         <source>the Anki homepage</source>
+        <target>Anki首頁</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="today-again-count" xml:space="preserve">
