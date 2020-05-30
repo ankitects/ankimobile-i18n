@@ -7,30 +7,37 @@
     <body>
       <trans-unit id="Add Cards" xml:space="preserve">
         <source>Add Cards</source>
+        <target>Adicionar Cartões</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This allows Anki to insert the images you capture onto your cards.</source>
+        <target>Isso permite que o Anki insira as imagens que você captura nos seus cartões.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>The microphone will only be used when you tap the record button.</source>
+        <target>O microfone somente será usado quando você tocar no botão gravar.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>The "Add to Photos" action requires your permission.</source>
+        <target>A ação "Adicionar Fotos" requer a sua permissão.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>This allows the photo browser to show.</source>
+        <target>Isso permite que o navegador de fotos faça exibição.</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
         <source>Packaged Anki Collection</source>
+        <target>Coleção Anki Empacotada</target>
         <note/>
       </trans-unit>
       <trans-unit id="Packaged Anki Deck" xml:space="preserve">
         <source>Packaged Anki Deck</source>
+        <target>Baralho Anki Empacotado</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -52,14 +59,17 @@
       </trans-unit>
       <trans-unit id="% Total" xml:space="preserve">
         <source>% Total</source>
+        <target>% Total</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="%@ available" xml:space="preserve">
         <source>%@ available</source>
+        <target>%@ disponível</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="%d/%d selected" xml:space="preserve">
         <source>%d/%d selected</source>
+        <target>%d/%d selecionado</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="(end)" xml:space="preserve">
@@ -69,22 +79,27 @@
       </trans-unit>
       <trans-unit id="(filtered)" xml:space="preserve">
         <source>(filtered)</source>
+        <target>(filtrado)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
         <source>+5s</source>
+        <target>+5s</target>
         <note>Short version of 'Current Audio +5s'; Actions</note>
       </trans-unit>
       <trans-unit id="-5s" xml:space="preserve">
         <source>-5s</source>
+        <target>-5s</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
       </trans-unit>
       <trans-unit id="1 Month" xml:space="preserve">
         <source>1 Month</source>
+        <target>1 Mês</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="1 Year" xml:space="preserve">
         <source>1 Year</source>
+        <target>1 Ano</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="3AM" xml:space="preserve">
@@ -109,38 +124,47 @@
       </trans-unit>
       <trans-unit id="A deck must be provided." xml:space="preserve">
         <source>A deck must be provided.</source>
+        <target>Um baralho deve ser fornecido.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A deck named '%@' already exists." xml:space="preserve">
         <source>A deck named '%@' already exists.</source>
+        <target>Um baralho nomeado '%@' já existe.</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="A deck with that name already exists." xml:space="preserve">
         <source>A deck with that name already exists.</source>
+        <target>Um baralho com esse nome já existe.</target>
         <note>Deck And Note Type Selector, Decks Screen</note>
       </trans-unit>
       <trans-unit id="A note type must be provided." xml:space="preserve">
         <source>A note type must be provided.</source>
+        <target>Um tipo de anotação deve ser fornecido.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A note with the same first field already exists." xml:space="preserve">
         <source>A note with the same first field already exists.</source>
+        <target>Uma anotação com o mesmo primeiro campo já existe.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A profile must be provided." xml:space="preserve">
         <source>A profile must be provided.</source>
+        <target>Um perfil deve ser fornecido.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="A profile with that name already exists." xml:space="preserve">
         <source>A profile with that name already exists.</source>
+        <target>Um perfil com esse nome já existe.</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
+        <target>Sobre</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
+        <target>Ações</target>
         <note>Check Media Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
@@ -150,10 +174,12 @@
       </trans-unit>
       <trans-unit id="Add Deck" xml:space="preserve">
         <source>Add Deck</source>
+        <target>Adicionar Baralho</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Empty Deck" xml:space="preserve">
         <source>Add Empty Deck</source>
+        <target>Adicionar Baralho Vazio</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Add Media" xml:space="preserve">
@@ -163,14 +189,17 @@
       </trans-unit>
       <trans-unit id="Add New" xml:space="preserve">
         <source>Add New</source>
+        <target>Adicionar Novo</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Options Group" xml:space="preserve">
         <source>Add Options Group</source>
+        <target>Adicionar Grupo de Opções</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Add Profile" xml:space="preserve">
         <source>Add Profile</source>
+        <target>Adicionar Perfil</target>
         <note>Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Add Reverse" xml:space="preserve">
@@ -180,6 +209,7 @@
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
+        <target>Adicionar/Exportar</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
@@ -189,10 +219,12 @@
       </trans-unit>
       <trans-unit id="Added note." xml:space="preserve">
         <source>Added note.</source>
+        <target>Anotação adicionada.</target>
         <note>Add Note Scheme</note>
       </trans-unit>
       <trans-unit id="Added to frequent actions." xml:space="preserve">
         <source>Added to frequent actions.</source>
+        <target>Adicionado às ações frequentes.</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="Again" xml:space="preserve">
