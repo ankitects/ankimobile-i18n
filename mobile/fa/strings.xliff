@@ -264,6 +264,7 @@
       </trans-unit>
       <trans-unit id="Always Duck + Ignore Mute" xml:space="preserve">
         <source>Always Duck + Ignore Mute</source>
+        <target>انکار همیشه + چشم‌پوشی از بی‌صدا</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="An error occurred on AnkiWeb." xml:space="preserve">
