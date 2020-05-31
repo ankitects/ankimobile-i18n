@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
         <source>Packaged Anki Collection</source>
-        <target>已封裝的Anki收藏</target>
+        <target>已封裝的Anki集合</target>
         <note/>
       </trans-unit>
       <trans-unit id="Packaged Anki Deck" xml:space="preserve">
@@ -299,7 +299,7 @@
       </trans-unit>
       <trans-unit id="Answer Count" xml:space="preserve">
         <source>Answer Count</source>
-        <target>回答次數</target>
+        <target>回答計數</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Answer Easy" xml:space="preserve">
@@ -539,7 +539,7 @@
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
-        <target>暫時隱藏+擱置</target>
+        <target>已暫時隱藏+已暫止</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
@@ -664,12 +664,12 @@
       </trans-unit>
       <trans-unit id="Card suspended" xml:space="preserve">
         <source>Card suspended</source>
-        <target>卡片已擱置</target>
+        <target>已暫止卡片</target>
         <note>Actions Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card unsuspended" xml:space="preserve">
         <source>Card unsuspended</source>
-        <target>卡片已取消擱置</target>
+        <target>已取消暫止卡片</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card was a leech." xml:space="preserve">
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
         <source>Cards can't be manually moved into a filtered deck.</source>
-        <target>卡片無法手動移到篩選牌組</target>
+        <target>卡片無法手動移到篩選牌組。</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Cards in a filtered deck can't be moved." xml:space="preserve">
@@ -694,7 +694,7 @@
       </trans-unit>
       <trans-unit id="Change Deck" xml:space="preserve">
         <source>Change Deck</source>
-        <target>改變牌組</target>
+        <target>變更牌組</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Change Flag" xml:space="preserve">
@@ -729,12 +729,12 @@
       </trans-unit>
       <trans-unit id="Collection" xml:space="preserve">
         <source>Collection</source>
-        <target>收藏</target>
+        <target>集合</target>
         <note>Deck Stats Screen</note>
       </trans-unit>
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
-        <target>收藏已儲存到 iTunes。</target>
+        <target>集合已儲存到 iTunes。</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Column 1" xml:space="preserve">
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="Custom Steps" xml:space="preserve">
         <source>Custom Steps</source>
-        <target>自訂步驟</target>
+        <target>自訂間距</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Custom Study" xml:space="preserve">
@@ -1124,7 +1124,7 @@
       </trans-unit>
       <trans-unit id="Export Collection" xml:space="preserve">
         <source>Export Collection</source>
-        <target>匯出收藏</target>
+        <target>匯出集合</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Export to Share Sheet" xml:space="preserve">
@@ -1494,12 +1494,12 @@
       </trans-unit>
       <trans-unit id="Latest added first" xml:space="preserve">
         <source>Latest added first</source>
-        <target>最後加入的先</target>
+        <target>最近新增的優先</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Learn" xml:space="preserve">
         <source>Learn</source>
-        <target>新學習的卡</target>
+        <target>學習</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learn Ahead Minutes" xml:space="preserve">
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="Learn: %@, Review: %@, Relearn: %@, Filtered: %@" xml:space="preserve">
         <source>Learn: %@, Review: %@, Relearn: %@, Filtered: %@</source>
-        <target>學習：%@，複習：%@，重新學習：%@，已過濾：%@</target>
+        <target>學習：%@，複習：%@，重新學習：%@，已篩選：%@</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learning" xml:space="preserve">
@@ -1629,7 +1629,7 @@
       </trans-unit>
       <trans-unit id="M&amp;S" xml:space="preserve">
         <source>M&amp;S</source>
-        <target>標&amp;擱</target>
+        <target>標&amp;止</target>
         <note>Short version of 'Mark + Suspend'; Actions</note>
       </trans-unit>
       <trans-unit id="Mark" xml:space="preserve">
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="Mark + Suspend" xml:space="preserve">
         <source>Mark + Suspend</source>
-        <target>標記+擱置</target>
+        <target>標記+暫止</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Marked" xml:space="preserve">
@@ -1819,7 +1819,7 @@
       </trans-unit>
       <trans-unit id="No mature cards were studied today." xml:space="preserve">
         <source>No mature cards were studied today.</source>
-        <target>今天還沒有學習任何熟練卡片。</target>
+        <target>今天尚未學習任何熟練卡片。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -1844,7 +1844,7 @@
       </trans-unit>
       <trans-unit id="Note and its %i card(s) suspended" xml:space="preserve">
         <source>Note and its %i card(s) suspended</source>
-        <target>已擱置筆記和與其關聯的%i張卡片</target>
+        <target>已暫止的筆記和與其關聯的%i張卡片</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note and its %i cards deleted" xml:space="preserve">
@@ -1869,12 +1869,12 @@
       </trans-unit>
       <trans-unit id="Note suspended" xml:space="preserve">
         <source>Note suspended</source>
-        <target>已擱置筆記</target>
+        <target>已暫止筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note unsuspended" xml:space="preserve">
         <source>Note unsuspended</source>
-        <target>已取消擱置筆記</target>
+        <target>已取消暫止筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note:" xml:space="preserve">
@@ -1904,7 +1904,7 @@
       </trans-unit>
       <trans-unit id="Oldest seen first" xml:space="preserve">
         <source>Oldest seen first</source>
-        <target>舊卡先出現</target>
+        <target>最早查看的優先</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Only one client can access AnkiWeb at a time." xml:space="preserve">
@@ -2109,7 +2109,7 @@
       </trans-unit>
       <trans-unit id="Relearn" xml:space="preserve">
         <source>Relearn</source>
-        <target>重複學習</target>
+        <target>重新學習</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Remaining Count" xml:space="preserve">
@@ -2139,7 +2139,7 @@
       </trans-unit>
       <trans-unit id="Replace Collection" xml:space="preserve">
         <source>Replace Collection</source>
-        <target>取代收藏</target>
+        <target>取代集合</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Replay" xml:space="preserve">
@@ -2224,7 +2224,7 @@
       </trans-unit>
       <trans-unit id="Review Count" xml:space="preserve">
         <source>Review Count</source>
-        <target>複習次數</target>
+        <target>複習計數</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Review Time" xml:space="preserve">
@@ -2469,12 +2469,12 @@
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
         <source>Steps</source>
-        <target>步驟</target>
+        <target>間距</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps (in minutes)" xml:space="preserve">
         <source>Steps (in minutes)</source>
-        <target>步驟（分鐘）</target>
+        <target>間距（分鐘）</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Studied Today" xml:space="preserve">
@@ -2504,27 +2504,27 @@
       </trans-unit>
       <trans-unit id="Sus.C" xml:space="preserve">
         <source>Sus.C</source>
-        <target>擱置卡片</target>
+        <target>暫止卡片</target>
         <note>Short version of 'Suspend Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Sus.N" xml:space="preserve">
         <source>Sus.N</source>
-        <target>擱置筆記</target>
+        <target>暫止筆記</target>
         <note>Short version of 'Suspend Note'; Actions</note>
       </trans-unit>
       <trans-unit id="Suspend Card" xml:space="preserve">
         <source>Suspend Card</source>
-        <target>長久擱置卡片</target>
+        <target>暫止卡片</target>
         <note>Actions, Deck Options, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Suspend Note" xml:space="preserve">
         <source>Suspend Note</source>
-        <target>長久擱置筆記</target>
+        <target>暫止筆記</target>
         <note>Actions, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target>長久擱置</target>
+        <target>已暫止</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Swipe Down" xml:space="preserve">
@@ -2644,17 +2644,17 @@
       </trans-unit>
       <trans-unit id="The first field must not be empty." xml:space="preserve">
         <source>The first field must not be empty.</source>
-        <target>第一個欄位不能為空。</target>
+        <target>第一個欄位不能是空的。</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="The number of questions you have answered." xml:space="preserve">
         <source>The number of questions you have answered.</source>
-        <target>您的答題數。</target>
+        <target>您回答過的題目數量。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="The number of reviews due in the future." xml:space="preserve">
         <source>The number of reviews due in the future.</source>
-        <target>將來會到期的複習卡數量</target>
+        <target>未來的複習卡到期數量。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
@@ -2709,7 +2709,7 @@
       </trans-unit>
       <trans-unit id="Toggle Suspend" xml:space="preserve">
         <source>Toggle Suspend</source>
-        <target>切換擱置</target>
+        <target>切換暫止狀態</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
@@ -2844,12 +2844,12 @@
       </trans-unit>
       <trans-unit id="Unsuspend Card" xml:space="preserve">
         <source>Unsuspend Card</source>
-        <target>取消擱置卡片</target>
+        <target>取消暫止卡片</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unsuspend Note" xml:space="preserve">
         <source>Unsuspend Note</source>
-        <target>取消擱置筆記</target>
+        <target>取消暫止筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
@@ -2899,7 +2899,7 @@
       </trans-unit>
       <trans-unit id="Whole Collection" xml:space="preserve">
         <source>Whole Collection</source>
-        <target>所有的收藏</target>
+        <target>整個集合</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="You can only empty a filtered deck." xml:space="preserve">
@@ -2979,7 +2979,7 @@
       </trans-unit>
       <trans-unit id="corrupt-contact-support" xml:space="preserve">
         <source>Your collection is corrupt. Please post on the support site for help.</source>
-        <target>您的收藏已損毀。請回報到支援網站尋求幫助。</target>
+        <target>您的集合已損毀。請回報到支援網站尋求幫助。</target>
         <note>Syncer</note>
       </trans-unit>
       <trans-unit id="custom-study-msg" xml:space="preserve">
@@ -3089,7 +3089,7 @@
       </trans-unit>
       <trans-unit id="no-load-restore-backup" xml:space="preserve">
         <source>Your collection couldn't be loaded. Please restore from an automatic backup via the preferences screen.</source>
-        <target>無法載入您的收藏。請在「偏好設定」&gt;「備份」中恢復備份。</target>
+        <target>無法載入您的集合。請在「偏好設定」&gt;「備份」中恢復備份。</target>
         <note>Profiles Screen, Utils</note>
       </trans-unit>
       <trans-unit id="no-tags" xml:space="preserve">
@@ -3109,7 +3109,7 @@
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
         <source>Overwrite entire collection with imported file? This action can not be undone.</source>
-        <target>是否用匯入的檔案覆寫整個收藏？此動作無法復原。</target>
+        <target>是否用匯入的檔案覆寫整個集合？此動作無法復原。</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="part-of-whole" xml:space="preserve">
@@ -3144,7 +3144,7 @@
       </trans-unit>
       <trans-unit id="reviews" xml:space="preserve">
         <source>reviews</source>
-        <target>複習</target>
+        <target>次複習</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
@@ -3179,7 +3179,7 @@
       </trans-unit>
       <trans-unit id="sync-inconsistent" xml:space="preserve">
         <source>Your collection is in an inconsistent state. Please use the Check Database function, then try again.</source>
-        <target>您的收藏狀態不一致。請使用「檢查資料庫」功能，然後再試一次。</target>
+        <target>您的集合狀態不一致。請使用「檢查資料庫」功能，然後再試一次。</target>
         <note>Syncer, Syncer</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
