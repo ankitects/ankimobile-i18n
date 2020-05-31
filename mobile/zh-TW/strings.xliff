@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="Average ease" xml:space="preserve">
         <source>Average ease</source>
-        <target>平均難易度</target>
+        <target>中等容易程度</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average for days studied" xml:space="preserve">
@@ -759,7 +759,7 @@
       </trans-unit>
       <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
         <source>Congratulations! You have finished this deck for now.</source>
-        <target>恭喜！您完成本牌組了。</target>
+        <target>恭喜！您已完成本牌組當前的學習任務。</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="Connecting..." xml:space="preserve">
@@ -769,7 +769,7 @@
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
-        <target>正確</target>
+        <target>正確率</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="Ease" xml:space="preserve">
         <source>Ease</source>
-        <target>難易度</target>
+        <target>容易程度</target>
         <note>Card Stats, Search Screen</note>
       </trans-unit>
       <trans-unit id="Easy" xml:space="preserve">
@@ -1349,7 +1349,7 @@
       </trans-unit>
       <trans-unit id="Highest ease" xml:space="preserve">
         <source>Highest ease</source>
-        <target>最低難易度</target>
+        <target>最高容易程度</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Hourly Breakdown" xml:space="preserve">
@@ -1619,7 +1619,7 @@
       </trans-unit>
       <trans-unit id="Lowest ease" xml:space="preserve">
         <source>Lowest ease</source>
-        <target>最高難易度</target>
+        <target>最低容易程度</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
@@ -2464,7 +2464,7 @@
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
         <source>Starting ease</source>
-        <target>起始難易度</target>
+        <target>起始容易程度</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
@@ -2984,7 +2984,7 @@
       </trans-unit>
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
-        <target>要在正常排程外學習，請使用%@</target>
+        <target>要在常規排程外學習更多內容，請使用%@</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
