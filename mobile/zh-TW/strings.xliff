@@ -84,12 +84,12 @@
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
         <source>+5s</source>
-        <target>+5秒</target>
+        <target>快轉5秒</target>
         <note>Short version of 'Current Audio +5s'; Actions</note>
       </trans-unit>
       <trans-unit id="-5s" xml:space="preserve">
         <source>-5s</source>
-        <target>-5秒</target>
+        <target>倒轉5秒</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
       </trans-unit>
       <trans-unit id="1 Month" xml:space="preserve">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="Again Today" xml:space="preserve">
         <source>Again Today</source>
-        <target>今日按「再一次」的</target>
+        <target>今天按「再一次」的</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Alert Time" xml:space="preserve">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="Average for days studied" xml:space="preserve">
         <source>Average for days studied</source>
-        <target>只算學習天數的平均</target>
+        <target>平均值（只計算有學習的天數）</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average interval" xml:space="preserve">
@@ -539,7 +539,7 @@
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
-        <target>已暫時隱藏+已暫止</target>
+        <target>已暫時隱藏+暫時停止</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
@@ -664,12 +664,12 @@
       </trans-unit>
       <trans-unit id="Card suspended" xml:space="preserve">
         <source>Card suspended</source>
-        <target>已暫止卡片</target>
+        <target>已暫時停止卡片</target>
         <note>Actions Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card unsuspended" xml:space="preserve">
         <source>Card unsuspended</source>
-        <target>已取消暫止卡片</target>
+        <target>已取消暫時停止卡片</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card was a leech." xml:space="preserve">
@@ -824,12 +824,12 @@
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
-        <target>當前音訊+5s</target>
+        <target>當前音訊快轉5秒</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Audio -5s" xml:space="preserve">
         <source>Current Audio -5s</source>
-        <target>當前音訊-5s</target>
+        <target>當前音訊倒轉5秒</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
@@ -979,7 +979,7 @@
       </trans-unit>
       <trans-unit id="Delete imported file?" xml:space="preserve">
         <source>Delete imported file?</source>
-        <target>刪除已匯入的檔案？</target>
+        <target>刪除已匯入的原始檔案？</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Delete note and its cards?" xml:space="preserve">
@@ -1014,7 +1014,7 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
-        <target>防止點兩下</target>
+        <target>防止連點誤觸</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
@@ -1069,7 +1069,7 @@
       </trans-unit>
       <trans-unit id="Due tomorrow" xml:space="preserve">
         <source>Due tomorrow</source>
-        <target>明日到期</target>
+        <target>明天到期</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Ease" xml:space="preserve">
@@ -1379,7 +1379,7 @@
       </trans-unit>
       <trans-unit id="If you studied every day" xml:space="preserve">
         <source>If you studied every day</source>
-        <target>如果您每天學習的話</target>
+        <target>平均值（如果每天都學習）</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Ignore Fingers" xml:space="preserve">
@@ -1479,7 +1479,7 @@
       </trans-unit>
       <trans-unit id="Lapses" xml:space="preserve">
         <source>Lapses</source>
-        <target>忘記</target>
+        <target>忘記次數</target>
         <note>Card Stats, Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
@@ -1489,7 +1489,7 @@
       </trans-unit>
       <trans-unit id="Latest Review" xml:space="preserve">
         <source>Latest Review</source>
-        <target>最近的複習</target>
+        <target>最近複習</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Latest added first" xml:space="preserve">
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="Learn: %@, Review: %@, Relearn: %@, Filtered: %@" xml:space="preserve">
         <source>Learn: %@, Review: %@, Relearn: %@, Filtered: %@</source>
-        <target>學習：%@，複習：%@，重新學習：%@，已篩選：%@</target>
+        <target>學習：%@　複習：%@　重新學習：%@　已篩選：%@</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learning" xml:space="preserve">
@@ -1624,7 +1624,7 @@
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
         <source>M&amp;B</source>
-        <target>標&amp;暫隱</target>
+        <target>標&amp;隱</target>
         <note>Short version of 'Mark + Bury'; Actions</note>
       </trans-unit>
       <trans-unit id="M&amp;S" xml:space="preserve">
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="Mark + Suspend" xml:space="preserve">
         <source>Mark + Suspend</source>
-        <target>標記+暫止</target>
+        <target>標記+暫時停止</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Marked" xml:space="preserve">
@@ -1844,7 +1844,7 @@
       </trans-unit>
       <trans-unit id="Note and its %i card(s) suspended" xml:space="preserve">
         <source>Note and its %i card(s) suspended</source>
-        <target>已暫止的筆記和與其關聯的%i張卡片</target>
+        <target>已暫時停止的筆記和與其關聯的%i張卡片</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note and its %i cards deleted" xml:space="preserve">
@@ -1869,12 +1869,12 @@
       </trans-unit>
       <trans-unit id="Note suspended" xml:space="preserve">
         <source>Note suspended</source>
-        <target>已暫止筆記</target>
+        <target>已暫時停止筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note unsuspended" xml:space="preserve">
         <source>Note unsuspended</source>
-        <target>已取消暫止筆記</target>
+        <target>已取消暫時停止筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note:" xml:space="preserve">
@@ -2249,7 +2249,7 @@
       </trans-unit>
       <trans-unit id="Review success rate for each hour of the day." xml:space="preserve">
         <source>Review success rate for each hour of the day.</source>
-        <target>當日每小時的複習成功率。</target>
+        <target>當天的每小時複習成功率。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Review undone" xml:space="preserve">
@@ -2259,7 +2259,7 @@
       </trans-unit>
       <trans-unit id="Reviews" xml:space="preserve">
         <source>Reviews</source>
-        <target>複習卡</target>
+        <target>複習</target>
         <note>Card Stats, Collection Stats, Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Reviews first" xml:space="preserve">
@@ -2479,7 +2479,7 @@
       </trans-unit>
       <trans-unit id="Studied Today" xml:space="preserve">
         <source>Studied Today</source>
-        <target>今日已學習</target>
+        <target>今天已學習</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Study" xml:space="preserve">
@@ -2514,17 +2514,17 @@
       </trans-unit>
       <trans-unit id="Suspend Card" xml:space="preserve">
         <source>Suspend Card</source>
-        <target>暫止卡片</target>
+        <target>暫時停止卡片</target>
         <note>Actions, Deck Options, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Suspend Note" xml:space="preserve">
         <source>Suspend Note</source>
-        <target>暫止筆記</target>
+        <target>暫時停止筆記</target>
         <note>Actions, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target>已暫止</target>
+        <target>已暫時停止</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Swipe Down" xml:space="preserve">
@@ -2654,7 +2654,7 @@
       </trans-unit>
       <trans-unit id="The number of reviews due in the future." xml:space="preserve">
         <source>The number of reviews due in the future.</source>
-        <target>未來的複習卡到期數量。</target>
+        <target>將在未來到期的複習卡數量。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
@@ -2709,7 +2709,7 @@
       </trans-unit>
       <trans-unit id="Toggle Suspend" xml:space="preserve">
         <source>Toggle Suspend</source>
-        <target>切換暫止狀態</target>
+        <target>切換暫時停止狀態</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
@@ -2734,7 +2734,7 @@
       </trans-unit>
       <trans-unit id="Top Bar" xml:space="preserve">
         <source>Top Bar</source>
-        <target>頂列</target>
+        <target>頂端列</target>
         <note>Actions, Preferences</note>
       </trans-unit>
       <trans-unit id="Top Center" xml:space="preserve">
@@ -2844,12 +2844,12 @@
       </trans-unit>
       <trans-unit id="Unsuspend Card" xml:space="preserve">
         <source>Unsuspend Card</source>
-        <target>取消暫止卡片</target>
+        <target>取消暫時停止卡片</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unsuspend Note" xml:space="preserve">
         <source>Unsuspend Note</source>
-        <target>取消暫止筆記</target>
+        <target>取消暫時停止筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
@@ -2929,7 +2929,7 @@
       </trans-unit>
       <trans-unit id="added-date" xml:space="preserve">
         <source>Added</source>
-        <target>已新增</target>
+        <target>新增日期</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="added-popup" xml:space="preserve">
