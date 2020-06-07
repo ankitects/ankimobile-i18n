@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This allows Anki to insert the images you capture onto your cards.</source>
-        <target>這可讓Anki把您擷取的影像插入到卡片上。</target>
+        <target>這可讓Anki把您擷取的圖像插入到卡片上。</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="Add Reverse" xml:space="preserve">
         <source>Add Reverse</source>
-        <target>新增反向的資料</target>
+        <target>新增反向卡片</target>
         <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="Added Today" xml:space="preserve">
         <source>Added Today</source>
-        <target>今日新增</target>
+        <target>今天新增的</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Added note." xml:space="preserve">
@@ -409,7 +409,7 @@
       </trans-unit>
       <trans-unit id="Automatically play audio" xml:space="preserve">
         <source>Automatically play audio</source>
-        <target>自動播放聲音檔</target>
+        <target>自動播放音訊檔</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Available backups" xml:space="preserve">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="Average for days studied" xml:space="preserve">
         <source>Average for days studied</source>
-        <target>平均值（只計算有學習的天數）</target>
+        <target>平均值（實際學習天數）</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average interval" xml:space="preserve">
@@ -559,7 +559,7 @@
       </trans-unit>
       <trans-unit id="Bury related reviews" xml:space="preserve">
         <source>Bury related reviews</source>
-        <target>暫時隱藏關聯的複習卡</target>
+        <target>暫時隱藏關聯的待複習卡片</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury.C" xml:space="preserve">
@@ -584,7 +584,7 @@
       </trans-unit>
       <trans-unit id="Can't edit - original image data not found." xml:space="preserve">
         <source>Can't edit - original image data not found.</source>
-        <target>無法編輯——找不到原始影像資料。</target>
+        <target>無法編輯——找不到原始圖像資料。</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Can't extend limits - no extra cards are available." xml:space="preserve">
@@ -959,7 +959,7 @@
       </trans-unit>
       <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
         <source>Delays until reviews are shown again.</source>
-        <target>複習卡再次出現前的延遲。</target>
+        <target>待複習卡片再次出現前的延遲。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -1014,7 +1014,7 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
-        <target>防止連點誤觸</target>
+        <target>防止按兩下</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
@@ -1054,17 +1054,17 @@
       </trans-unit>
       <trans-unit id="Due" xml:space="preserve">
         <source>Due</source>
-        <target>到期</target>
+        <target>到期日</target>
         <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Due Date/Order" xml:space="preserve">
         <source>Due Date/Order</source>
-        <target>到期日期/順序</target>
+        <target>到期日/順序</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Due Reviews" xml:space="preserve">
         <source>Due Reviews</source>
-        <target>到期複習卡</target>
+        <target>到期的待複習卡片</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Due tomorrow" xml:space="preserve">
@@ -1154,7 +1154,7 @@
       </trans-unit>
       <trans-unit id="Extra review cards" xml:space="preserve">
         <source>Extra review cards</source>
-        <target>額外的複習卡</target>
+        <target>額外的待複習卡片</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Feedback Ticks" xml:space="preserve">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="Graduating interval" xml:space="preserve">
         <source>Graduating interval</source>
-        <target>晉階成複習卡的間隔</target>
+        <target>晉階為待複習卡片的間隔</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Group name" xml:space="preserve">
@@ -1429,7 +1429,7 @@
       </trans-unit>
       <trans-unit id="Increase today's review card limit" xml:space="preserve">
         <source>Increase today's review card limit</source>
-        <target>增加今日複習卡的上限</target>
+        <target>增加今日待複習卡片的上限</target>
         <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Increasing intervals" xml:space="preserve">
@@ -1669,7 +1669,7 @@
       </trans-unit>
       <trans-unit id="Max reviews per day" xml:space="preserve">
         <source>Max reviews per day</source>
-        <target>每天複習卡上限</target>
+        <target>每天待複習卡片上限</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Maximum Backups" xml:space="preserve">
@@ -1759,7 +1759,7 @@
       </trans-unit>
       <trans-unit id="New/Review Order" xml:space="preserve">
         <source>New/Review Order</source>
-        <target>新卡片/複習卡順序</target>
+        <target>新卡片/待複習卡片順序</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Next Cloze" xml:space="preserve">
@@ -2149,7 +2149,7 @@
       </trans-unit>
       <trans-unit id="Replay Audio" xml:space="preserve">
         <source>Replay Audio</source>
-        <target>重播聲音</target>
+        <target>重播音訊</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Replay Card" xml:space="preserve">
@@ -2264,7 +2264,7 @@
       </trans-unit>
       <trans-unit id="Reviews first" xml:space="preserve">
         <source>Reviews first</source>
-        <target>複習卡優先</target>
+        <target>待複習卡片優先</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
@@ -2384,7 +2384,7 @@
       </trans-unit>
       <trans-unit id="Set Due Date" xml:space="preserve">
         <source>Set Due Date</source>
-        <target>設定到期日期</target>
+        <target>設定到期日</target>
         <note>Actions, Edit Screen, Search Screen, Utils</note>
       </trans-unit>
       <trans-unit id="Shake Action" xml:space="preserve">
@@ -2479,7 +2479,7 @@
       </trans-unit>
       <trans-unit id="Studied Today" xml:space="preserve">
         <source>Studied Today</source>
-        <target>今天已學習</target>
+        <target>今天已學習的</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Study" xml:space="preserve">
@@ -2574,7 +2574,7 @@
       </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
-        <target>同步聲音和影像</target>
+        <target>同步音訊和圖像</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Synchronize" xml:space="preserve">
@@ -2614,7 +2614,7 @@
       </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
         <source>Taps</source>
-        <target>點選手勢</target>
+        <target>點按手勢</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Template" xml:space="preserve">
@@ -2654,7 +2654,7 @@
       </trans-unit>
       <trans-unit id="The number of reviews due in the future." xml:space="preserve">
         <source>The number of reviews due in the future.</source>
-        <target>將在未來到期的複習卡數量。</target>
+        <target>將在未來到期的待複習卡片數量。</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
@@ -2779,7 +2779,7 @@
       </trans-unit>
       <trans-unit id="Unable to obtain image" xml:space="preserve">
         <source>Unable to obtain image</source>
-        <target>無法取得影像</target>
+        <target>無法取得圖像</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unable to open Safari - please check parental controls." xml:space="preserve">
@@ -2799,7 +2799,7 @@
       </trans-unit>
       <trans-unit id="Unbury Deck" xml:space="preserve">
         <source>Unbury Deck</source>
-        <target>將牌組取消暫時隱藏</target>
+        <target>取消暫時隱藏牌組</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Underline" xml:space="preserve">
@@ -3069,7 +3069,7 @@
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
-        <target>牌組裡還有其他新的卡片，只是您已經達到今天的進度了。您可以在選項中增加每日卡片數量上限，但請注意，如果您設定更多新卡片，那麼您短期複習量的負荷就會隨之增加。</target>
+        <target>牌組裡還有其他新的卡片，但您已達到今日上限。您可以在選項中增加上限，但請注意，如果您設定更多新卡片，那麼您短期複習量的負荷就會隨之增加。</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
