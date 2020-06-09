@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="Custom Steps" xml:space="preserve">
         <source>Custom Steps</source>
-        <target>自訂間距</target>
+        <target>自訂階段</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Custom Study" xml:space="preserve">
@@ -1089,7 +1089,7 @@
       </trans-unit>
       <trans-unit id="Easy interval" xml:space="preserve">
         <source>Easy interval</source>
-        <target>簡單卡片晉階的間隔</target>
+        <target>簡單卡片的間隔</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="Graduating interval" xml:space="preserve">
         <source>Graduating interval</source>
-        <target>晉階為待複習卡片的間隔</target>
+        <target>畢業卡片的間隔</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Group name" xml:space="preserve">
@@ -1679,7 +1679,7 @@
       </trans-unit>
       <trans-unit id="Maximum interval" xml:space="preserve">
         <source>Maximum interval</source>
-        <target>最長間隔為</target>
+        <target>最長間隔</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Media files exported: %d..." xml:space="preserve">
@@ -1704,7 +1704,7 @@
       </trans-unit>
       <trans-unit id="Minimum interval" xml:space="preserve">
         <source>Minimum interval</source>
-        <target>至少間隔</target>
+        <target>最短間隔</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Minutes" xml:space="preserve">
@@ -2469,12 +2469,12 @@
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
         <source>Steps</source>
-        <target>間距</target>
+        <target>階段</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps (in minutes)" xml:space="preserve">
         <source>Steps (in minutes)</source>
-        <target>間距（分鐘）</target>
+        <target>階段（分鐘）</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Studied Today" xml:space="preserve">
@@ -2954,7 +2954,7 @@
       </trans-unit>
       <trans-unit id="buried-cards-msg" xml:space="preserve">
         <source>Some related or buried cards were delayed. They will be shown in a future study session, or you can %@</source>
-        <target>已將一些關聯的或已暫時隱藏的卡片延遲。它們將會在未來的學習階段中出現，或者您也可以%@</target>
+        <target>已將一些關聯的或已暫時隱藏的卡片延遲。它們將會在未來的學習時出現，或者您也可以%@</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="card-front-is-blank" xml:space="preserve">
