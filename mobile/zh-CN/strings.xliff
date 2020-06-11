@@ -202,11 +202,6 @@
         <target>添加配置文件</target>
         <note>Profiles Screen</note>
       </trans-unit>
-      <trans-unit id="Add Reverse" xml:space="preserve">
-        <source>Add Reverse</source>
-        <target>添加翻转卡片</target>
-        <note>Standard Models</note>
-      </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
         <target>添加/导出</target>
@@ -267,20 +262,10 @@
         <target>弱化其他媒体音量 + 无视系统静音</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="An error occurred on AnkiWeb." xml:space="preserve">
-        <source>An error occurred on AnkiWeb.</source>
-        <target>AnkiWeb中发生错误</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="An error occurred: %@" xml:space="preserve">
         <source>An error occurred: %@</source>
         <target>发生错误：%@</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="AnkiWeb is too busy at the moment." xml:space="preserve">
-        <source>AnkiWeb is too busy at the moment.</source>
-        <target>AnkiWeb现在繁忙</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Answer Action" xml:space="preserve">
         <source>Answer Action</source>
@@ -377,16 +362,6 @@
         <target>显示音频按钮</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Authenticating..." xml:space="preserve">
-        <source>Authenticating...</source>
-        <target>正在验证...</target>
-        <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
-        <source>Authentication failed. Please try again.</source>
-        <target>认证失败，请再试一次。</target>
-        <note>Sync Screen</note>
-      </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
         <target>自动播卡</target>
@@ -450,12 +425,7 @@
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
         <target>背面</target>
-        <note>Card Template, Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Backup failed: %@" xml:space="preserve">
-        <source>Backup failed: %@</source>
-        <target>备份失败：%@</target>
-        <note>Utils</note>
+        <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
@@ -466,26 +436,6 @@
         <source>Bar Style</source>
         <target>栏样式</target>
         <note>Theme Options</note>
-      </trans-unit>
-      <trans-unit id="Basic" xml:space="preserve">
-        <source>Basic</source>
-        <target>基本型</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (and reversed card)" xml:space="preserve">
-        <source>Basic (and reversed card)</source>
-        <target>基本型 (含翻转的卡片)</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (optional reversed card)" xml:space="preserve">
-        <source>Basic (optional reversed card)</source>
-        <target>基本型 (随意添加翻转的卡片)</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (type in the answer)" xml:space="preserve">
-        <source>Basic (type in the answer)</source>
-        <target>基本型 (输入答案)</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
@@ -595,7 +545,7 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>取消</target>
-        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Empty Cards, Search Screen, Sync, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
@@ -606,16 +556,6 @@
         <source>Cannot Delete</source>
         <target>不能删除</target>
         <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Card 1" xml:space="preserve">
-        <source>Card 1</source>
-        <target>卡片 1</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Card 2" xml:space="preserve">
-        <source>Card 2</source>
-        <target>卡片 2</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Card Count" xml:space="preserve">
         <source>Card Count</source>
@@ -710,7 +650,7 @@
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
         <target>正在检查...</target>
-        <note>Decks Screen, Preferences</note>
+        <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
         <source>Choose</source>
@@ -721,11 +661,6 @@
         <source>Clear Flag</source>
         <target>清除标注</target>
         <note>Search Screen</note>
-      </trans-unit>
-      <trans-unit id="Cloze" xml:space="preserve">
-        <source>Cloze</source>
-        <target>填空题</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Collection" xml:space="preserve">
         <source>Collection</source>
@@ -761,11 +696,6 @@
         <source>Congratulations! You have finished this deck for now.</source>
         <target>恭喜！您已经完成了目前的学习任务。</target>
         <note>Scheduler</note>
-      </trans-unit>
-      <trans-unit id="Connecting..." xml:space="preserve">
-        <source>Connecting...</source>
-        <target>正在连接...</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
@@ -877,11 +807,6 @@
         <target>深色半透明</target>
         <note>Theme Options</note>
       </trans-unit>
-      <trans-unit id="Database rebuilt and optimized." xml:space="preserve">
-        <source>Database rebuilt and optimized.</source>
-        <target>已重组并优化数据库。</target>
-        <note>Preferences</note>
-      </trans-unit>
       <trans-unit id="Day Starts" xml:space="preserve">
         <source>Day Starts</source>
         <target>一天开始于</target>
@@ -940,11 +865,6 @@
       <trans-unit id="Decreasing intervals" xml:space="preserve">
         <source>Decreasing intervals</source>
         <target>间隔降序</target>
-        <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Default" xml:space="preserve">
-        <source>Default</source>
-        <target>默认</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Defaults" xml:space="preserve">
@@ -1025,17 +945,12 @@
       <trans-unit id="Download from AnkiWeb" xml:space="preserve">
         <source>Download from AnkiWeb</source>
         <target>从 AnkiWeb 下载</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Download was corrupt." xml:space="preserve">
-        <source>Download was corrupt.</source>
-        <target>下载出错。</target>
-        <note>Syncer</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Downloading..." xml:space="preserve">
         <source>Downloading...</source>
         <target>下载中…</target>
-        <note>Add Note Scheme, Download Manager, Edit Screen, Sync Screen, Syncer</note>
+        <note>Add Note Scheme, Download Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Drag here to remove" xml:space="preserve">
         <source>Drag here to remove</source>
@@ -1100,7 +1015,7 @@
       <trans-unit id="Email address" xml:space="preserve">
         <source>Email address</source>
         <target>邮箱地址</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Empty" xml:space="preserve">
         <source>Empty</source>
@@ -1141,11 +1056,6 @@
         <source>Exporting...</source>
         <target>正在导出...</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Extra" xml:space="preserve">
-        <source>Extra</source>
-        <target>备注</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Extra new cards" xml:space="preserve">
         <source>Extra new cards</source>
@@ -1300,7 +1210,7 @@
       <trans-unit id="Front" xml:space="preserve">
         <source>Front</source>
         <target>正面</target>
-        <note>Card Template, Standard Models</note>
+        <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Full Sync" xml:space="preserve">
         <source>Full Sync</source>
@@ -1416,11 +1326,6 @@
         <source>Include cards with tag</source>
         <target>选择标签</target>
         <note>Custom Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Incorrect username or password. Please try again." xml:space="preserve">
-        <source>Incorrect username or password. Please try again.</source>
-        <target>用户名或密码错误。 请再试一次。</target>
-        <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Increase today's new card limit" xml:space="preserve">
         <source>Increase today's new card limit</source>
@@ -1595,12 +1500,7 @@
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
         <target>登录</target>
-        <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Login Failed" xml:space="preserve">
-        <source>Login Failed</source>
-        <target>登录失败</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Long" xml:space="preserve">
         <source>Long</source>
@@ -1895,7 +1795,7 @@
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
         <target>确定</target>
-        <note>Deck Options, Decks Screen, Sync Screen, Utils</note>
+        <note>Deck Options, Sync, Utils</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
@@ -1906,11 +1806,6 @@
         <source>Oldest seen first</source>
         <target>最久未复习的在前</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Only one client can access AnkiWeb at a time." xml:space="preserve">
-        <source>Only one client can access AnkiWeb at a time.</source>
-        <target>同一时刻只有一个客户端能访问AnkiWeb。</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
@@ -1950,7 +1845,7 @@
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
         <target>密码</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
@@ -1972,11 +1867,6 @@
         <target>百分比</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="Please check your network connection and try again." xml:space="preserve">
-        <source>Please check your network connection and try again.</source>
-        <target>请检查您的网络连接并重试。</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
         <source>Please choose a file.</source>
         <target>请选择一个文件。</target>
@@ -1985,7 +1875,7 @@
       <trans-unit id="Please enter your AnkiWeb details." xml:space="preserve">
         <source>Please enter your AnkiWeb details.</source>
         <target>请输入您AnkiWeb的详细信息</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Please provide some text, avoiding symbols and underscores." xml:space="preserve">
         <source>Please provide some text, avoiding symbols and underscores.</source>
@@ -2006,11 +1896,6 @@
         <source>Please tap the '?' in the top left to get started.</source>
         <target>请点击左上角的 ? 以开始。</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Please wait a few minutes, and try again." xml:space="preserve">
-        <source>Please wait a few minutes, and try again.</source>
-        <target>请稍等几分钟后再试。</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Position" xml:space="preserve">
         <source>Position</source>
@@ -2045,7 +1930,7 @@
       <trans-unit id="Processing..." xml:space="preserve">
         <source>Processing...</source>
         <target>处理中...</target>
-        <note>Actions Manager, Profiles Screen, Utils</note>
+        <note>Actions Manager, Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
@@ -2562,16 +2447,6 @@
         <target>同步</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="Sync Conflict" xml:space="preserve">
-        <source>Sync Conflict</source>
-        <target>同步冲突</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Sync Failed" xml:space="preserve">
-        <source>Sync Failed</source>
-        <target>同步失败</target>
-        <note>Sync Screen</note>
-      </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
         <target>同步声音和图像</target>
@@ -2586,11 +2461,6 @@
         <source>Syncing</source>
         <target>同步</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Syncing changes..." xml:space="preserve">
-        <source>Syncing changes...</source>
-        <target>同步修改…</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Tag Only" xml:space="preserve">
         <source>Tag Only</source>
@@ -2607,11 +2477,6 @@
         <target>标签</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
-      <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
-        <source>Tap synchronize when you're ready to proceed.</source>
-        <target>当您准备好继续时点击同步。</target>
-        <note>Preferences</note>
-      </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
         <source>Taps</source>
         <target>手势控制：轻点</target>
@@ -2621,11 +2486,6 @@
         <source>Template</source>
         <target>模板</target>
         <note>Short version of 'Card Template'; Actions</note>
-      </trans-unit>
-      <trans-unit id="Text" xml:space="preserve">
-        <source>Text</source>
-        <target>文本</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
         <source>The default deck cannot be deleted.</source>
@@ -2855,22 +2715,7 @@
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>
         <target>上传到AnkiWeb</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Upload was corrupt." xml:space="preserve">
-        <source>Upload was corrupt.</source>
-        <target>上传出错。</target>
-        <note>Syncer</note>
-      </trans-unit>
-      <trans-unit id="Uploading..." xml:space="preserve">
-        <source>Uploading...</source>
-        <target>正在上传···</target>
-        <note>Sync Screen, Syncer</note>
-      </trans-unit>
-      <trans-unit id="Use Legacy Editor" xml:space="preserve">
-        <source>Use Legacy Editor</source>
-        <target>使用旧版编辑器</target>
-        <note>Preferences</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="User 1" xml:space="preserve">
         <source>User 1</source>
@@ -2935,7 +2780,7 @@
       <trans-unit id="added-popup" xml:space="preserve">
         <source>Added</source>
         <target>已添加</target>
-        <note>Shown when user adds a card; Edit Old Screen, Edit Screen</note>
+        <note>Shown when user adds a card; Edit Screen</note>
       </trans-unit>
       <trans-unit id="anki-written-by" xml:space="preserve">
         <source>AnkiMobile was written by Damien Elmes and Richard Smith, and is based off Damien's work on the computer version of Anki.</source>
@@ -2957,30 +2802,10 @@
         <target>有一些同源的或已延期的卡片被推迟显示。它们会出现在在后续的学习中，或您可以直接 %@</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="card-front-is-blank" xml:space="preserve">
-        <source>The front of this card is blank.</source>
-        <target>此卡片正面为空白。</target>
-        <note>Template</note>
-      </trans-unit>
-      <trans-unit id="check-clock" xml:space="preserve">
-        <source>Please ensure your clock is set to the correct date and time, then try again.</source>
-        <target>请确保您的时钟设置为正确的日期和时间，然后重试。</target>
-        <note>Syncer</note>
-      </trans-unit>
-      <trans-unit id="check-version-sync" xml:space="preserve">
-        <source>Please check that you are running the latest version of AnkiMobile.</source>
-        <target>请确认您正在运行的是最新版本的Ankimobile。</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
         <source>Cloze</source>
         <target>填空</target>
         <note>eg Cloze (1); Search Screen</note>
-      </trans-unit>
-      <trans-unit id="corrupt-contact-support" xml:space="preserve">
-        <source>Your collection is corrupt. Please post on the support site for help.</source>
-        <target>您的卡组集合已损坏，请到 AnkiWeb-&gt;Support 寻求帮助。</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
@@ -3047,11 +2872,6 @@
         <target>小时</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="if-failed-try-again" xml:space="preserve">
-        <source>If a previous sync failed, please try again in a few minutes.</source>
-        <target>如果上一次同步失败，请几分钟后再试。</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
         <target>AnkiMobile 由 %@ 构建，源于iOS开发者社区的慷慨共享。</target>
@@ -3061,11 +2881,6 @@
         <source>minutes</source>
         <target>分钟</target>
         <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="more-info" xml:space="preserve">
-        <source>More info</source>
-        <target>更多信息</target>
-        <note>Template</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
@@ -3167,16 +2982,6 @@
         <source>some third-party libraries</source>
         <target>一些第三方程序库</target>
         <note>About Screen</note>
-      </trans-unit>
-      <trans-unit id="sync-conflict-msg" xml:space="preserve">
-        <source>Your decks here and on AnkiWeb differ in such a way that they can't be merged together, so it's necessary to overwrite the decks on one side with the decks from the other. Do you want to upload the decks from here, or download the decks from AnkiWeb?</source>
-        <target>您本地的卡组与 AnkiWeb 上的卡组不同，无法合并。现在需要单向完全同步覆盖其中一方的内容。您想要从这里上传卡组还是选择从 Ankiweb 下载卡组？</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="sync-inconsistent" xml:space="preserve">
-        <source>Your collection is in an inconsistent state. Please use the Check Database function, then try again.</source>
-        <target>您的收藏集处于不一致状态。请使用 检查数据库 功能，然后重试。</target>
-        <note>Syncer, Syncer</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
         <source>To activate syncing, tap the synchronize button on the deck list screen.</source>

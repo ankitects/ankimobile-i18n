@@ -202,11 +202,6 @@
         <target>افزودن پروفایل</target>
         <note>Profiles Screen</note>
       </trans-unit>
-      <trans-unit id="Add Reverse" xml:space="preserve">
-        <source>Add Reverse</source>
-        <target>افزودن معکوس</target>
-        <note>Standard Models</note>
-      </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
         <target>افزودن/صادر کردن</target>
@@ -267,20 +262,10 @@
         <target>انکار همیشه + چشم‌پوشی از بی‌صدا</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="An error occurred on AnkiWeb." xml:space="preserve">
-        <source>An error occurred on AnkiWeb.</source>
-        <target>در AnkiWeb خطایی رخ داد.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="An error occurred: %@" xml:space="preserve">
         <source>An error occurred: %@</source>
         <target>خطایی رخ داد: %@</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="AnkiWeb is too busy at the moment." xml:space="preserve">
-        <source>AnkiWeb is too busy at the moment.</source>
-        <target>AnkiWeb در حال حاضر مشغول است.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Answer Action" xml:space="preserve">
         <source>Answer Action</source>
@@ -377,16 +362,6 @@
         <target>دکمه‌های صدا</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Authenticating..." xml:space="preserve">
-        <source>Authenticating...</source>
-        <target>تأیید اعتبار...</target>
-        <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
-        <source>Authentication failed. Please try again.</source>
-        <target>تأیید اعتبار صورت نگرفت. لطفاً دوباره تلاش کنید.</target>
-        <note>Sync Screen</note>
-      </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
         <target>پیشروی خودکار</target>
@@ -450,12 +425,7 @@
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
         <target>پشت</target>
-        <note>Card Template, Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Backup failed: %@" xml:space="preserve">
-        <source>Backup failed: %@</source>
-        <target>پشتیبان‌گیری انجام نشد: %@</target>
-        <note>Utils</note>
+        <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
@@ -466,26 +436,6 @@
         <source>Bar Style</source>
         <target>سبک نوار</target>
         <note>Theme Options</note>
-      </trans-unit>
-      <trans-unit id="Basic" xml:space="preserve">
-        <source>Basic</source>
-        <target>پایه</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (and reversed card)" xml:space="preserve">
-        <source>Basic (and reversed card)</source>
-        <target>پایه (و کارت وارونه)</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (optional reversed card)" xml:space="preserve">
-        <source>Basic (optional reversed card)</source>
-        <target>پایه (کارت وارونۀ اختیاری)</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (type in the answer)" xml:space="preserve">
-        <source>Basic (type in the answer)</source>
-        <target>پایه (تاپ کردن پاسخ)</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
@@ -595,7 +545,7 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>لغو</target>
-        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Empty Cards, Search Screen, Sync, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
@@ -606,16 +556,6 @@
         <source>Cannot Delete</source>
         <target>غیرقابل حذف</target>
         <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Card 1" xml:space="preserve">
-        <source>Card 1</source>
-        <target>کارت 1</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Card 2" xml:space="preserve">
-        <source>Card 2</source>
-        <target>کارت 2</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Card Count" xml:space="preserve">
         <source>Card Count</source>
@@ -710,7 +650,7 @@
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
         <target>درحال بررسی...</target>
-        <note>Decks Screen, Preferences</note>
+        <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
         <source>Choose</source>
@@ -721,11 +661,6 @@
         <source>Clear Flag</source>
         <target>پا کردن نشان</target>
         <note>Search Screen</note>
-      </trans-unit>
-      <trans-unit id="Cloze" xml:space="preserve">
-        <source>Cloze</source>
-        <target>جاخالی</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Collection" xml:space="preserve">
         <source>Collection</source>
@@ -761,11 +696,6 @@
         <source>Congratulations! You have finished this deck for now.</source>
         <target>تبریک! شما فعلاً این دسته را تمام کرده‌اید.</target>
         <note>Scheduler</note>
-      </trans-unit>
-      <trans-unit id="Connecting..." xml:space="preserve">
-        <source>Connecting...</source>
-        <target>در حال اتصال...</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
@@ -877,11 +807,6 @@
         <target>تاریک و مات</target>
         <note>Theme Options</note>
       </trans-unit>
-      <trans-unit id="Database rebuilt and optimized." xml:space="preserve">
-        <source>Database rebuilt and optimized.</source>
-        <target>دیتابیس بازسازی و بهینه‌سازی شد.</target>
-        <note>Preferences</note>
-      </trans-unit>
       <trans-unit id="Day Starts" xml:space="preserve">
         <source>Day Starts</source>
         <target>شروع روز</target>
@@ -940,11 +865,6 @@
       <trans-unit id="Decreasing intervals" xml:space="preserve">
         <source>Decreasing intervals</source>
         <target>کاهش بازه‌های زمانی</target>
-        <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Default" xml:space="preserve">
-        <source>Default</source>
-        <target>پیش‌فرض</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Defaults" xml:space="preserve">
@@ -1025,17 +945,12 @@
       <trans-unit id="Download from AnkiWeb" xml:space="preserve">
         <source>Download from AnkiWeb</source>
         <target>دانلود از AnkiWeb</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Download was corrupt." xml:space="preserve">
-        <source>Download was corrupt.</source>
-        <target>فایل دانلودی خراب است.</target>
-        <note>Syncer</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Downloading..." xml:space="preserve">
         <source>Downloading...</source>
         <target>در حال دانلود...</target>
-        <note>Add Note Scheme, Download Manager, Edit Screen, Sync Screen, Syncer</note>
+        <note>Add Note Scheme, Download Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Drag here to remove" xml:space="preserve">
         <source>Drag here to remove</source>
@@ -1100,7 +1015,7 @@
       <trans-unit id="Email address" xml:space="preserve">
         <source>Email address</source>
         <target>آدرس ایمیل</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Empty" xml:space="preserve">
         <source>Empty</source>
@@ -1141,11 +1056,6 @@
         <source>Exporting...</source>
         <target>در حال صدور...</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Extra" xml:space="preserve">
-        <source>Extra</source>
-        <target>اضافی</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Extra new cards" xml:space="preserve">
         <source>Extra new cards</source>
@@ -1300,7 +1210,7 @@
       <trans-unit id="Front" xml:space="preserve">
         <source>Front</source>
         <target>جلو</target>
-        <note>Card Template, Standard Models</note>
+        <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Full Sync" xml:space="preserve">
         <source>Full Sync</source>
@@ -1416,11 +1326,6 @@
         <source>Include cards with tag</source>
         <target>شامل کردن کارت‌های دارای برچسب</target>
         <note>Custom Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Incorrect username or password. Please try again." xml:space="preserve">
-        <source>Incorrect username or password. Please try again.</source>
-        <target>نام کاربری یا رمز عبور اشتباه است. لطفاً دوباره تلاش کنید.</target>
-        <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Increase today's new card limit" xml:space="preserve">
         <source>Increase today's new card limit</source>
@@ -1595,12 +1500,7 @@
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
         <target>ورود</target>
-        <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Login Failed" xml:space="preserve">
-        <source>Login Failed</source>
-        <target>ورود انجام نشد</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Long" xml:space="preserve">
         <source>Long</source>
@@ -1895,7 +1795,7 @@
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
         <target>تأیید</target>
-        <note>Deck Options, Decks Screen, Sync Screen, Utils</note>
+        <note>Deck Options, Sync, Utils</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
@@ -1906,11 +1806,6 @@
         <source>Oldest seen first</source>
         <target>آخرین دیده شده در ابتدا</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Only one client can access AnkiWeb at a time." xml:space="preserve">
-        <source>Only one client can access AnkiWeb at a time.</source>
-        <target>امکان دسترسی همزمان چندین دستگاه به AnkiWeb وجود ندارد.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
@@ -1950,7 +1845,7 @@
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
         <target>رمز عبور</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
@@ -1972,11 +1867,6 @@
         <target>درصد</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="Please check your network connection and try again." xml:space="preserve">
-        <source>Please check your network connection and try again.</source>
-        <target>لطفاً اتصال اینترنت خود را بررسی و دوباره تلاش کنید.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
         <source>Please choose a file.</source>
         <target>لطفاً یک فایل را انتخاب کنید.</target>
@@ -1985,7 +1875,7 @@
       <trans-unit id="Please enter your AnkiWeb details." xml:space="preserve">
         <source>Please enter your AnkiWeb details.</source>
         <target>لطفاً مشخصات AnkiWeb خود را وراد کنید.</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Please provide some text, avoiding symbols and underscores." xml:space="preserve">
         <source>Please provide some text, avoiding symbols and underscores.</source>
@@ -2006,11 +1896,6 @@
         <source>Please tap the '?' in the top left to get started.</source>
         <target>لطفاً روی '؟' در گوشۀ چپ بالا بزنید تا راهنما باز شود.</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Please wait a few minutes, and try again." xml:space="preserve">
-        <source>Please wait a few minutes, and try again.</source>
-        <target>لطفاً چند دقیقه صبر، و دوباره امتحان کنید.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Position" xml:space="preserve">
         <source>Position</source>
@@ -2045,7 +1930,7 @@
       <trans-unit id="Processing..." xml:space="preserve">
         <source>Processing...</source>
         <target>در حال پردازش...</target>
-        <note>Actions Manager, Profiles Screen, Utils</note>
+        <note>Actions Manager, Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
@@ -2562,16 +2447,6 @@
         <target>همگام‌سازی</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="Sync Conflict" xml:space="preserve">
-        <source>Sync Conflict</source>
-        <target>همگام‌سازی تناقض</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Sync Failed" xml:space="preserve">
-        <source>Sync Failed</source>
-        <target>همگام‌سازی انجام نشد</target>
-        <note>Sync Screen</note>
-      </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
         <target>همگام‌سازی صدا‌ها و تصاویر</target>
@@ -2586,11 +2461,6 @@
         <source>Syncing</source>
         <target>در حال همگام‌سازی</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Syncing changes..." xml:space="preserve">
-        <source>Syncing changes...</source>
-        <target>همگام‌سازی تغییرات...</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Tag Only" xml:space="preserve">
         <source>Tag Only</source>
@@ -2607,11 +2477,6 @@
         <target>برچسب‌ها</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
-      <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
-        <source>Tap synchronize when you're ready to proceed.</source>
-        <target>هنگامی که آماده بودید روی همگام‌سازی بزنید.</target>
-        <note>Preferences</note>
-      </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
         <source>Taps</source>
         <target>ضربه‌ها</target>
@@ -2621,11 +2486,6 @@
         <source>Template</source>
         <target>قالب</target>
         <note>Short version of 'Card Template'; Actions</note>
-      </trans-unit>
-      <trans-unit id="Text" xml:space="preserve">
-        <source>Text</source>
-        <target>متن</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
         <source>The default deck cannot be deleted.</source>
@@ -2855,22 +2715,7 @@
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>
         <target>آپلو به AnkiWeb</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Upload was corrupt." xml:space="preserve">
-        <source>Upload was corrupt.</source>
-        <target>آپلود خراب است.</target>
-        <note>Syncer</note>
-      </trans-unit>
-      <trans-unit id="Uploading..." xml:space="preserve">
-        <source>Uploading...</source>
-        <target>در حال آپلود...</target>
-        <note>Sync Screen, Syncer</note>
-      </trans-unit>
-      <trans-unit id="Use Legacy Editor" xml:space="preserve">
-        <source>Use Legacy Editor</source>
-        <target>استافاده از ویرایشگر قدیمی</target>
-        <note>Preferences</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="User 1" xml:space="preserve">
         <source>User 1</source>
@@ -2935,7 +2780,7 @@
       <trans-unit id="added-popup" xml:space="preserve">
         <source>Added</source>
         <target>اضافه شده</target>
-        <note>Shown when user adds a card; Edit Old Screen, Edit Screen</note>
+        <note>Shown when user adds a card; Edit Screen</note>
       </trans-unit>
       <trans-unit id="anki-written-by" xml:space="preserve">
         <source>AnkiMobile was written by Damien Elmes and Richard Smith, and is based off Damien's work on the computer version of Anki.</source>
@@ -2957,30 +2802,10 @@
         <target>بعضی از کارت‌های مرتبط به تعویق افتاده‌اند. این کارت‌ها تا جلسه‌های آینده نشان داده نخواهند شد، یا شما می‌توانید %@</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="card-front-is-blank" xml:space="preserve">
-        <source>The front of this card is blank.</source>
-        <target>جلوی این کارت خالی است.</target>
-        <note>Template</note>
-      </trans-unit>
-      <trans-unit id="check-clock" xml:space="preserve">
-        <source>Please ensure your clock is set to the correct date and time, then try again.</source>
-        <target>لطفاً از تنظیم بودن ساعت دستگاه خود اطمینان حاصل کرده، سپس دوباره تلاش کنید.</target>
-        <note>Syncer</note>
-      </trans-unit>
-      <trans-unit id="check-version-sync" xml:space="preserve">
-        <source>Please check that you are running the latest version of AnkiMobile.</source>
-        <target>لطفاً اطمینان حاصل کنید که از آخرین نسخۀ AnkiMobile استفاده می‌کنید.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
         <source>Cloze</source>
         <target>جاخالی</target>
         <note>eg Cloze (1); Search Screen</note>
-      </trans-unit>
-      <trans-unit id="corrupt-contact-support" xml:space="preserve">
-        <source>Your collection is corrupt. Please post on the support site for help.</source>
-        <target>مجموعۀ شما خراب است. لطفاً در سایت پشتیبانی درخواست کمک کنید.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
@@ -3047,11 +2872,6 @@
         <target>ساعت</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="if-failed-try-again" xml:space="preserve">
-        <source>If a previous sync failed, please try again in a few minutes.</source>
-        <target>اگر همگام‌سازی قبلی با مشکل موجه شد، لطفاً بعد از چند دقیقه دوباره تلاش کنید.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
         <target>AnkiMobile با استفاده از %@ که توسط توسعه دهندگان به اشتراک گذاشته شده، ساخته شده است.</target>
@@ -3061,11 +2881,6 @@
         <source>minutes</source>
         <target>دقیقه</target>
         <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="more-info" xml:space="preserve">
-        <source>More info</source>
-        <target>اطلاعات بیشتر</target>
-        <note>Template</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
@@ -3171,16 +2986,6 @@
         <source>some third-party libraries</source>
         <target>بعضی از مجموعه‌های دیگر</target>
         <note>About Screen</note>
-      </trans-unit>
-      <trans-unit id="sync-conflict-msg" xml:space="preserve">
-        <source>Your decks here and on AnkiWeb differ in such a way that they can't be merged together, so it's necessary to overwrite the decks on one side with the decks from the other. Do you want to upload the decks from here, or download the decks from AnkiWeb?</source>
-        <target>دسته‌های شما در اینجا و در AnkiWeb آنقدر تفاوت دارند که دیگر نمی‌توانند یکسان‌سازی شوند، پس بازنویسی دسته‌های یکی از طرفین با استفاده از دستۀ دیگر لازم است صورت بگیرد. آیا می‌خواهید دسته‌ها را از اینجا آپلود کنید، یا دسته‌های موجود بر AnkiWeb را دانلود کنید؟</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="sync-inconsistent" xml:space="preserve">
-        <source>Your collection is in an inconsistent state. Please use the Check Database function, then try again.</source>
-        <target>مجموعۀ شما در حالت ناپایدار است. لطفاً دیتابیس را بررسی کرده، سپس مجدداً تلاش کنید.</target>
-        <note>Syncer, Syncer</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
         <source>To activate syncing, tap the synchronize button on the deck list screen.</source>

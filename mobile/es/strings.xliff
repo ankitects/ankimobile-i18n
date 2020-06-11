@@ -202,11 +202,6 @@
         <target>Añadir Perfil</target>
         <note>Profiles Screen</note>
       </trans-unit>
-      <trans-unit id="Add Reverse" xml:space="preserve">
-        <source>Add Reverse</source>
-        <target>Añadir reverso</target>
-        <note>Standard Models</note>
-      </trans-unit>
       <trans-unit id="Add/Export" xml:space="preserve">
         <source>Add/Export</source>
         <target>Añadir/Exportar</target>
@@ -267,20 +262,10 @@
         <target>Esquivar Siempre + Ignorar Silencio</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="An error occurred on AnkiWeb." xml:space="preserve">
-        <source>An error occurred on AnkiWeb.</source>
-        <target>Se ha producido un error en AnkiWeb.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="An error occurred: %@" xml:space="preserve">
         <source>An error occurred: %@</source>
         <target>Se ha producido un error: %@</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="AnkiWeb is too busy at the moment." xml:space="preserve">
-        <source>AnkiWeb is too busy at the moment.</source>
-        <target>AnkiWeb está demasiado ocupado en este momento.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Answer Action" xml:space="preserve">
         <source>Answer Action</source>
@@ -377,16 +362,6 @@
         <target>Botones de audio</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Authenticating..." xml:space="preserve">
-        <source>Authenticating...</source>
-        <target>Autenticando...</target>
-        <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Authentication failed. Please try again." xml:space="preserve">
-        <source>Authentication failed. Please try again.</source>
-        <target>Autenticación fallida. Por favor, inténtelo de nuevo.</target>
-        <note>Sync Screen</note>
-      </trans-unit>
       <trans-unit id="Auto Adv." xml:space="preserve">
         <source>Auto Adv.</source>
         <target>Auto Av.</target>
@@ -450,12 +425,7 @@
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
         <target>Reverso</target>
-        <note>Card Template, Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Backup failed: %@" xml:space="preserve">
-        <source>Backup failed: %@</source>
-        <target>Copia de seguridad fallida: %@</target>
-        <note>Utils</note>
+        <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
@@ -466,26 +436,6 @@
         <source>Bar Style</source>
         <target>Estilo de barra</target>
         <note>Theme Options</note>
-      </trans-unit>
-      <trans-unit id="Basic" xml:space="preserve">
-        <source>Basic</source>
-        <target>Básico</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (and reversed card)" xml:space="preserve">
-        <source>Basic (and reversed card)</source>
-        <target>Básico (y tarjeta invertida)</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (optional reversed card)" xml:space="preserve">
-        <source>Basic (optional reversed card)</source>
-        <target>Básico (tarjeta invertida opcional)</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Basic (type in the answer)" xml:space="preserve">
-        <source>Basic (type in the answer)</source>
-        <target>Básico (teclear la respuesta)</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
@@ -595,7 +545,7 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Cancelar</target>
-        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Search Screen, Sync Screen, Utils</note>
+        <note>Audio Manager, Check Media Screen, Deck And Note Type Selector, Deck Options, Decks Screen, Drawing Screen, Edit Screen, Empty Cards, Search Screen, Sync, Utils</note>
       </trans-unit>
       <trans-unit id="Cancel and lose any unsaved changes?" xml:space="preserve">
         <source>Cancel and lose any unsaved changes?</source>
@@ -606,16 +556,6 @@
         <source>Cannot Delete</source>
         <target>No se puede eliminar</target>
         <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Card 1" xml:space="preserve">
-        <source>Card 1</source>
-        <target>Tarjeta 1</target>
-        <note>Standard Models</note>
-      </trans-unit>
-      <trans-unit id="Card 2" xml:space="preserve">
-        <source>Card 2</source>
-        <target>Tarjeta 2</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Card Count" xml:space="preserve">
         <source>Card Count</source>
@@ -710,7 +650,7 @@
       <trans-unit id="Checking..." xml:space="preserve">
         <source>Checking...</source>
         <target>Comprobando…</target>
-        <note>Decks Screen, Preferences</note>
+        <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
         <source>Choose</source>
@@ -721,11 +661,6 @@
         <source>Clear Flag</source>
         <target>Borrar Bandera</target>
         <note>Search Screen</note>
-      </trans-unit>
-      <trans-unit id="Cloze" xml:space="preserve">
-        <source>Cloze</source>
-        <target>Hueco</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Collection" xml:space="preserve">
         <source>Collection</source>
@@ -761,11 +696,6 @@
         <source>Congratulations! You have finished this deck for now.</source>
         <target>¡Enhorabuena! Has finalizado este mazo por hoy.</target>
         <note>Scheduler</note>
-      </trans-unit>
-      <trans-unit id="Connecting..." xml:space="preserve">
-        <source>Connecting...</source>
-        <target>Conectando...</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Correct" xml:space="preserve">
         <source>Correct</source>
@@ -877,11 +807,6 @@
         <target>Oscuro &amp; Translucido</target>
         <note>Theme Options</note>
       </trans-unit>
-      <trans-unit id="Database rebuilt and optimized." xml:space="preserve">
-        <source>Database rebuilt and optimized.</source>
-        <target>Base de datos reconstruida y optimizada.</target>
-        <note>Preferences</note>
-      </trans-unit>
       <trans-unit id="Day Starts" xml:space="preserve">
         <source>Day Starts</source>
         <target>Inicio del día</target>
@@ -940,11 +865,6 @@
       <trans-unit id="Decreasing intervals" xml:space="preserve">
         <source>Decreasing intervals</source>
         <target>Intervalos decrecientes</target>
-        <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Default" xml:space="preserve">
-        <source>Default</source>
-        <target>Predeterminado</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Defaults" xml:space="preserve">
@@ -1025,17 +945,12 @@
       <trans-unit id="Download from AnkiWeb" xml:space="preserve">
         <source>Download from AnkiWeb</source>
         <target>Descargar desde AnkiWeb</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Download was corrupt." xml:space="preserve">
-        <source>Download was corrupt.</source>
-        <target>La descarga estaba corrupta.</target>
-        <note>Syncer</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Downloading..." xml:space="preserve">
         <source>Downloading...</source>
         <target>Descargando...</target>
-        <note>Add Note Scheme, Download Manager, Edit Screen, Sync Screen, Syncer</note>
+        <note>Add Note Scheme, Download Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Drag here to remove" xml:space="preserve">
         <source>Drag here to remove</source>
@@ -1100,7 +1015,7 @@
       <trans-unit id="Email address" xml:space="preserve">
         <source>Email address</source>
         <target>Dirección de email</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Empty" xml:space="preserve">
         <source>Empty</source>
@@ -1141,11 +1056,6 @@
         <source>Exporting...</source>
         <target>Exportando...</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Extra" xml:space="preserve">
-        <source>Extra</source>
-        <target>Extra</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="Extra new cards" xml:space="preserve">
         <source>Extra new cards</source>
@@ -1300,7 +1210,7 @@
       <trans-unit id="Front" xml:space="preserve">
         <source>Front</source>
         <target>Anverso</target>
-        <note>Card Template, Standard Models</note>
+        <note>Card Template</note>
       </trans-unit>
       <trans-unit id="Full Sync" xml:space="preserve">
         <source>Full Sync</source>
@@ -1416,13 +1326,6 @@
         <source>Include cards with tag</source>
         <target>Incluye tarjetas con etiqueta</target>
         <note>Custom Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Incorrect username or password. Please try again." xml:space="preserve">
-        <source>Incorrect username or password. Please try again.</source>
-        <target>Nombre de usuario o contraseña
-incorrectos.
-Por favor, inténtelo de nuevo.</target>
-        <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Increase today's new card limit" xml:space="preserve">
         <source>Increase today's new card limit</source>
@@ -1597,12 +1500,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="Login" xml:space="preserve">
         <source>Login</source>
         <target>Iniciar sesión</target>
-        <note>Decks Screen</note>
-      </trans-unit>
-      <trans-unit id="Login Failed" xml:space="preserve">
-        <source>Login Failed</source>
-        <target>Error al iniciar sesión</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Long" xml:space="preserve">
         <source>Long</source>
@@ -1897,7 +1795,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
         <target>Aceptar</target>
-        <note>Deck Options, Decks Screen, Sync Screen, Utils</note>
+        <note>Deck Options, Sync, Utils</note>
       </trans-unit>
       <trans-unit id="Off" xml:space="preserve">
         <source>Off</source>
@@ -1908,11 +1806,6 @@ Por favor, inténtelo de nuevo.</target>
         <source>Oldest seen first</source>
         <target>Mostrar antes las más viejas</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Only one client can access AnkiWeb at a time." xml:space="preserve">
-        <source>Only one client can access AnkiWeb at a time.</source>
-        <target>Sólo un cliente puede acceder a AnkiWeb a la vez.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
@@ -1952,7 +1845,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
         <target>Contraseña</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
@@ -1974,11 +1867,6 @@ Por favor, inténtelo de nuevo.</target>
         <target>Porcentaje</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="Please check your network connection and try again." xml:space="preserve">
-        <source>Please check your network connection and try again.</source>
-        <target>Por favor, comprueba tu conexión de red e inténtalo de nuevo.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
         <source>Please choose a file.</source>
         <target>Por favor, elije un archivo.</target>
@@ -1987,7 +1875,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="Please enter your AnkiWeb details." xml:space="preserve">
         <source>Please enter your AnkiWeb details.</source>
         <target>Por favor, introduce tus datos de AnkiWeb.</target>
-        <note>Decks Screen</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="Please provide some text, avoiding symbols and underscores." xml:space="preserve">
         <source>Please provide some text, avoiding symbols and underscores.</source>
@@ -2008,11 +1896,6 @@ Por favor, inténtelo de nuevo.</target>
         <source>Please tap the '?' in the top left to get started.</source>
         <target>Por favor toca el '?' en la parte superior izquierda para empezar.</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Please wait a few minutes, and try again." xml:space="preserve">
-        <source>Please wait a few minutes, and try again.</source>
-        <target>Por favor, espere unos minutos e inténtelo de nuevo.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Position" xml:space="preserve">
         <source>Position</source>
@@ -2047,7 +1930,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="Processing..." xml:space="preserve">
         <source>Processing...</source>
         <target>Procesando...</target>
-        <note>Actions Manager, Profiles Screen, Utils</note>
+        <note>Actions Manager, Profiles Screen</note>
       </trans-unit>
       <trans-unit id="Profile name" xml:space="preserve">
         <source>Profile name</source>
@@ -2564,16 +2447,6 @@ Por favor, inténtelo de nuevo.</target>
         <target>Sincronizar</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="Sync Conflict" xml:space="preserve">
-        <source>Sync Conflict</source>
-        <target>Conflicto de sincronización</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Sync Failed" xml:space="preserve">
-        <source>Sync Failed</source>
-        <target>Sincronización fallida</target>
-        <note>Sync Screen</note>
-      </trans-unit>
       <trans-unit id="Sync Sounds &amp; Images" xml:space="preserve">
         <source>Sync Sounds &amp; Images</source>
         <target>Sincronizar sonidos &amp; Imágenes</target>
@@ -2588,11 +2461,6 @@ Por favor, inténtelo de nuevo.</target>
         <source>Syncing</source>
         <target>Sincronizando</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Syncing changes..." xml:space="preserve">
-        <source>Syncing changes...</source>
-        <target>Sincronizando cambios...</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="Tag Only" xml:space="preserve">
         <source>Tag Only</source>
@@ -2609,11 +2477,6 @@ Por favor, inténtelo de nuevo.</target>
         <target>Etiquetas</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
-      <trans-unit id="Tap synchronize when you're ready to proceed." xml:space="preserve">
-        <source>Tap synchronize when you're ready to proceed.</source>
-        <target>Pulsa sincronizar cuando estés listo para continuar.</target>
-        <note>Preferences</note>
-      </trans-unit>
       <trans-unit id="Taps" xml:space="preserve">
         <source>Taps</source>
         <target>Toques</target>
@@ -2623,11 +2486,6 @@ Por favor, inténtelo de nuevo.</target>
         <source>Template</source>
         <target>Plantilla</target>
         <note>Short version of 'Card Template'; Actions</note>
-      </trans-unit>
-      <trans-unit id="Text" xml:space="preserve">
-        <source>Text</source>
-        <target>Texto</target>
-        <note>Standard Models</note>
       </trans-unit>
       <trans-unit id="The default deck cannot be deleted." xml:space="preserve">
         <source>The default deck cannot be deleted.</source>
@@ -2857,22 +2715,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>
         <target>Subir a AnkiWeb</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="Upload was corrupt." xml:space="preserve">
-        <source>Upload was corrupt.</source>
-        <target>La carga estaba corrupta.</target>
-        <note>Syncer</note>
-      </trans-unit>
-      <trans-unit id="Uploading..." xml:space="preserve">
-        <source>Uploading...</source>
-        <target>Subiendo...</target>
-        <note>Sync Screen, Syncer</note>
-      </trans-unit>
-      <trans-unit id="Use Legacy Editor" xml:space="preserve">
-        <source>Use Legacy Editor</source>
-        <target>Usar editor antiguo</target>
-        <note>Preferences</note>
+        <note>Sync</note>
       </trans-unit>
       <trans-unit id="User 1" xml:space="preserve">
         <source>User 1</source>
@@ -2937,7 +2780,7 @@ Por favor, inténtelo de nuevo.</target>
       <trans-unit id="added-popup" xml:space="preserve">
         <source>Added</source>
         <target>Añadidas</target>
-        <note>Shown when user adds a card; Edit Old Screen, Edit Screen</note>
+        <note>Shown when user adds a card; Edit Screen</note>
       </trans-unit>
       <trans-unit id="anki-written-by" xml:space="preserve">
         <source>AnkiMobile was written by Damien Elmes and Richard Smith, and is based off Damien's work on the computer version of Anki.</source>
@@ -2959,30 +2802,10 @@ Por favor, inténtelo de nuevo.</target>
         <target>Algunas cartas relacionadas o enterradas se retrasaron. Se mostrarán en una sesión de estudio futura, o puede %@</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="card-front-is-blank" xml:space="preserve">
-        <source>The front of this card is blank.</source>
-        <target>La parte frontal de esta tarjeta está en blanco.</target>
-        <note>Template</note>
-      </trans-unit>
-      <trans-unit id="check-clock" xml:space="preserve">
-        <source>Please ensure your clock is set to the correct date and time, then try again.</source>
-        <target>Por favor, asegúrate de que tu reloj está ajustado a la fecha y hora correctas, y luego vuelve a intentarlo.</target>
-        <note>Syncer</note>
-      </trans-unit>
-      <trans-unit id="check-version-sync" xml:space="preserve">
-        <source>Please check that you are running the latest version of AnkiMobile.</source>
-        <target>Por favor, comprueba que estés ejecutando la última versión de AnkiMobile.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
         <source>Cloze</source>
         <target>Hueco</target>
         <note>eg Cloze (1); Search Screen</note>
-      </trans-unit>
-      <trans-unit id="corrupt-contact-support" xml:space="preserve">
-        <source>Your collection is corrupt. Please post on the support site for help.</source>
-        <target>Tu colección está dañada. Por favor, escríbenos en nuestra web de soporte para obtener ayuda.</target>
-        <note>Syncer</note>
       </trans-unit>
       <trans-unit id="custom-study-msg" xml:space="preserve">
         <source>To study outside of the normal schedule, you can use %@</source>
@@ -3049,11 +2872,6 @@ Por favor, inténtelo de nuevo.</target>
         <target>horas</target>
         <note>Collection Stats</note>
       </trans-unit>
-      <trans-unit id="if-failed-try-again" xml:space="preserve">
-        <source>If a previous sync failed, please try again in a few minutes.</source>
-        <target>Si una sincronización anterior falló, por favor inténtalo de nuevo en unos minutos.</target>
-        <note>Syncer</note>
-      </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
         <target>AnkiMobile está construido con %@, generosamente compartido por la comunidad de desarrolladores.</target>
@@ -3063,11 +2881,6 @@ Por favor, inténtelo de nuevo.</target>
         <source>minutes</source>
         <target>minutos</target>
         <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="more-info" xml:space="preserve">
-        <source>More info</source>
-        <target>Más información</target>
-        <note>Template</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
@@ -3173,16 +2986,6 @@ Por favor, inténtelo de nuevo.</target>
         <source>some third-party libraries</source>
         <target>algunas bibliotecas de terceros</target>
         <note>About Screen</note>
-      </trans-unit>
-      <trans-unit id="sync-conflict-msg" xml:space="preserve">
-        <source>Your decks here and on AnkiWeb differ in such a way that they can't be merged together, so it's necessary to overwrite the decks on one side with the decks from the other. Do you want to upload the decks from here, or download the decks from AnkiWeb?</source>
-        <target>Sus mazos aquí y en AnkiWeb difieren de tal manera que no se pueden fusionar, por lo que es necesario sobrescribir los mazos de un lado con los mazos del otro. ¿Quiere subir los mazos desde aquí o descargar los mazos desde AnkiWeb?</target>
-        <note>Sync Screen</note>
-      </trans-unit>
-      <trans-unit id="sync-inconsistent" xml:space="preserve">
-        <source>Your collection is in an inconsistent state. Please use the Check Database function, then try again.</source>
-        <target>Su colección está en un estado inconsistente. Utilice la función Verificar base de datos, luego intente nuevamente.</target>
-        <note>Syncer, Syncer</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
         <source>To activate syncing, tap the synchronize button on the deck list screen.</source>
