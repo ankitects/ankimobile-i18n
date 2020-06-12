@@ -489,7 +489,7 @@
       </trans-unit>
       <trans-unit id="Buried+Suspended" xml:space="preserve">
         <source>Buried+Suspended</source>
-        <target>已暫時隱藏+暫時停止</target>
+        <target>已暫時隱藏+已暫時停止</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
