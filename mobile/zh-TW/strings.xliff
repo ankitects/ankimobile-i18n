@@ -409,7 +409,7 @@
       </trans-unit>
       <trans-unit id="Average ease" xml:space="preserve">
         <source>Average ease</source>
-        <target>中等容易程度</target>
+        <target>中等容易度</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Average for days studied" xml:space="preserve">
@@ -1259,7 +1259,7 @@
       </trans-unit>
       <trans-unit id="Highest ease" xml:space="preserve">
         <source>Highest ease</source>
-        <target>最高容易程度</target>
+        <target>最高容易度</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Hourly Breakdown" xml:space="preserve">
@@ -1519,7 +1519,7 @@
       </trans-unit>
       <trans-unit id="Lowest ease" xml:space="preserve">
         <source>Lowest ease</source>
-        <target>最低容易程度</target>
+        <target>最低容易度</target>
         <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
@@ -2349,7 +2349,7 @@
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
         <source>Starting ease</source>
-        <target>起始容易程度</target>
+        <target>起始容易度</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
