@@ -52,16 +52,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="% Correct" xml:space="preserve">
-        <source>% Correct</source>
-        <target>% correctes</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="% Total" xml:space="preserve">
-        <source>% Total</source>
-        <target>% Total</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="%@ available" xml:space="preserve">
         <source>%@ available</source>
         <target>%@ disponible</target>
@@ -91,36 +81,6 @@
         <source>-5s</source>
         <target>-5s</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
-      </trans-unit>
-      <trans-unit id="1 Month" xml:space="preserve">
-        <source>1 Month</source>
-        <target>1 mois</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
-      <trans-unit id="1 Year" xml:space="preserve">
-        <source>1 Year</source>
-        <target>1 an</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
-      <trans-unit id="3AM" xml:space="preserve">
-        <source>3AM</source>
-        <target>3 h</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="4PM" xml:space="preserve">
-        <source>4PM</source>
-        <target>16 h</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="10AM" xml:space="preserve">
-        <source>10AM</source>
-        <target>10 h</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="10PM" xml:space="preserve">
-        <source>10PM</source>
-        <target>22 h</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="A deck must be provided." xml:space="preserve">
         <source>A deck must be provided.</source>
@@ -242,11 +202,6 @@
         <target>Alerte en cas de retard</target>
         <note>Notification Options</note>
       </trans-unit>
-      <trans-unit id="All" xml:space="preserve">
-        <source>All</source>
-        <target>Tous</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
         <source>All Actions</source>
         <target>Toutes les actions</target>
@@ -280,12 +235,7 @@
       <trans-unit id="Answer Buttons" xml:space="preserve">
         <source>Answer Buttons</source>
         <target>Types de réponse</target>
-        <note>Collection Stats, Preferences</note>
-      </trans-unit>
-      <trans-unit id="Answer Count" xml:space="preserve">
-        <source>Answer Count</source>
-        <target>Nombre de réponses</target>
-        <note>Collection Stats</note>
+        <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Answer Easy" xml:space="preserve">
         <source>Answer Easy</source>
@@ -326,11 +276,6 @@
         <source>Answer time elapsed</source>
         <target>Temps de réponse écoulé</target>
         <note>Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Answers" xml:space="preserve">
-        <source>Answers</source>
-        <target>Réponses</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Any Flag" xml:space="preserve">
         <source>Any Flag</source>
@@ -391,36 +336,6 @@
         <source>Available backups</source>
         <target>Sauvegardes disponibles</target>
         <note>Backup Manager</note>
-      </trans-unit>
-      <trans-unit id="Average" xml:space="preserve">
-        <source>Average</source>
-        <target>Moyenne</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average Time" xml:space="preserve">
-        <source>Average Time</source>
-        <target>Durée moyenne</target>
-        <note>Card Stats</note>
-      </trans-unit>
-      <trans-unit id="Average answer time" xml:space="preserve">
-        <source>Average answer time</source>
-        <target>Durée de réponse moyenne</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average ease" xml:space="preserve">
-        <source>Average ease</source>
-        <target>Facilité moyenne</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average for days studied" xml:space="preserve">
-        <source>Average for days studied</source>
-        <target>Moyenne (par jour travaillé)</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average interval" xml:space="preserve">
-        <source>Average interval</source>
-        <target>Intervalle moyen</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
@@ -487,11 +402,6 @@
         <target>Générer</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
-      <trans-unit id="Buried+Suspended" xml:space="preserve">
-        <source>Buried+Suspended</source>
-        <target>Enterré+Suspendu</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
         <source>Bury Card</source>
         <target>Enterrer la carte</target>
@@ -557,11 +467,6 @@
         <target>Impossible de supprimer</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="Card Count" xml:space="preserve">
-        <source>Card Count</source>
-        <target>Nombre de cartes</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Card Info" xml:space="preserve">
         <source>Card Info</source>
         <target>Info carte</target>
@@ -571,16 +476,6 @@
         <source>Card Template</source>
         <target>Modèle de carte</target>
         <note>Actions, Card Template, Search Screen</note>
-      </trans-unit>
-      <trans-unit id="Card Type" xml:space="preserve">
-        <source>Card Type</source>
-        <target>Type de carte</target>
-        <note>Card Stats</note>
-      </trans-unit>
-      <trans-unit id="Card Types" xml:space="preserve">
-        <source>Card Types</source>
-        <target>Types de cartes</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Card Updated" xml:space="preserve">
         <source>Card Updated</source>
@@ -616,11 +511,6 @@
         <source>Card was a leech.</source>
         <target>Carte pénible.</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Cards" xml:space="preserve">
-        <source>Cards</source>
-        <target>Cartes</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
         <source>Cards can't be manually moved into a filtered deck.</source>
@@ -662,11 +552,6 @@
         <target>Effacer le drapeau</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Collection" xml:space="preserve">
-        <source>Collection</source>
-        <target>Collection</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
         <target>Collection enregistrée sur iTunes.</target>
@@ -697,21 +582,6 @@
         <target>Félicitations ! Vous en avez fini avec ce paquet pour l’instant.</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="Correct" xml:space="preserve">
-        <source>Correct</source>
-        <target>Notation</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
-        <source>Correct answers on mature cards:</source>
-        <target>Réponses correctes sur les anciennes cartes :</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cram" xml:space="preserve">
-        <source>Cram</source>
-        <target>Etudiées</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Cram seen cards with certain tags" xml:space="preserve">
         <source>Cram seen cards with certain tags</source>
         <target>Reporter les cartes révisées ayant certaines étiquettes (tags)</target>
@@ -731,26 +601,6 @@
         <source>Creating Backup...</source>
         <target>Création de sauvegarde...</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Cumulative" xml:space="preserve">
-        <source>Cumulative</source>
-        <target>Cumulé</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cumulative %@" xml:space="preserve">
-        <source>Cumulative %@</source>
-        <target>Cumulatif %@</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cumulative Answers" xml:space="preserve">
-        <source>Cumulative Answers</source>
-        <target>Réponses cumulées</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cumulative Cards" xml:space="preserve">
-        <source>Cumulative Cards</source>
-        <target>Cartes cumulées</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
@@ -812,11 +662,6 @@
         <target>Début du jour</target>
         <note>Collection Options</note>
       </trans-unit>
-      <trans-unit id="Days studied" xml:space="preserve">
-        <source>Days studied</source>
-        <target>Jours travaillés</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Days to look ahead" xml:space="preserve">
         <source>Days to look ahead</source>
         <target>Nombre de jours à devancer</target>
@@ -830,7 +675,7 @@
       <trans-unit id="Deck" xml:space="preserve">
         <source>Deck</source>
         <target>Paquet</target>
-        <note>Card Stats, Deck Stats Screen, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Deck Exists" xml:space="preserve">
         <source>Deck Exists</source>
@@ -876,11 +721,6 @@
         <source>Del</source>
         <target>Suppr</target>
         <note>Short version of 'Delete Note'; Actions</note>
-      </trans-unit>
-      <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
-        <source>Delays until reviews are shown again.</source>
-        <target>Nombre de cartes selon leur intervalle de révision.</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
@@ -967,11 +807,6 @@
         <target>Ignorer les doigts sur l’écran de dessin</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Due" xml:space="preserve">
-        <source>Due</source>
-        <target>Dû</target>
-        <note>Card Stats</note>
-      </trans-unit>
       <trans-unit id="Due Date/Order" xml:space="preserve">
         <source>Due Date/Order</source>
         <target>Date due/ordre</target>
@@ -982,15 +817,10 @@
         <target>Révisions dues</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Due tomorrow" xml:space="preserve">
-        <source>Due tomorrow</source>
-        <target>Prévues pour demain</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Ease" xml:space="preserve">
         <source>Ease</source>
         <target>Facilité</target>
-        <note>Card Stats, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Easy" xml:space="preserve">
         <source>Easy</source>
@@ -1117,11 +947,6 @@
         <target>Copie de sécurité en cours de terminaison...</target>
         <note>Utils</note>
       </trans-unit>
-      <trans-unit id="First Review" xml:space="preserve">
-        <source>First Review</source>
-        <target>Priorité aux révisions</target>
-        <note>Card Stats</note>
-      </trans-unit>
       <trans-unit id="Flag 1" xml:space="preserve">
         <source>Flag 1</source>
         <target>Drapeau 1</target>
@@ -1176,11 +1001,6 @@
         <source>Force On</source>
         <target>Forcer l'activation</target>
         <note>Theme Options</note>
-      </trans-unit>
-      <trans-unit id="Forecast" xml:space="preserve">
-        <source>Forecast</source>
-        <target>Prévisions</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Forgot card" xml:space="preserve">
         <source>Forgot card</source>
@@ -1257,26 +1077,6 @@
         <target>Hauteur</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Highest ease" xml:space="preserve">
-        <source>Highest ease</source>
-        <target>Plus grande facilité</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Hourly Breakdown" xml:space="preserve">
-        <source>Hourly Breakdown</source>
-        <target>Répartition horaire</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Hours" xml:space="preserve">
-        <source>Hours</source>
-        <target>Heures</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Hours with less than 30 reviews are not shown." xml:space="preserve">
-        <source>Hours with less than 30 reviews are not shown.</source>
-        <target>Les heures insignifiantes (révisions &gt; 30) ne sont affichées.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="How many days in the future?" xml:space="preserve">
         <source>How many days in the future?</source>
         <target>Combien de jours d'avance?</target>
@@ -1286,11 +1086,6 @@
         <source>Huge</source>
         <target>Très grande</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="If you studied every day" xml:space="preserve">
-        <source>If you studied every day</source>
-        <target>Moyenne (tous jours confondus)</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Ignore Fingers" xml:space="preserve">
         <source>Ignore Fingers</source>
@@ -1350,17 +1145,12 @@
       <trans-unit id="Interval" xml:space="preserve">
         <source>Interval</source>
         <target>Intervalle</target>
-        <note>Card Stats, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Interval modifier" xml:space="preserve">
         <source>Interval modifier</source>
         <target>Modificateur d’intervalle</target>
         <note>Deck Options</note>
-      </trans-unit>
-      <trans-unit id="Intervals" xml:space="preserve">
-        <source>Intervals</source>
-        <target>Intervalles</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Invalid deck name." xml:space="preserve">
         <source>Invalid deck name.</source>
@@ -1385,27 +1175,17 @@
       <trans-unit id="Lapses" xml:space="preserve">
         <source>Lapses</source>
         <target>Echecs</target>
-        <note>Card Stats, Deck Options, Search Screen</note>
+        <note>Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
         <source>Large</source>
         <target>Grand</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Latest Review" xml:space="preserve">
-        <source>Latest Review</source>
-        <target>Dernière révision</target>
-        <note>Card Stats</note>
-      </trans-unit>
       <trans-unit id="Latest added first" xml:space="preserve">
         <source>Latest added first</source>
         <target>Les derniers ajouts d’abord</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Learn" xml:space="preserve">
-        <source>Learn</source>
-        <target>Apprises</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learn Ahead Minutes" xml:space="preserve">
         <source>Learn Ahead Minutes</source>
@@ -1416,16 +1196,6 @@
         <source>Learn new cards with certain tags</source>
         <target>Apprendre des cartes inédites avec certains tags</target>
         <note>Custom Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Learn: %@, Review: %@, Relearn: %@, Filtered: %@" xml:space="preserve">
-        <source>Learn: %@, Review: %@, Relearn: %@, Filtered: %@</source>
-        <target>Apprises : %@, Revues : %@, Réapprises : %@, Filtrées : %@</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Learning" xml:space="preserve">
-        <source>Learning</source>
-        <target>Apprises</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learning Cards" xml:space="preserve">
         <source>Learning Cards</source>
@@ -1467,11 +1237,6 @@
         <target>Déclencheur à gauche</target>
         <note>gamepad; Preferences</note>
       </trans-unit>
-      <trans-unit id="Life" xml:space="preserve">
-        <source>Life</source>
-        <target>Tout</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
       <trans-unit id="Light &amp; Translucent" xml:space="preserve">
         <source>Light &amp; Translucent</source>
         <target>Clair et translucide</target>
@@ -1485,7 +1250,7 @@
       <trans-unit id="Loading..." xml:space="preserve">
         <source>Loading...</source>
         <target>Chargement...</target>
-        <note>Custom Study Screen, Deck Stats Screen</note>
+        <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Log Out" xml:space="preserve">
         <source>Log Out</source>
@@ -1511,16 +1276,6 @@
         <source>Long press on an item to customize.</source>
         <target>Appui long sur un élément pour personnaliser.</target>
         <note>Tools Screen</note>
-      </trans-unit>
-      <trans-unit id="Longest interval" xml:space="preserve">
-        <source>Longest interval</source>
-        <target>Plus long intervalle</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Lowest ease" xml:space="preserve">
-        <source>Lowest ease</source>
-        <target>Plus petite facilité</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
         <source>M&amp;B</source>
@@ -1551,11 +1306,6 @@
         <source>Marked</source>
         <target>Marqué</target>
         <note>Actions Manager</note>
-      </trans-unit>
-      <trans-unit id="Mature" xml:space="preserve">
-        <source>Mature</source>
-        <target>Mature</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Max cards to gather" xml:space="preserve">
         <source>Max cards to gather</source>
@@ -1606,11 +1356,6 @@
         <source>Minimum interval</source>
         <target>Intervalle minimum</target>
         <note>Deck Options</note>
-      </trans-unit>
-      <trans-unit id="Minutes" xml:space="preserve">
-        <source>Minutes</source>
-        <target>Minutes</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Minutes Between Backups" xml:space="preserve">
         <source>Minutes Between Backups</source>
@@ -1707,20 +1452,10 @@
         <target>Aucune carte sélectionnée.</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="No cards studied today." xml:space="preserve">
-        <source>No cards studied today.</source>
-        <target>Aucune carte étudiée aujourd'hui.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="No current card." xml:space="preserve">
         <source>No current card.</source>
         <target>Aucune carte actuellement.</target>
         <note>Actions Manager, Utils</note>
-      </trans-unit>
-      <trans-unit id="No mature cards were studied today." xml:space="preserve">
-        <source>No mature cards were studied today.</source>
-        <target>Aucune carte mature n'a été étudiée aujourd'hui.</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
@@ -1735,7 +1470,7 @@
       <trans-unit id="Note Type" xml:space="preserve">
         <source>Note Type</source>
         <target>Type de note</target>
-        <note>Card Stats, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Note Updated" xml:space="preserve">
         <source>Note Updated</source>
@@ -1862,11 +1597,6 @@
         <target>Taille du stylet</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Percentage" xml:space="preserve">
-        <source>Percentage</source>
-        <target>Pourcentage</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
         <source>Please choose a file.</source>
         <target>Sélectionnez un fichier.</target>
@@ -1896,11 +1626,6 @@
         <source>Please tap the '?' in the top left to get started.</source>
         <target>Appuyez sur le bouton '?' en haut à gauche pour commencer.</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Position" xml:space="preserve">
-        <source>Position</source>
-        <target>Rang</target>
-        <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Preferences" xml:space="preserve">
         <source>Preferences</source>
@@ -1991,11 +1716,6 @@
         <source>Relative overdueness</source>
         <target>Échéance dépassée relative</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Relearn" xml:space="preserve">
-        <source>Relearn</source>
-        <target>Réapprises</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Remaining Count" xml:space="preserve">
         <source>Remaining Count</source>
@@ -2107,16 +1827,6 @@
         <target>Révision</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Review Count" xml:space="preserve">
-        <source>Review Count</source>
-        <target>Révisions</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Review Time" xml:space="preserve">
-        <source>Review Time</source>
-        <target>Temps de révision</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Review ahead" xml:space="preserve">
         <source>Review ahead</source>
         <target>Avancer la révision</target>
@@ -2132,11 +1842,6 @@
         <target>Revoir les cartes oubliées</target>
         <note>Custom Study Screen</note>
       </trans-unit>
-      <trans-unit id="Review success rate for each hour of the day." xml:space="preserve">
-        <source>Review success rate for each hour of the day.</source>
-        <target>Taux de révisions réussies en fonction de l’heure du jour.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Review undone" xml:space="preserve">
         <source>Review undone</source>
         <target>Révision annulée</target>
@@ -2145,7 +1850,7 @@
       <trans-unit id="Reviews" xml:space="preserve">
         <source>Reviews</source>
         <target>Révisions</target>
-        <note>Card Stats, Collection Stats, Deck Options, Search Screen</note>
+        <note>Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Reviews first" xml:space="preserve">
         <source>Reviews first</source>
@@ -2492,11 +2197,6 @@
         <target>Le paquet par défaut ne peut pas être supprimé.</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
-        <source>The division of cards in your deck(s).</source>
-        <target>Répartition des cartes selon leur statut</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="The first field can not be blank." xml:space="preserve">
         <source>The first field can not be blank.</source>
         <target>Le champ ne doit pas être vide.</target>
@@ -2507,30 +2207,10 @@
         <target>Le champ ne doit pas être vide.</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="The number of questions you have answered." xml:space="preserve">
-        <source>The number of questions you have answered.</source>
-        <target>Part et nombre de révisions selon le statut de la carte.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="The number of reviews due in the future." xml:space="preserve">
-        <source>The number of reviews due in the future.</source>
-        <target>Nombre de révisions prévues à l'avenir.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
-        <source>The number of times you have pressed each button.</source>
-        <target>Choix du bouton en fonction du statut de la carte.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="The provided deck does not exist." xml:space="preserve">
         <source>The provided deck does not exist.</source>
         <target>Le paquet indiqué n'existe pas.</target>
         <note>Add Note Scheme</note>
-      </trans-unit>
-      <trans-unit id="The provided input does not generate any cards." xml:space="preserve">
-        <source>The provided input does not generate any cards.</source>
-        <target>L'entrée indiquée ne génère aucune carte.</target>
-        <note>Add Note Scheme, Edit Screen</note>
       </trans-unit>
       <trans-unit id="The provided note type does not exist." xml:space="preserve">
         <source>The provided note type does not exist.</source>
@@ -2547,11 +2227,6 @@
         <target>Les options sélectionnées ne correspondent à aucune carte.</target>
         <note>Custom Study Screen</note>
       </trans-unit>
-      <trans-unit id="The time taken to answer the questions." xml:space="preserve">
-        <source>The time taken to answer the questions.</source>
-        <target>Temps de réponse aux questions selon le statut de la carte.</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
         <target>Thème</target>
@@ -2561,11 +2236,6 @@
         <source>Thick</source>
         <target>Épais</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Today" xml:space="preserve">
-        <source>Today</source>
-        <target>Aujourd’hui</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Toggle Suspend" xml:space="preserve">
         <source>Toggle Suspend</source>
@@ -2611,21 +2281,6 @@
         <source>Top Right</source>
         <target>En haut à droite</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Total" xml:space="preserve">
-        <source>Total</source>
-        <target>Tout</target>
-        <note>Card Stats, Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Total cards" xml:space="preserve">
-        <source>Total cards</source>
-        <target>Nombre total de cartes</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Total notes" xml:space="preserve">
-        <source>Total notes</source>
-        <target>Nombre total de notes</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Type in the answer" xml:space="preserve">
         <source>Type in the answer</source>
@@ -2697,11 +2352,6 @@
         <target>Décocher</target>
         <note>Actions Manager</note>
       </trans-unit>
-      <trans-unit id="Unseen" xml:space="preserve">
-        <source>Unseen</source>
-        <target>Non-vue</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Unsuspend Card" xml:space="preserve">
         <source>Unsuspend Card</source>
         <target>Enlever la suspension de la carte</target>
@@ -2761,21 +2411,6 @@
         <source>You have been logged out.</source>
         <target>Vous avez été déconnecté.</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Young" xml:space="preserve">
-        <source>Young</source>
-        <target>Récentes</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Young+Learn" xml:space="preserve">
-        <source>Young+Learn</source>
-        <target>Récentes+Apprises</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="added-date" xml:space="preserve">
-        <source>Added</source>
-        <target>Ajouté</target>
-        <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="added-popup" xml:space="preserve">
         <source>Added</source>
@@ -2847,40 +2482,15 @@
         <target>Options</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="graph-label-days" xml:space="preserve">
-        <source>d</source>
-        <target>j</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="graph-label-months" xml:space="preserve">
-        <source>mo</source>
-        <target>m</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="graph-label-weeks" xml:space="preserve">
-        <source>w</source>
-        <target>s</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="have-ready-to-study" xml:space="preserve">
         <source>You have %@ ready to study.</source>
         <target>Vous avez %@ prêtes à étudier.</target>
         <note>...have (5 cards) ready...; Utils</note>
       </trans-unit>
-      <trans-unit id="hours" xml:space="preserve">
-        <source>hours</source>
-        <target>heures</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
         <target>AnkiMobile est construit avec %@, généreusement partagé par la communauté des développeurs iOS.</target>
         <note>About Screen</note>
-      </trans-unit>
-      <trans-unit id="minutes" xml:space="preserve">
-        <source>minutes</source>
-        <target>minutes</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
@@ -2962,11 +2572,6 @@ en attente de révision. Pour une mémorisation optimale, vous pourriez augmente
 la limite quotidienne, dans les options.</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="reviews" xml:space="preserve">
-        <source>reviews</source>
-        <target>révisions</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
         <target>Moyen</target>
@@ -3024,11 +2629,6 @@ la limite quotidienne, dans les options.</target>
         <source>Cards will be returned to their original deck as you answer them.</source>
         <target>Replace les cartes dans leur paquet après y avoir répondu.</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
-      </trans-unit>
-      <trans-unit id="x-per-day" xml:space="preserve">
-        <source>%@/day</source>
-        <target>%@ jour</target>
-        <note>Collection Stats</note>
       </trans-unit>
     </body>
   </file>

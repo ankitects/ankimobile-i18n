@@ -52,16 +52,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
     </header>
     <body>
-      <trans-unit id="% Correct" xml:space="preserve">
-        <source>% Correct</source>
-        <target>正确率（%）</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="% Total" xml:space="preserve">
-        <source>% Total</source>
-        <target>總計（%）</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="%@ available" xml:space="preserve">
         <source>%@ available</source>
         <target>%@可用</target>
@@ -91,36 +81,6 @@
         <source>-5s</source>
         <target>倒轉5秒</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
-      </trans-unit>
-      <trans-unit id="1 Month" xml:space="preserve">
-        <source>1 Month</source>
-        <target>每月</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
-      <trans-unit id="1 Year" xml:space="preserve">
-        <source>1 Year</source>
-        <target>每年</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
-      <trans-unit id="3AM" xml:space="preserve">
-        <source>3AM</source>
-        <target>上午3點</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="4PM" xml:space="preserve">
-        <source>4PM</source>
-        <target>下午4點</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="10AM" xml:space="preserve">
-        <source>10AM</source>
-        <target>上午10點</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="10PM" xml:space="preserve">
-        <source>10PM</source>
-        <target>下午10點</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="A deck must be provided." xml:space="preserve">
         <source>A deck must be provided.</source>
@@ -242,11 +202,6 @@
         <target>到期時提醒</target>
         <note>Notification Options</note>
       </trans-unit>
-      <trans-unit id="All" xml:space="preserve">
-        <source>All</source>
-        <target>所有</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
         <source>All Actions</source>
         <target>所有動作</target>
@@ -280,12 +235,7 @@
       <trans-unit id="Answer Buttons" xml:space="preserve">
         <source>Answer Buttons</source>
         <target>回答按鈕</target>
-        <note>Collection Stats, Preferences</note>
-      </trans-unit>
-      <trans-unit id="Answer Count" xml:space="preserve">
-        <source>Answer Count</source>
-        <target>回答計數</target>
-        <note>Collection Stats</note>
+        <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Answer Easy" xml:space="preserve">
         <source>Answer Easy</source>
@@ -326,11 +276,6 @@
         <source>Answer time elapsed</source>
         <target>已過回答時間</target>
         <note>Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Answers" xml:space="preserve">
-        <source>Answers</source>
-        <target>答案</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Any Flag" xml:space="preserve">
         <source>Any Flag</source>
@@ -391,36 +336,6 @@
         <source>Available backups</source>
         <target>可用備份</target>
         <note>Backup Manager</note>
-      </trans-unit>
-      <trans-unit id="Average" xml:space="preserve">
-        <source>Average</source>
-        <target>平均</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average Time" xml:space="preserve">
-        <source>Average Time</source>
-        <target>平均時間</target>
-        <note>Card Stats</note>
-      </trans-unit>
-      <trans-unit id="Average answer time" xml:space="preserve">
-        <source>Average answer time</source>
-        <target>平均答題時間</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average ease" xml:space="preserve">
-        <source>Average ease</source>
-        <target>中等容易度</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average for days studied" xml:space="preserve">
-        <source>Average for days studied</source>
-        <target>平均值（實際學習天數）</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Average interval" xml:space="preserve">
-        <source>Average interval</source>
-        <target>平均間隔</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Back" xml:space="preserve">
         <source>Back</source>
@@ -487,11 +402,6 @@
         <target>建立</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
-      <trans-unit id="Buried+Suspended" xml:space="preserve">
-        <source>Buried+Suspended</source>
-        <target>已暫時隱藏+已暫時停止</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
         <source>Bury Card</source>
         <target>暫時隱藏卡片</target>
@@ -557,11 +467,6 @@
         <target>無法刪除</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="Card Count" xml:space="preserve">
-        <source>Card Count</source>
-        <target>卡片計數</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Card Info" xml:space="preserve">
         <source>Card Info</source>
         <target>卡片資訊</target>
@@ -571,16 +476,6 @@
         <source>Card Template</source>
         <target>卡片模板</target>
         <note>Actions, Card Template, Search Screen</note>
-      </trans-unit>
-      <trans-unit id="Card Type" xml:space="preserve">
-        <source>Card Type</source>
-        <target>卡片類別</target>
-        <note>Card Stats</note>
-      </trans-unit>
-      <trans-unit id="Card Types" xml:space="preserve">
-        <source>Card Types</source>
-        <target>卡片類型</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Card Updated" xml:space="preserve">
         <source>Card Updated</source>
@@ -616,11 +511,6 @@
         <source>Card was a leech.</source>
         <target>卡片曾為榨時卡。</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Cards" xml:space="preserve">
-        <source>Cards</source>
-        <target>卡片</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Cards can't be manually moved into a filtered deck." xml:space="preserve">
         <source>Cards can't be manually moved into a filtered deck.</source>
@@ -662,11 +552,6 @@
         <target>清除旗標</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Collection" xml:space="preserve">
-        <source>Collection</source>
-        <target>集合</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
         <source>Collection saved to iTunes.</source>
         <target>集合已儲存到 iTunes。</target>
@@ -697,21 +582,6 @@
         <target>恭喜！您已完成本牌組當前的學習任務。</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="Correct" xml:space="preserve">
-        <source>Correct</source>
-        <target>正確率</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Correct answers on mature cards:" xml:space="preserve">
-        <source>Correct answers on mature cards:</source>
-        <target>回答正確的熟練卡片：</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cram" xml:space="preserve">
-        <source>Cram</source>
-        <target>填鴨式學習</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Cram seen cards with certain tags" xml:space="preserve">
         <source>Cram seen cards with certain tags</source>
         <target>對貼有特定標籤的卡片進行填鴨式學習</target>
@@ -731,26 +601,6 @@
         <source>Creating Backup...</source>
         <target>正在建立備份...</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Cumulative" xml:space="preserve">
-        <source>Cumulative</source>
-        <target>累計</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cumulative %@" xml:space="preserve">
-        <source>Cumulative %@</source>
-        <target>累計 %@</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cumulative Answers" xml:space="preserve">
-        <source>Cumulative Answers</source>
-        <target>累計答題數</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Cumulative Cards" xml:space="preserve">
-        <source>Cumulative Cards</source>
-        <target>累計卡片</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
@@ -812,11 +662,6 @@
         <target>一天起始時間</target>
         <note>Collection Options</note>
       </trans-unit>
-      <trans-unit id="Days studied" xml:space="preserve">
-        <source>Days studied</source>
-        <target>學習天數</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Days to look ahead" xml:space="preserve">
         <source>Days to look ahead</source>
         <target>提前天數</target>
@@ -830,7 +675,7 @@
       <trans-unit id="Deck" xml:space="preserve">
         <source>Deck</source>
         <target>牌組</target>
-        <note>Card Stats, Deck Stats Screen, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Deck Exists" xml:space="preserve">
         <source>Deck Exists</source>
@@ -876,11 +721,6 @@
         <source>Del</source>
         <target>刪除</target>
         <note>Short version of 'Delete Note'; Actions</note>
-      </trans-unit>
-      <trans-unit id="Delays until reviews are shown again." xml:space="preserve">
-        <source>Delays until reviews are shown again.</source>
-        <target>待複習卡片再次出現前的延遲。</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
@@ -967,11 +807,6 @@
         <target>繪製畫面忽略手指</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Due" xml:space="preserve">
-        <source>Due</source>
-        <target>到期日</target>
-        <note>Card Stats</note>
-      </trans-unit>
       <trans-unit id="Due Date/Order" xml:space="preserve">
         <source>Due Date/Order</source>
         <target>到期日/順序</target>
@@ -982,15 +817,10 @@
         <target>到期的待複習卡片</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Due tomorrow" xml:space="preserve">
-        <source>Due tomorrow</source>
-        <target>明天到期</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Ease" xml:space="preserve">
         <source>Ease</source>
         <target>容易程度</target>
-        <note>Card Stats, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Easy" xml:space="preserve">
         <source>Easy</source>
@@ -1117,11 +947,6 @@
         <target>正在完成備份...</target>
         <note>Utils</note>
       </trans-unit>
-      <trans-unit id="First Review" xml:space="preserve">
-        <source>First Review</source>
-        <target>首次複習日期</target>
-        <note>Card Stats</note>
-      </trans-unit>
       <trans-unit id="Flag 1" xml:space="preserve">
         <source>Flag 1</source>
         <target>旗標 1</target>
@@ -1176,11 +1001,6 @@
         <source>Force On</source>
         <target>總是開啟</target>
         <note>Theme Options</note>
-      </trans-unit>
-      <trans-unit id="Forecast" xml:space="preserve">
-        <source>Forecast</source>
-        <target>預測</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Forgot card" xml:space="preserve">
         <source>Forgot card</source>
@@ -1257,26 +1077,6 @@
         <target>高度</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Highest ease" xml:space="preserve">
-        <source>Highest ease</source>
-        <target>最高容易度</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Hourly Breakdown" xml:space="preserve">
-        <source>Hourly Breakdown</source>
-        <target>每小時的分析</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Hours" xml:space="preserve">
-        <source>Hours</source>
-        <target>小時</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Hours with less than 30 reviews are not shown." xml:space="preserve">
-        <source>Hours with less than 30 reviews are not shown.</source>
-        <target>未顯示少於30次複習的時段</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="How many days in the future?" xml:space="preserve">
         <source>How many days in the future?</source>
         <target>今後幾天？</target>
@@ -1286,11 +1086,6 @@
         <source>Huge</source>
         <target>巨大</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="If you studied every day" xml:space="preserve">
-        <source>If you studied every day</source>
-        <target>平均值（如果每天都學習）</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Ignore Fingers" xml:space="preserve">
         <source>Ignore Fingers</source>
@@ -1350,17 +1145,12 @@
       <trans-unit id="Interval" xml:space="preserve">
         <source>Interval</source>
         <target>間隔</target>
-        <note>Card Stats, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Interval modifier" xml:space="preserve">
         <source>Interval modifier</source>
         <target>間隔調節器</target>
         <note>Deck Options</note>
-      </trans-unit>
-      <trans-unit id="Intervals" xml:space="preserve">
-        <source>Intervals</source>
-        <target>間隔</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Invalid deck name." xml:space="preserve">
         <source>Invalid deck name.</source>
@@ -1385,27 +1175,17 @@
       <trans-unit id="Lapses" xml:space="preserve">
         <source>Lapses</source>
         <target>忘記次數</target>
-        <note>Card Stats, Deck Options, Search Screen</note>
+        <note>Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
         <source>Large</source>
         <target>大</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Latest Review" xml:space="preserve">
-        <source>Latest Review</source>
-        <target>最近複習</target>
-        <note>Card Stats</note>
-      </trans-unit>
       <trans-unit id="Latest added first" xml:space="preserve">
         <source>Latest added first</source>
         <target>最近新增的優先</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Learn" xml:space="preserve">
-        <source>Learn</source>
-        <target>學習</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learn Ahead Minutes" xml:space="preserve">
         <source>Learn Ahead Minutes</source>
@@ -1416,16 +1196,6 @@
         <source>Learn new cards with certain tags</source>
         <target>學習貼有特定標籤的新卡片</target>
         <note>Custom Study Screen</note>
-      </trans-unit>
-      <trans-unit id="Learn: %@, Review: %@, Relearn: %@, Filtered: %@" xml:space="preserve">
-        <source>Learn: %@, Review: %@, Relearn: %@, Filtered: %@</source>
-        <target>學習：%@　複習：%@　重新學習：%@　已篩選：%@</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Learning" xml:space="preserve">
-        <source>Learning</source>
-        <target>學習中</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Learning Cards" xml:space="preserve">
         <source>Learning Cards</source>
@@ -1467,11 +1237,6 @@
         <target>LT</target>
         <note>gamepad; Preferences</note>
       </trans-unit>
-      <trans-unit id="Life" xml:space="preserve">
-        <source>Life</source>
-        <target>總時間</target>
-        <note>Deck Stats Screen</note>
-      </trans-unit>
       <trans-unit id="Light &amp; Translucent" xml:space="preserve">
         <source>Light &amp; Translucent</source>
         <target>淺色半透明</target>
@@ -1485,7 +1250,7 @@
       <trans-unit id="Loading..." xml:space="preserve">
         <source>Loading...</source>
         <target>讀取中...</target>
-        <note>Custom Study Screen, Deck Stats Screen</note>
+        <note>Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Log Out" xml:space="preserve">
         <source>Log Out</source>
@@ -1511,16 +1276,6 @@
         <source>Long press on an item to customize.</source>
         <target>長按項目來自訂。</target>
         <note>Tools Screen</note>
-      </trans-unit>
-      <trans-unit id="Longest interval" xml:space="preserve">
-        <source>Longest interval</source>
-        <target>最長的間隔</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Lowest ease" xml:space="preserve">
-        <source>Lowest ease</source>
-        <target>最低容易度</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
         <source>M&amp;B</source>
@@ -1551,11 +1306,6 @@
         <source>Marked</source>
         <target>已標記</target>
         <note>Actions Manager</note>
-      </trans-unit>
-      <trans-unit id="Mature" xml:space="preserve">
-        <source>Mature</source>
-        <target>熟練</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Max cards to gather" xml:space="preserve">
         <source>Max cards to gather</source>
@@ -1606,11 +1356,6 @@
         <source>Minimum interval</source>
         <target>最短間隔</target>
         <note>Deck Options</note>
-      </trans-unit>
-      <trans-unit id="Minutes" xml:space="preserve">
-        <source>Minutes</source>
-        <target>分鐘</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Minutes Between Backups" xml:space="preserve">
         <source>Minutes Between Backups</source>
@@ -1707,20 +1452,10 @@
         <target>未選取卡片。</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="No cards studied today." xml:space="preserve">
-        <source>No cards studied today.</source>
-        <target>今天未學習任何卡片。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="No current card." xml:space="preserve">
         <source>No current card.</source>
         <target>沒有當前卡片。</target>
         <note>Actions Manager, Utils</note>
-      </trans-unit>
-      <trans-unit id="No mature cards were studied today." xml:space="preserve">
-        <source>No mature cards were studied today.</source>
-        <target>今天尚未學習任何熟練卡片。</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
@@ -1735,7 +1470,7 @@
       <trans-unit id="Note Type" xml:space="preserve">
         <source>Note Type</source>
         <target>筆記類型</target>
-        <note>Card Stats, Search Screen</note>
+        <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Note Updated" xml:space="preserve">
         <source>Note Updated</source>
@@ -1862,11 +1597,6 @@
         <target>筆跡大小</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Percentage" xml:space="preserve">
-        <source>Percentage</source>
-        <target>百分比</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Please choose a file." xml:space="preserve">
         <source>Please choose a file.</source>
         <target>請選擇一個檔案。</target>
@@ -1896,11 +1626,6 @@
         <source>Please tap the '?' in the top left to get started.</source>
         <target>請按一下左上的「？」來開始。</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Position" xml:space="preserve">
-        <source>Position</source>
-        <target>位置</target>
-        <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="Preferences" xml:space="preserve">
         <source>Preferences</source>
@@ -1991,11 +1716,6 @@
         <source>Relative overdueness</source>
         <target>依相對過期程度</target>
         <note>Utils</note>
-      </trans-unit>
-      <trans-unit id="Relearn" xml:space="preserve">
-        <source>Relearn</source>
-        <target>重新學習</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Remaining Count" xml:space="preserve">
         <source>Remaining Count</source>
@@ -2107,16 +1827,6 @@
         <target>複習</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="Review Count" xml:space="preserve">
-        <source>Review Count</source>
-        <target>複習計數</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Review Time" xml:space="preserve">
-        <source>Review Time</source>
-        <target>複習時間</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Review ahead" xml:space="preserve">
         <source>Review ahead</source>
         <target>提早複習</target>
@@ -2132,11 +1842,6 @@
         <target>複習忘記的卡片</target>
         <note>Custom Study Screen</note>
       </trans-unit>
-      <trans-unit id="Review success rate for each hour of the day." xml:space="preserve">
-        <source>Review success rate for each hour of the day.</source>
-        <target>當天的每小時複習成功率。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Review undone" xml:space="preserve">
         <source>Review undone</source>
         <target>已復原復習</target>
@@ -2145,7 +1850,7 @@
       <trans-unit id="Reviews" xml:space="preserve">
         <source>Reviews</source>
         <target>複習</target>
-        <note>Card Stats, Collection Stats, Deck Options, Search Screen</note>
+        <note>Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Reviews first" xml:space="preserve">
         <source>Reviews first</source>
@@ -2492,11 +2197,6 @@
         <target>無法刪除預設牌組。</target>
         <note>Decks Screen</note>
       </trans-unit>
-      <trans-unit id="The division of cards in your deck(s)." xml:space="preserve">
-        <source>The division of cards in your deck(s).</source>
-        <target>您牌組中的卡片統計圖表。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="The first field can not be blank." xml:space="preserve">
         <source>The first field can not be blank.</source>
         <target>第一個欄位不能為空。</target>
@@ -2507,30 +2207,10 @@
         <target>第一個欄位不能是空的。</target>
         <note>Edit Screen</note>
       </trans-unit>
-      <trans-unit id="The number of questions you have answered." xml:space="preserve">
-        <source>The number of questions you have answered.</source>
-        <target>您回答過的題目數量。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="The number of reviews due in the future." xml:space="preserve">
-        <source>The number of reviews due in the future.</source>
-        <target>將在未來到期的待複習卡片數量。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="The number of times you have pressed each button." xml:space="preserve">
-        <source>The number of times you have pressed each button.</source>
-        <target>各按鈕已按下的次數。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="The provided deck does not exist." xml:space="preserve">
         <source>The provided deck does not exist.</source>
         <target>提供的牌組不存在。</target>
         <note>Add Note Scheme</note>
-      </trans-unit>
-      <trans-unit id="The provided input does not generate any cards." xml:space="preserve">
-        <source>The provided input does not generate any cards.</source>
-        <target>輸入的內容沒有產生任何卡片。</target>
-        <note>Add Note Scheme, Edit Screen</note>
       </trans-unit>
       <trans-unit id="The provided note type does not exist." xml:space="preserve">
         <source>The provided note type does not exist.</source>
@@ -2547,11 +2227,6 @@
         <target>沒有任何卡片符合已選取的選項。</target>
         <note>Custom Study Screen</note>
       </trans-unit>
-      <trans-unit id="The time taken to answer the questions." xml:space="preserve">
-        <source>The time taken to answer the questions.</source>
-        <target>回答問題所用的時間。</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Theme" xml:space="preserve">
         <source>Theme</source>
         <target>佈景主題</target>
@@ -2561,11 +2236,6 @@
         <source>Thick</source>
         <target>粗</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Today" xml:space="preserve">
-        <source>Today</source>
-        <target>今天</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Toggle Suspend" xml:space="preserve">
         <source>Toggle Suspend</source>
@@ -2611,21 +2281,6 @@
         <source>Top Right</source>
         <target>右上方</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Total" xml:space="preserve">
-        <source>Total</source>
-        <target>總計</target>
-        <note>Card Stats, Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Total cards" xml:space="preserve">
-        <source>Total cards</source>
-        <target>卡片總數</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Total notes" xml:space="preserve">
-        <source>Total notes</source>
-        <target>筆記總數</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="Type in the answer" xml:space="preserve">
         <source>Type in the answer</source>
@@ -2697,11 +2352,6 @@
         <target>取消標記</target>
         <note>Actions Manager</note>
       </trans-unit>
-      <trans-unit id="Unseen" xml:space="preserve">
-        <source>Unseen</source>
-        <target>尚未看過</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="Unsuspend Card" xml:space="preserve">
         <source>Unsuspend Card</source>
         <target>取消暫時停止卡片</target>
@@ -2761,21 +2411,6 @@
         <source>You have been logged out.</source>
         <target>已登出。</target>
         <note>Preferences</note>
-      </trans-unit>
-      <trans-unit id="Young" xml:space="preserve">
-        <source>Young</source>
-        <target>未熟練</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="Young+Learn" xml:space="preserve">
-        <source>Young+Learn</source>
-        <target>未熟練+學習中</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="added-date" xml:space="preserve">
-        <source>Added</source>
-        <target>新增日期</target>
-        <note>Card Stats</note>
       </trans-unit>
       <trans-unit id="added-popup" xml:space="preserve">
         <source>Added</source>
@@ -2847,40 +2482,15 @@
         <target>選項</target>
         <note>Preferences</note>
       </trans-unit>
-      <trans-unit id="graph-label-days" xml:space="preserve">
-        <source>d</source>
-        <target>天</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="graph-label-months" xml:space="preserve">
-        <source>mo</source>
-        <target>月</target>
-        <note>Collection Stats</note>
-      </trans-unit>
-      <trans-unit id="graph-label-weeks" xml:space="preserve">
-        <source>w</source>
-        <target>週</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="have-ready-to-study" xml:space="preserve">
         <source>You have %@ ready to study.</source>
         <target>您有%@可以來學習。</target>
         <note>...have (5 cards) ready...; Utils</note>
       </trans-unit>
-      <trans-unit id="hours" xml:space="preserve">
-        <source>hours</source>
-        <target>小時</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
         <target>AnkiMobile使用%@建置，由開發人員社群慷慨分享。</target>
         <note>About Screen</note>
-      </trans-unit>
-      <trans-unit id="minutes" xml:space="preserve">
-        <source>minutes</source>
-        <target>分鐘</target>
-        <note>Collection Stats</note>
       </trans-unit>
       <trans-unit id="new-cards-available-but" xml:space="preserve">
         <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
@@ -2957,11 +2567,6 @@
         <target>已達到今天的複習上限，但仍有未複習的卡片。為了最佳化記憶，請考慮在選項中增加每日上限。</target>
         <note>Scheduler</note>
       </trans-unit>
-      <trans-unit id="reviews" xml:space="preserve">
-        <source>reviews</source>
-        <target>次複習</target>
-        <note>Collection Stats</note>
-      </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
         <target>中等</target>
@@ -3021,11 +2626,6 @@
         <source>Cards will be returned to their original deck as you answer them.</source>
         <target>當您回答這些卡片後，將會回到原始牌組。</target>
         <note>Custom Study Screen, Filtered Deck Screen</note>
-      </trans-unit>
-      <trans-unit id="x-per-day" xml:space="preserve">
-        <source>%@/day</source>
-        <target>%@/天</target>
-        <note>Collection Stats</note>
       </trans-unit>
     </body>
   </file>
