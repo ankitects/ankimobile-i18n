@@ -2484,7 +2484,7 @@
       </trans-unit>
       <trans-unit id="have-ready-to-study" xml:space="preserve">
         <source>You have %@ ready to study.</source>
-        <target>Tiene &amp;@ listo para estudiar.</target>
+        <target>Tiene %@ listo para estudiar.</target>
         <note>...have (5 cards) ready...; Utils</note>
       </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
