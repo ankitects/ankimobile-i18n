@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="Any Flag" xml:space="preserve">
         <source>Any Flag</source>
-        <target>Cualquier Bandera</target>
+        <target>CualquierMarca</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="App Icon Shows Due Count" xml:space="preserve">
@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="Change Flag" xml:space="preserve">
         <source>Change Flag</source>
-        <target>Cambiar Bandera</target>
+        <target>Cambiar Marca</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Check Database" xml:space="preserve">
@@ -549,7 +549,7 @@
       </trans-unit>
       <trans-unit id="Clear Flag" xml:space="preserve">
         <source>Clear Flag</source>
-        <target>Borrar Bandera</target>
+        <target>Borrar Marca</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Collection saved to iTunes." xml:space="preserve">
@@ -949,42 +949,42 @@
       </trans-unit>
       <trans-unit id="Flag 1" xml:space="preserve">
         <source>Flag 1</source>
-        <target>Bandera 1</target>
+        <target>Marca 1</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 1 (Red)" xml:space="preserve">
         <source>Flag 1 (Red)</source>
-        <target>Bandera 1 (roja)</target>
+        <target>Marca 1 (roja)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 2" xml:space="preserve">
         <source>Flag 2</source>
-        <target>Bandera 2</target>
+        <target>Marca 2</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 2 (Orange)" xml:space="preserve">
         <source>Flag 2 (Orange)</source>
-        <target>Bandera 2 (Naranja)</target>
+        <target>Marca 2 (Naranja)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 3" xml:space="preserve">
         <source>Flag 3</source>
-        <target>Bandera 3</target>
+        <target>Marca 3</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 3 (Green)" xml:space="preserve">
         <source>Flag 3 (Green)</source>
-        <target>Bandera 3 (Verde)</target>
+        <target>Marca 3 (Verde)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 4" xml:space="preserve">
         <source>Flag 4</source>
-        <target>Bandera 4</target>
+        <target>Marca 4</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Flag 4 (Blue)" xml:space="preserve">
         <source>Flag 4 (Blue)</source>
-        <target>Bandera 4 (Azul)</target>
+        <target>Marca 4 (Azul)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
@@ -1439,7 +1439,7 @@
       </trans-unit>
       <trans-unit id="No Flag" xml:space="preserve">
         <source>No Flag</source>
-        <target>Sin Bandera</target>
+        <target>Sin Marca</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="No Matches" xml:space="preserve">
