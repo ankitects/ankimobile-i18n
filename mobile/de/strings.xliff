@@ -1244,7 +1244,7 @@
       </trans-unit>
       <trans-unit id="Link to .apkg file to import:" xml:space="preserve">
         <source>Link to .apkg file to import:</source>
-        <target>Link zu .apkg-Datei zum Importieren:</target>
+        <target>Link zur .apkg-Datei für Import:</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
