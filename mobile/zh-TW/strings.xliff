@@ -194,12 +194,12 @@
       </trans-unit>
       <trans-unit id="Alert Time" xml:space="preserve">
         <source>Alert Time</source>
-        <target>提醒時間</target>
+        <target>通知時間</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="Alert When Due" xml:space="preserve">
         <source>Alert When Due</source>
-        <target>到期時提醒</target>
+        <target>到期時通知</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
@@ -659,7 +659,7 @@
       </trans-unit>
       <trans-unit id="Day Starts" xml:space="preserve">
         <source>Day Starts</source>
-        <target>一天起始時間</target>
+        <target>每日起始時間</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Days to look ahead" xml:space="preserve">
@@ -774,7 +774,7 @@
       </trans-unit>
       <trans-unit id="Double Tap Prevention" xml:space="preserve">
         <source>Double Tap Prevention</source>
-        <target>防止按兩下</target>
+        <target>防止誤觸間隔</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Download Link" xml:space="preserve">
@@ -899,7 +899,7 @@
       </trans-unit>
       <trans-unit id="Feedback Ticks" xml:space="preserve">
         <source>Feedback Ticks</source>
-        <target>顯示勾號回饋</target>
+        <target>顯示回答勾號</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Fields" xml:space="preserve">
@@ -1259,7 +1259,7 @@
       </trans-unit>
       <trans-unit id="Logged in as:" xml:space="preserve">
         <source>Logged in as:</source>
-        <target>已登入為：</target>
+        <target>已登入帳號：</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1979,7 +1979,7 @@
       </trans-unit>
       <trans-unit id="Shake Action" xml:space="preserve">
         <source>Shake Action</source>
-        <target>搖動動作</target>
+        <target>搖動手機動作</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Shared Deck List" xml:space="preserve">
@@ -2419,7 +2419,7 @@
       </trans-unit>
       <trans-unit id="anki-written-by" xml:space="preserve">
         <source>AnkiMobile was written by Damien Elmes and Richard Smith, and is based off Damien's work on the computer version of Anki.</source>
-        <target>AnkiMobile是由Damien Elmes和Richard Smith創作的，基於Damien編寫的電腦版Anki。</target>
+        <target>AnkiMobile 基於Damien編寫的電腦版，由 Damien Elmes 和 Richard Smith 創作。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="any-tag" xml:space="preserve">
@@ -2544,7 +2544,7 @@
       </trans-unit>
       <trans-unit id="please-see" xml:space="preserve">
         <source>Please see %@ for more information.</source>
-        <target>要取得更多資訊，請參閱%@。</target>
+        <target>請參閱 %@以取得更多資訊。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="privacy-microphone" xml:space="preserve">
