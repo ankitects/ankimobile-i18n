@@ -1844,7 +1844,7 @@
       </trans-unit>
       <trans-unit id="Review undone" xml:space="preserve">
         <source>Review undone</source>
-        <target>已復原復習</target>
+        <target>已復原複習</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Reviews" xml:space="preserve">
