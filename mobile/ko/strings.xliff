@@ -7,14 +7,17 @@
     <body>
       <trans-unit id="Add Cards" xml:space="preserve">
         <source>Add Cards</source>
+        <target>카드 추가</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This allows Anki to insert the images you capture onto your cards.</source>
+        <target>이것은 Anki가 당신이 캡처한 이미지를 당신의 카드에 삽입할 수 있게 해줍니다.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
         <source>The microphone will only be used when you tap the record button.</source>
+        <target>마이크는 녹음 버튼을 누를 때만 사용됩니다.</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
