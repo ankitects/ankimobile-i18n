@@ -299,7 +299,7 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
-        <target>你確定嗎？</target>
+        <target>您確定嗎？</target>
         <note>Decks Screen, Profiles Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Audio Buttons" xml:space="preserve">
