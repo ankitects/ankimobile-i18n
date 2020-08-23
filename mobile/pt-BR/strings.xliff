@@ -436,6 +436,7 @@
       </trans-unit>
       <trans-unit id="Bar Style" xml:space="preserve">
         <source>Bar Style</source>
+        <target>Estilo da Barra</target>
         <note>Theme Options</note>
       </trans-unit>
       <trans-unit id="Basic" xml:space="preserve">
@@ -979,6 +980,7 @@
       </trans-unit>
       <trans-unit id="Draw" xml:space="preserve">
         <source>Draw</source>
+        <target>Desenhar</target>
         <note>Drawing Screen</note>
       </trans-unit>
       <trans-unit id="Drawing Screen Ignores Fingers" xml:space="preserve">
