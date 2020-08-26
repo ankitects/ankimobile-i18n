@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="Bold" xml:space="preserve">
         <source>Bold</source>
-        <target>加粗</target>
+        <target>粗体</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Bot.B" xml:space="preserve">
@@ -2569,18 +2569,22 @@
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
+        <target>中等</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-none" xml:space="preserve">
         <source>None</source>
+        <target>无</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-slight" xml:space="preserve">
         <source>Slight</source>
+        <target>细</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="settings-app-enable-notifications" xml:space="preserve">
         <source>Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.</source>
+        <target>请前往 iOS 设定，找到“Anki”，並启用通知、标记和提示。</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
