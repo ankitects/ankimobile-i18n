@@ -76,10 +76,12 @@
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
         <source>+5s</source>
+        <target>+5s</target>
         <note>Short version of 'Current Audio +5s'; Actions</note>
       </trans-unit>
       <trans-unit id="-5s" xml:space="preserve">
         <source>-5s</source>
+        <target>-5s</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
       </trans-unit>
       <trans-unit id="1 Month" xml:space="preserve">
@@ -157,6 +159,7 @@
       </trans-unit>
       <trans-unit id="Add Empty Deck" xml:space="preserve">
         <source>Add Empty Deck</source>
+        <target>빈 덱 추가</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Add Media" xml:space="preserve">
@@ -166,6 +169,7 @@
       </trans-unit>
       <trans-unit id="Add New" xml:space="preserve">
         <source>Add New</source>
+        <target>새로 추가</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Add Options Group" xml:space="preserve">
@@ -317,6 +321,7 @@
       </trans-unit>
       <trans-unit id="Are you sure?" xml:space="preserve">
         <source>Are you sure?</source>
+        <target>확실합니까?</target>
         <note>Decks Screen, Profiles Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Audio Buttons" xml:space="preserve">
@@ -683,6 +688,7 @@
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
         <source>Create</source>
+        <target>생성</target>
         <note>Deck And Note Type Selector</note>
       </trans-unit>
       <trans-unit id="Create Now" xml:space="preserve">
@@ -714,10 +720,12 @@
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
+        <target>현재 오디오 +5s</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Audio -5s" xml:space="preserve">
         <source>Current Audio -5s</source>
+        <target>현재 오디오 -5s</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
@@ -791,18 +799,22 @@
       </trans-unit>
       <trans-unit id="Deck Name" xml:space="preserve">
         <source>Deck Name</source>
+        <target>덱 이름</target>
         <note>Deck And Note Type Selector, Decks Screen</note>
       </trans-unit>
       <trans-unit id="Deck Options" xml:space="preserve">
         <source>Deck Options</source>
+        <target>덱 옵션</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Deck Statistics" xml:space="preserve">
         <source>Deck Statistics</source>
+        <target>덱 통계</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Deck:" xml:space="preserve">
         <source>Deck:</source>
+        <target>덱:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -812,7 +824,7 @@
       </trans-unit>
       <trans-unit id="Decreasing intervals" xml:space="preserve">
         <source>Decreasing intervals</source>
-        <target>복습 간격이 긴 것부터</target>
+        <target>복습 주기가 긴 것부터</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
@@ -822,6 +834,7 @@
       </trans-unit>
       <trans-unit id="Defaults" xml:space="preserve">
         <source>Defaults</source>
+        <target>기본값</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Del" xml:space="preserve">
@@ -943,7 +956,7 @@
       </trans-unit>
       <trans-unit id="Easy interval" xml:space="preserve">
         <source>Easy interval</source>
-        <target>쉬움 간격</target>
+        <target>복습 주기</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -1243,7 +1256,7 @@
       </trans-unit>
       <trans-unit id="Increasing intervals" xml:space="preserve">
         <source>Increasing intervals</source>
-        <target>복습 간격이 짧은 것부터</target>
+        <target>복습 주기가 짧은 것부터</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Interrupt Current Audio" xml:space="preserve">
@@ -1257,7 +1270,7 @@
       </trans-unit>
       <trans-unit id="Interval modifier" xml:space="preserve">
         <source>Interval modifier</source>
-        <target>복습 간격 조정값</target>
+        <target>복습 주기 조정값</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Intervals" xml:space="preserve">
@@ -1455,7 +1468,7 @@
       </trans-unit>
       <trans-unit id="Maximum interval" xml:space="preserve">
         <source>Maximum interval</source>
-        <target>최대 복습 간격</target>
+        <target>최대 복습 주기</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Media files exported: %d..." xml:space="preserve">
@@ -1476,7 +1489,7 @@
       </trans-unit>
       <trans-unit id="Minimum interval" xml:space="preserve">
         <source>Minimum interval</source>
-        <target>최소 복습 간격</target>
+        <target>최소 복습 주기</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Minutes" xml:space="preserve">
@@ -1516,7 +1529,7 @@
       </trans-unit>
       <trans-unit id="New interval" xml:space="preserve">
         <source>New interval</source>
-        <target>새 복습 간격</target>
+        <target>새 복습 주기</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="New name:" xml:space="preserve">
