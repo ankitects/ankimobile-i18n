@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="src/i18n/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.7" build-num="11E801a"/>
     </header>
     <body>
       <trans-unit id="Add Cards" xml:space="preserve">
@@ -49,7 +49,7 @@
   </file>
   <file original="src/i18n/en.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.7" build-num="11E801a"/>
     </header>
     <body>
       <trans-unit id="%@ available" xml:space="preserve">
@@ -577,11 +577,6 @@
         <target>Reset bestätigen</target>
         <note>Search Screen</note>
       </trans-unit>
-      <trans-unit id="Congratulations! You have finished this deck for now." xml:space="preserve">
-        <source>Congratulations! You have finished this deck for now.</source>
-        <target>Herzlichen Glückwunsch! Dieser Stapel ist für jetzt geschafft.</target>
-        <note>Scheduler</note>
-      </trans-unit>
       <trans-unit id="Cram seen cards with certain tags" xml:space="preserve">
         <source>Cram seen cards with certain tags</source>
         <target>Angeschaute Karten mit bestimmten Schlagwörtern pauken</target>
@@ -630,7 +625,7 @@
       <trans-unit id="Custom Study" xml:space="preserve">
         <source>Custom Study</source>
         <target>Be­nut­zer­de­fi­nier­tes Ler­nen</target>
-        <note>Actions, Custom Study Screen, Scheduler</note>
+        <note>Actions, Custom Study Screen</note>
       </trans-unit>
       <trans-unit id="Custom Study Session" xml:space="preserve">
         <source>Custom Study Session</source>
@@ -2432,20 +2427,10 @@
         <target>Um automatisch fortzuschreiten, benutzen Sie bitte die Aktion 'Autom. Fortschreiten'.</target>
         <note>Auto Advance Options</note>
       </trans-unit>
-      <trans-unit id="buried-cards-msg" xml:space="preserve">
-        <source>Some related or buried cards were delayed. They will be shown in a future study session, or you can %@</source>
-        <target>Einige verwandte oder zurückgestellte Karten wurden zeitlich verschoben. Sie werden in einer zukünftigen Lernsitzung angezeigt, oder Sie können %@</target>
-        <note>Scheduler</note>
-      </trans-unit>
       <trans-unit id="cloze-n" xml:space="preserve">
         <source>Cloze</source>
         <target>Lückentext</target>
         <note>eg Cloze (1); Search Screen</note>
-      </trans-unit>
-      <trans-unit id="custom-study-msg" xml:space="preserve">
-        <source>To study outside of the normal schedule, you can use %@</source>
-        <target>Um außerhalb des regulären Zeitplans zu lernen, können Sie %@ benutzen.</target>
-        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
@@ -2491,11 +2476,6 @@
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
         <target>AnkiMobile ist mit %@ erstellt worden, großzügig geteilt von der Entwicklergemeinschaft.</target>
         <note>About Screen</note>
-      </trans-unit>
-      <trans-unit id="new-cards-available-but" xml:space="preserve">
-        <source>There are more new cards available, but the daily limit has been reached. You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.</source>
-        <target>Weitere neue Karten sind verfügbar, aber das Tageslimit ist erreicht. Der Grenzwert kann in den Einstellungen erhöht werden, aber bitte daran denken, dass die Anzahl kurzfristiger Wiederholungen umso größer wird, je mehr neue Karten eingesetzt werden.</target>
-        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
         <source>Night mode darkens the interface, and displays cards as white on black.</source>
@@ -2562,10 +2542,9 @@
         <target>Zu %@ zurückkehren? Alle Änderungen, die nach dieser Sicherheitskopie erfolgt sind, werden verloren gehen.</target>
         <note>Backup Manager</note>
       </trans-unit>
-      <trans-unit id="review-limit-reached" xml:space="preserve">
-        <source>Today's review limit has been reached, but there are still cards waiting to be reviewed. For optimum memory, consider increasing the daily limit in the options.</source>
-        <target>Der Grenzwert für die heutigen Wiederholungen ist erreicht, weitere Karten warten jedoch noch darauf, wiederholt zu werden. Um die Gedächtnisleistung optimal zu nutzen, bitte die Erhöhung des Grenzwertes in den Einstellungen erwägen.</target>
-        <note>Scheduler</note>
+      <trans-unit id="scratchpad-transparency-full" xml:space="preserve">
+        <source>Full</source>
+        <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
         <source>Medium</source>
@@ -2616,11 +2595,6 @@
         <source>Again count: %d (%0.2f%% correct)</source>
         <target>Nochmal-Zähler: %d (%0.2f%% richtig)</target>
         <note>eg. Again count: 32 (86.32% correct); Utils</note>
-      </trans-unit>
-      <trans-unit id="unbury cards now" xml:space="preserve">
-        <source>unbury cards now</source>
-        <target>Zurückstellung der Karten jetzt aufheben</target>
-        <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
         <source>Cards will be returned to their original deck as you answer them.</source>
