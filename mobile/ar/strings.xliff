@@ -394,6 +394,7 @@
       </trans-unit>
       <trans-unit id="Card limit" xml:space="preserve">
         <source>Card limit</source>
+        <target>حد البطاقات</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Card returned to new card queue." xml:space="preserve">
