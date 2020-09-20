@@ -1100,6 +1100,7 @@
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
         <source>Large</source>
+        <target>Grande</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Latest added first" xml:space="preserve">
@@ -1109,6 +1110,7 @@
       </trans-unit>
       <trans-unit id="Learn Ahead Minutes" xml:space="preserve">
         <source>Learn Ahead Minutes</source>
+        <target>Aprender além do limite (minutos)</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Learn new cards with certain tags" xml:space="preserve">
@@ -1170,6 +1172,7 @@
       </trans-unit>
       <trans-unit id="Logged in as:" xml:space="preserve">
         <source>Logged in as:</source>
+        <target>Logado como:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1198,14 +1201,17 @@
       </trans-unit>
       <trans-unit id="Mark + Bury" xml:space="preserve">
         <source>Mark + Bury</source>
+        <target>Marcar + Ocultar</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Mark + Suspend" xml:space="preserve">
         <source>Mark + Suspend</source>
+        <target>Marcar + Suspender</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Marked" xml:space="preserve">
         <source>Marked</source>
+        <target>Marcado</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Max cards to gather" xml:space="preserve">
