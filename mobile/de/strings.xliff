@@ -2544,6 +2544,7 @@
       </trans-unit>
       <trans-unit id="scratchpad-transparency-full" xml:space="preserve">
         <source>Full</source>
+        <target>Voll</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="scratchpad-transparency-medium" xml:space="preserve">
