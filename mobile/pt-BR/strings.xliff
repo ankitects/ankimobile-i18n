@@ -194,10 +194,12 @@
       </trans-unit>
       <trans-unit id="Alert Time" xml:space="preserve">
         <source>Alert Time</source>
+        <target>Horário de Alerta</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="Alert When Due" xml:space="preserve">
         <source>Alert When Due</source>
+        <target>Alertar quando houver cartões pendentes</target>
         <note>Notification Options</note>
       </trans-unit>
       <trans-unit id="All Actions" xml:space="preserve">
