@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id="Add Options Group" xml:space="preserve">
         <source>Add Options Group</source>
-        <target>添加选项组</target>
+        <target>添加学习计划组</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Add Profile" xml:space="preserve">
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="Deck Options" xml:space="preserve">
         <source>Deck Options</source>
-        <target>卡组选项</target>
+        <target>卡组学习计划</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Deck Statistics" xml:space="preserve">
@@ -814,7 +814,7 @@
       </trans-unit>
       <trans-unit id="Ease" xml:space="preserve">
         <source>Ease</source>
-        <target>难度系数</target>
+        <target>简易度</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Easy" xml:space="preserve">
@@ -1144,7 +1144,7 @@
       </trans-unit>
       <trans-unit id="Interval modifier" xml:space="preserve">
         <source>Interval modifier</source>
-        <target>间隔修饰符 (%)</target>
+        <target>间隔调节系数 (%)</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Invalid deck name." xml:space="preserve">
@@ -1169,7 +1169,7 @@
       </trans-unit>
       <trans-unit id="Lapses" xml:space="preserve">
         <source>Lapses</source>
-        <target>失误次数</target>
+        <target>遗忘</target>
         <note>Deck Options, Search Screen</note>
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
@@ -1364,7 +1364,7 @@
       </trans-unit>
       <trans-unit id="Most lapses" xml:space="preserve">
         <source>Most lapses</source>
-        <target>最多失误数</target>
+        <target>最多遗忘次数</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Never Type Answer" xml:space="preserve">
@@ -1544,7 +1544,7 @@
       </trans-unit>
       <trans-unit id="Options group" xml:space="preserve">
         <source>Options group</source>
-        <target>选项组</target>
+        <target>学习计划组</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Order" xml:space="preserve">
@@ -1724,7 +1724,7 @@
       </trans-unit>
       <trans-unit id="Rename Deck" xml:space="preserve">
         <source>Rename Deck</source>
-        <target>重命名记忆库</target>
+        <target>重命名牌组</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Rename Profile" xml:space="preserve">
@@ -2049,7 +2049,7 @@
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
         <source>Starting ease</source>
-        <target>初始难度系数 (%)</target>
+        <target>初始简易度 (%)</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
@@ -2434,7 +2434,7 @@
       </trans-unit>
       <trans-unit id="delete-options-full-sync" xml:space="preserve">
         <source>Deleting this options group will prevent any changes from being merged from other devices on the next sync. Proceed?</source>
-        <target>删除此选项组将在下次同步时阻止来自其他设备的任何修改。继续吗？</target>
+        <target>删除此学习计划组将在下次同步时阻止来自其他设备的任何修改。继续吗？</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="error-playing-audio-full" xml:space="preserve">
