@@ -64,12 +64,12 @@
       </trans-unit>
       <trans-unit id="(end)" xml:space="preserve">
         <source>(end)</source>
-        <target>（結束）</target>
+        <target>(結束)</target>
         <note>Scheduler</note>
       </trans-unit>
       <trans-unit id="(filtered)" xml:space="preserve">
         <source>(filtered)</source>
-        <target>（已篩選）</target>
+        <target>(已篩選)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
@@ -219,7 +219,7 @@
       </trans-unit>
       <trans-unit id="An error occurred: %@" xml:space="preserve">
         <source>An error occurred: %@</source>
-        <target>發生錯誤：%@</target>
+        <target>發生錯誤: %@</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="Answer Action" xml:space="preserve">
@@ -404,32 +404,32 @@
       </trans-unit>
       <trans-unit id="Bury Card" xml:space="preserve">
         <source>Bury Card</source>
-        <target>暫時隱藏卡片</target>
+        <target>暫停卡片</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Bury Note" xml:space="preserve">
         <source>Bury Note</source>
-        <target>暫時隱藏筆記</target>
+        <target>暫停筆記</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Bury related new cards" xml:space="preserve">
         <source>Bury related new cards</source>
-        <target>暫時隱藏關聯的新卡片</target>
+        <target>暫停關聯的新卡片</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury related reviews" xml:space="preserve">
         <source>Bury related reviews</source>
-        <target>暫時隱藏關聯的待複習卡片</target>
+        <target>暫停關聯的待複習卡片</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Bury.C" xml:space="preserve">
         <source>Bury.C</source>
-        <target>暫隱卡片</target>
+        <target>暫停卡片</target>
         <note>Short version of 'Bury Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Bury.N" xml:space="preserve">
         <source>Bury.N</source>
-        <target>暫隱筆記</target>
+        <target>暫停筆記</target>
         <note>Short version of 'Bury Note'; Actions</note>
       </trans-unit>
       <trans-unit id="Button %d" xml:space="preserve">
@@ -484,7 +484,7 @@
       </trans-unit>
       <trans-unit id="Card buried" xml:space="preserve">
         <source>Card buried</source>
-        <target>已暫時隱藏卡片</target>
+        <target>已暫停卡片</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Card limit" xml:space="preserve">
@@ -499,12 +499,12 @@
       </trans-unit>
       <trans-unit id="Card suspended" xml:space="preserve">
         <source>Card suspended</source>
-        <target>已暫時停止卡片</target>
+        <target>已擱置卡片</target>
         <note>Actions Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card unsuspended" xml:space="preserve">
         <source>Card unsuspended</source>
-        <target>已取消暫時停止卡片</target>
+        <target>已取消擱置卡片</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Card was a leech." xml:space="preserve">
@@ -609,7 +609,7 @@
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
         <source>Current Deck</source>
-        <target>目前的牌組</target>
+        <target>當前牌組</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
@@ -619,7 +619,7 @@
       </trans-unit>
       <trans-unit id="Custom Steps" xml:space="preserve">
         <source>Custom Steps</source>
-        <target>自訂階段</target>
+        <target>自訂學習階段</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Custom Study" xml:space="preserve">
@@ -694,7 +694,7 @@
       </trans-unit>
       <trans-unit id="Deck:" xml:space="preserve">
         <source>Deck:</source>
-        <target>牌組：</target>
+        <target>牌組:</target>
         <note>Edit Screen, Search Screen</note>
       </trans-unit>
       <trans-unit id="Decks" xml:space="preserve">
@@ -949,7 +949,7 @@
       </trans-unit>
       <trans-unit id="Flag 1 (Red)" xml:space="preserve">
         <source>Flag 1 (Red)</source>
-        <target>旗標 1（紅色）</target>
+        <target>旗標 1 (紅色)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 2" xml:space="preserve">
@@ -959,7 +959,7 @@
       </trans-unit>
       <trans-unit id="Flag 2 (Orange)" xml:space="preserve">
         <source>Flag 2 (Orange)</source>
-        <target>旗標 2（橙色）</target>
+        <target>旗標 2 (橙色)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 3" xml:space="preserve">
@@ -969,7 +969,7 @@
       </trans-unit>
       <trans-unit id="Flag 3 (Green)" xml:space="preserve">
         <source>Flag 3 (Green)</source>
-        <target>旗標 3（綠色）</target>
+        <target>旗標 3 (綠色)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flag 4" xml:space="preserve">
@@ -979,7 +979,7 @@
       </trans-unit>
       <trans-unit id="Flag 4 (Blue)" xml:space="preserve">
         <source>Flag 4 (Blue)</source>
-        <target>旗標 4（藍色）</target>
+        <target>旗標 4 (藍色)</target>
         <note>Actions, Search Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Flip" xml:space="preserve">
@@ -1184,7 +1184,7 @@
       </trans-unit>
       <trans-unit id="Learn Ahead Minutes" xml:space="preserve">
         <source>Learn Ahead Minutes</source>
-        <target>提前學習（分鐘）</target>
+        <target>提前學習 (分鐘)</target>
         <note>Collection Options</note>
       </trans-unit>
       <trans-unit id="Learn new cards with certain tags" xml:space="preserve">
@@ -1239,7 +1239,7 @@
       </trans-unit>
       <trans-unit id="Link to .apkg file to import:" xml:space="preserve">
         <source>Link to .apkg file to import:</source>
-        <target>連結到 .apkg 檔來匯入：</target>
+        <target>輸入 .apkg 檔連結來匯入:</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="Loading..." xml:space="preserve">
@@ -1254,7 +1254,7 @@
       </trans-unit>
       <trans-unit id="Logged in as:" xml:space="preserve">
         <source>Logged in as:</source>
-        <target>已登入帳號：</target>
+        <target>已登入帳號:</target>
         <note>Preferences</note>
       </trans-unit>
       <trans-unit id="Login" xml:space="preserve">
@@ -1274,12 +1274,12 @@
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
         <source>M&amp;B</source>
-        <target>標&amp;隱</target>
+        <target>標&amp;暫</target>
         <note>Short version of 'Mark + Bury'; Actions</note>
       </trans-unit>
       <trans-unit id="M&amp;S" xml:space="preserve">
         <source>M&amp;S</source>
-        <target>標&amp;止</target>
+        <target>標&amp;擱</target>
         <note>Short version of 'Mark + Suspend'; Actions</note>
       </trans-unit>
       <trans-unit id="Mark" xml:space="preserve">
@@ -1289,12 +1289,12 @@
       </trans-unit>
       <trans-unit id="Mark + Bury" xml:space="preserve">
         <source>Mark + Bury</source>
-        <target>標記+暫時隱藏</target>
+        <target>標記+暫停</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Mark + Suspend" xml:space="preserve">
         <source>Mark + Suspend</source>
-        <target>標記+暫時停止</target>
+        <target>標記+擱置</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Marked" xml:space="preserve">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="Media files exported: %d..." xml:space="preserve">
         <source>Media files exported: %d...</source>
-        <target>媒體檔已匯出為：%d...</target>
+        <target>媒體檔已匯出為: %d...</target>
         <note>Anki Package Exporter</note>
       </trans-unit>
       <trans-unit id="Mid Center" xml:space="preserve">
@@ -1354,7 +1354,7 @@
       </trans-unit>
       <trans-unit id="Minutes Between Backups" xml:space="preserve">
         <source>Minutes Between Backups</source>
-        <target>備份間隔（分鐘）</target>
+        <target>備份間隔 (分鐘)</target>
         <note>Backup Manager</note>
       </trans-unit>
       <trans-unit id="Mix" xml:space="preserve">
@@ -1394,7 +1394,7 @@
       </trans-unit>
       <trans-unit id="New name:" xml:space="preserve">
         <source>New name:</source>
-        <target>新名稱：</target>
+        <target>新名稱:</target>
         <note>Decks Screen</note>
       </trans-unit>
       <trans-unit id="New/Review Order" xml:space="preserve">
@@ -1474,7 +1474,7 @@
       </trans-unit>
       <trans-unit id="Note and its %i card(s) suspended" xml:space="preserve">
         <source>Note and its %i card(s) suspended</source>
-        <target>已暫時停止的筆記和與其關聯的%i張卡片</target>
+        <target>已擱置的筆記和與其關聯的 %i 張卡片</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note and its %i cards deleted" xml:space="preserve">
@@ -1484,7 +1484,7 @@
       </trans-unit>
       <trans-unit id="Note buried" xml:space="preserve">
         <source>Note buried</source>
-        <target>已暫時隱藏筆記</target>
+        <target>已暫停筆記</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note deleted" xml:space="preserve">
@@ -1494,22 +1494,22 @@
       </trans-unit>
       <trans-unit id="Note marked and buried" xml:space="preserve">
         <source>Note marked and buried</source>
-        <target>已標記並暫時隱藏筆記</target>
+        <target>已標記並暫停筆記</target>
         <note>Actions Manager</note>
       </trans-unit>
       <trans-unit id="Note suspended" xml:space="preserve">
         <source>Note suspended</source>
-        <target>已暫時停止筆記</target>
+        <target>已擱置筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note unsuspended" xml:space="preserve">
         <source>Note unsuspended</source>
-        <target>已取消暫時停止筆記</target>
+        <target>已取消擱置筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Note:" xml:space="preserve">
         <source>Note:</source>
-        <target>筆記：</target>
+        <target>筆記:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Nothing to undo" xml:space="preserve">
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="Processed media files: %d..." xml:space="preserve">
         <source>Processed media files: %d...</source>
-        <target>已處理媒體檔：%d...</target>
+        <target>已處理媒體檔: %d...</target>
         <note>Anki Package Importer</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
@@ -1939,12 +1939,12 @@
       </trans-unit>
       <trans-unit id="Second Column (1-&gt;9)" xml:space="preserve">
         <source>Second Column (1-&gt;9)</source>
-        <target>第二行（1-&gt;9）</target>
+        <target>第二行 (1-&gt;9)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Second Column (9-&gt;1)" xml:space="preserve">
         <source>Second Column (9-&gt;1)</source>
-        <target>第二行（9-&gt;1）</target>
+        <target>第二行 (9-&gt;1)</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Select" xml:space="preserve">
@@ -2044,7 +2044,7 @@
       </trans-unit>
       <trans-unit id="Sort:" xml:space="preserve">
         <source>Sort:</source>
-        <target>排序：</target>
+        <target>排序:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Starting ease" xml:space="preserve">
@@ -2054,12 +2054,12 @@
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
         <source>Steps</source>
-        <target>階段</target>
+        <target>學習階段</target>
         <note>Deck Options</note>
       </trans-unit>
       <trans-unit id="Steps (in minutes)" xml:space="preserve">
         <source>Steps (in minutes)</source>
-        <target>階段（分鐘）</target>
+        <target>學習階段 (分鐘)</target>
         <note>Filtered Deck Screen</note>
       </trans-unit>
       <trans-unit id="Studied Today" xml:space="preserve">
@@ -2089,27 +2089,27 @@
       </trans-unit>
       <trans-unit id="Sus.C" xml:space="preserve">
         <source>Sus.C</source>
-        <target>暫止卡片</target>
+        <target>擱置卡片</target>
         <note>Short version of 'Suspend Card'; Actions</note>
       </trans-unit>
       <trans-unit id="Sus.N" xml:space="preserve">
         <source>Sus.N</source>
-        <target>暫止筆記</target>
+        <target>擱置筆記</target>
         <note>Short version of 'Suspend Note'; Actions</note>
       </trans-unit>
       <trans-unit id="Suspend Card" xml:space="preserve">
         <source>Suspend Card</source>
-        <target>暫時停止卡片</target>
+        <target>擱置卡片</target>
         <note>Actions, Deck Options, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Suspend Note" xml:space="preserve">
         <source>Suspend Note</source>
-        <target>暫時停止筆記</target>
+        <target>擱置筆記</target>
         <note>Actions, Edit Screen, Study Screen</note>
       </trans-unit>
       <trans-unit id="Suspended" xml:space="preserve">
         <source>Suspended</source>
-        <target>已暫時停止</target>
+        <target>已擱置</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Swipe Down" xml:space="preserve">
@@ -2169,7 +2169,7 @@
       </trans-unit>
       <trans-unit id="Tag:" xml:space="preserve">
         <source>Tag:</source>
-        <target>標籤：</target>
+        <target>標籤:</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tags" xml:space="preserve">
@@ -2234,7 +2234,7 @@
       </trans-unit>
       <trans-unit id="Toggle Suspend" xml:space="preserve">
         <source>Toggle Suspend</source>
-        <target>切換暫時停止狀態</target>
+        <target>切換擱置狀態</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
@@ -2284,7 +2284,7 @@
       </trans-unit>
       <trans-unit id="UBury" xml:space="preserve">
         <source>UBury</source>
-        <target>取消暫隱</target>
+        <target>取消暫停</target>
         <note>Short version of 'Unbury Deck'; Actions</note>
       </trans-unit>
       <trans-unit id="Unable to obtain image" xml:space="preserve">
@@ -2309,7 +2309,7 @@
       </trans-unit>
       <trans-unit id="Unbury Deck" xml:space="preserve">
         <source>Unbury Deck</source>
-        <target>取消暫時隱藏牌組</target>
+        <target>取消暫停牌組</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Underline" xml:space="preserve">
@@ -2329,7 +2329,7 @@
       </trans-unit>
       <trans-unit id="Unexpected file extension:" xml:space="preserve">
         <source>Unexpected file extension:</source>
-        <target>非預期的副檔名：</target>
+        <target>非預期的副檔名:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unexpected rich text format - please try copying &amp; pasting." xml:space="preserve">
@@ -2339,7 +2339,7 @@
       </trans-unit>
       <trans-unit id="Unexpected status code:" xml:space="preserve">
         <source>Unexpected status code:</source>
-        <target>未預期的狀態代碼：</target>
+        <target>未預期的狀態代碼:</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unmarked" xml:space="preserve">
@@ -2349,12 +2349,12 @@
       </trans-unit>
       <trans-unit id="Unsuspend Card" xml:space="preserve">
         <source>Unsuspend Card</source>
-        <target>取消暫時停止卡片</target>
+        <target>取消擱置卡片</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Unsuspend Note" xml:space="preserve">
         <source>Unsuspend Note</source>
-        <target>取消暫時停止筆記</target>
+        <target>取消擱置筆記</target>
         <note>Edit Screen</note>
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
@@ -2414,7 +2414,7 @@
       </trans-unit>
       <trans-unit id="anki-written-by" xml:space="preserve">
         <source>AnkiMobile was written by Damien Elmes and Richard Smith, and is based off Damien's work on the computer version of Anki.</source>
-        <target>AnkiMobile 基於Damien編寫的電腦版，由 Damien Elmes 和 Richard Smith 創作。</target>
+        <target>AnkiMobile 由 Damien Elmes 和 Richard Smith 基於 Damien 編寫的電腦版創作。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="any-tag" xml:space="preserve">
@@ -2439,7 +2439,7 @@
       </trans-unit>
       <trans-unit id="error-playing-audio-full" xml:space="preserve">
         <source>Error playing audio. This can be caused by a corrupt file, a file iOS does not support (eg .ogg), or an mp3 file incorrectly named .wav</source>
-        <target>播放音訊出錯。原因可能是檔案損毀、檔案不受 iOS支援（例如 .ogg檔）或副檔名被錯誤命名為.wav的mp3檔</target>
+        <target>音訊播放出錯。原因可能是檔案損毀、iOS 不支援檔案 (例如 .ogg 檔) 或 mp3 檔副檔名被錯誤命名為 .wav</target>
         <note>Audio Manager</note>
       </trans-unit>
       <trans-unit id="filter-cram-short-version" xml:space="preserve">
@@ -2474,7 +2474,7 @@
       </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
-        <target>AnkiMobile使用%@建置，由開發人員社群慷慨分享。</target>
+        <target>AnkiMobile 使用%@建置，由開發人員社群慷慨分享。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
@@ -2509,7 +2509,7 @@
       </trans-unit>
       <trans-unit id="note-type-prompt" xml:space="preserve">
         <source>Type:</source>
-        <target>類型：</target>
+        <target>類型:</target>
         <note>(Note) type: ; Edit Screen</note>
       </trans-unit>
       <trans-unit id="overwrite-via-import" xml:space="preserve">
@@ -2584,7 +2584,7 @@
       </trans-unit>
       <trans-unit id="thanks-for-support" xml:space="preserve">
         <source>Thank you for buying AnkiMobile! Anki development would not be able to continue without your support, so it is greatly appreciated.</source>
-        <target>感謝您購買AnkiMobile！Anki的開發工作離不開您的支持。</target>
+        <target>感謝您購買 AnkiMobile！Anki 的開發工作離不開您的支持。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="the Anki homepage" xml:space="preserve">
@@ -2594,7 +2594,7 @@
       </trans-unit>
       <trans-unit id="today-again-count" xml:space="preserve">
         <source>Again count: %d (%0.2f%% correct)</source>
-        <target>「再一次」計數：%d（正確率：%0.2f%%）</target>
+        <target>「再一次」計數: %d (正確率: %0.2f%%)</target>
         <note>eg. Again count: 32 (86.32% correct); Utils</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
