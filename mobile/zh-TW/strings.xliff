@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>This allows Anki to insert the images you capture onto your cards.</source>
-        <target>這可讓Anki把您擷取的圖像插入到卡片上。</target>
+        <target>這可讓 Anki 把您擷取的圖像插入到卡片上。</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
@@ -32,12 +32,12 @@
       </trans-unit>
       <trans-unit id="Packaged Anki Collection" xml:space="preserve">
         <source>Packaged Anki Collection</source>
-        <target>已封裝的Anki集合</target>
+        <target>已封裝的 Anki 集合</target>
         <note/>
       </trans-unit>
       <trans-unit id="Packaged Anki Deck" xml:space="preserve">
         <source>Packaged Anki Deck</source>
-        <target>已封裝的Anki牌組</target>
+        <target>已封裝的 Anki 牌組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -74,12 +74,12 @@
       </trans-unit>
       <trans-unit id="+5s" xml:space="preserve">
         <source>+5s</source>
-        <target>快轉5秒</target>
+        <target>+5 秒</target>
         <note>Short version of 'Current Audio +5s'; Actions</note>
       </trans-unit>
       <trans-unit id="-5s" xml:space="preserve">
         <source>-5s</source>
-        <target>倒轉5秒</target>
+        <target>-5 秒</target>
         <note>Short version of 'Current Audio -5s'; Actions</note>
       </trans-unit>
       <trans-unit id="A deck must be provided." xml:space="preserve">
@@ -184,12 +184,12 @@
       </trans-unit>
       <trans-unit id="Again" xml:space="preserve">
         <source>Again</source>
-        <target>再一次</target>
+        <target>重來</target>
         <note>Actions, Study Screen</note>
       </trans-unit>
       <trans-unit id="Again Today" xml:space="preserve">
         <source>Again Today</source>
-        <target>今天按「再一次」的</target>
+        <target>今天按「重來」的</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Alert Time" xml:space="preserve">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="Answer Again" xml:space="preserve">
         <source>Answer Again</source>
-        <target>回答「再一次」</target>
+        <target>回答「重來」</target>
         <note>Actions, Auto Advance Options, Study Screen</note>
       </trans-unit>
       <trans-unit id="Answer Buttons" xml:space="preserve">
@@ -559,12 +559,12 @@
       </trans-unit>
       <trans-unit id="Column 1" xml:space="preserve">
         <source>Column 1</source>
-        <target>第1行</target>
+        <target>第 1 行</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Column 2" xml:space="preserve">
         <source>Column 2</source>
-        <target>第2行</target>
+        <target>第 2 行</target>
         <note>Search Screen</note>
       </trans-unit>
       <trans-unit id="Confirm Delete" xml:space="preserve">
@@ -599,12 +599,12 @@
       </trans-unit>
       <trans-unit id="Current Audio +5s" xml:space="preserve">
         <source>Current Audio +5s</source>
-        <target>當前音訊快轉5秒</target>
+        <target>快轉當前音訊 5 秒</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Audio -5s" xml:space="preserve">
         <source>Current Audio -5s</source>
-        <target>當前音訊倒轉5秒</target>
+        <target>倒轉當前音訊 5 秒</target>
         <note>Actions</note>
       </trans-unit>
       <trans-unit id="Current Deck" xml:space="preserve">
@@ -779,7 +779,7 @@
       </trans-unit>
       <trans-unit id="Download from AnkiWeb" xml:space="preserve">
         <source>Download from AnkiWeb</source>
-        <target>從AnkiWeb下載</target>
+        <target>從 AnkiWeb 下載</target>
         <note>Sync</note>
       </trans-unit>
       <trans-unit id="Downloading..." xml:space="preserve">
@@ -1269,7 +1269,7 @@
       </trans-unit>
       <trans-unit id="Long press on an item to customize." xml:space="preserve">
         <source>Long press on an item to customize.</source>
-        <target>長按項目來自訂。</target>
+        <target>長按項目來自訂</target>
         <note>Tools Screen</note>
       </trans-unit>
       <trans-unit id="M&amp;B" xml:space="preserve">
@@ -1599,7 +1599,7 @@
       </trans-unit>
       <trans-unit id="Please enter your AnkiWeb details." xml:space="preserve">
         <source>Please enter your AnkiWeb details.</source>
-        <target>請輸入您的AnkiWeb詳細資訊。</target>
+        <target>請輸入您的 AnkiWeb 詳細資訊。</target>
         <note>Sync</note>
       </trans-unit>
       <trans-unit id="Please provide some text, avoiding symbols and underscores." xml:space="preserve">
@@ -2359,7 +2359,7 @@
       </trans-unit>
       <trans-unit id="Upload to AnkiWeb" xml:space="preserve">
         <source>Upload to AnkiWeb</source>
-        <target>上傳到AnkiWeb</target>
+        <target>上傳到 AnkiWeb</target>
         <note>Sync</note>
       </trans-unit>
       <trans-unit id="User 1" xml:space="preserve">
@@ -2469,12 +2469,12 @@
       </trans-unit>
       <trans-unit id="have-ready-to-study" xml:space="preserve">
         <source>You have %@ ready to study.</source>
-        <target>您有%@可以來學習。</target>
+        <target>您有 %@可以來學習。</target>
         <note>...have (5 cards) ready...; Utils</note>
       </trans-unit>
       <trans-unit id="license-text" xml:space="preserve">
         <source>AnkiMobile is built with %@, generously shared by the developer community.</source>
-        <target>AnkiMobile 使用%@建置，由開發人員社群慷慨分享。</target>
+        <target>AnkiMobile 使用了%@建置，由開發人員社群慷慨分享。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="night-mode-desc" xml:space="preserve">
@@ -2519,7 +2519,7 @@
       </trans-unit>
       <trans-unit id="part-of-whole" xml:space="preserve">
         <source>%1$d of %2$d</source>
-        <target>%1$d / %2$d</target>
+        <target>%1$d/%2$d</target>
         <note>Utils</note>
       </trans-unit>
       <trans-unit id="please-see" xml:space="preserve">
@@ -2529,7 +2529,7 @@
       </trans-unit>
       <trans-unit id="privacy-microphone" xml:space="preserve">
         <source>Please go to Privacy&gt;Microphone in your device's settings, and allow Anki to access the microphone.</source>
-        <target>請前往您的裝置設定「隱私權」&gt;「麥克風」，並允許Anki取用麥克風。</target>
+        <target>請前往您的裝置設定「隱私權」&gt;「麥克風」，並允許 Anki 取用麥克風。</target>
         <note>Audio Manager, Edit Screen</note>
       </trans-unit>
       <trans-unit id="return-by-delete" xml:space="preserve">
@@ -2569,7 +2569,7 @@
       </trans-unit>
       <trans-unit id="some third-party libraries" xml:space="preserve">
         <source>some third-party libraries</source>
-        <target>部分第三方函式庫</target>
+        <target>一些第三方函式庫</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="tap-to-sync" xml:space="preserve">
@@ -2584,17 +2584,17 @@
       </trans-unit>
       <trans-unit id="thanks-for-support" xml:space="preserve">
         <source>Thank you for buying AnkiMobile! Anki development would not be able to continue without your support, so it is greatly appreciated.</source>
-        <target>感謝您購買 AnkiMobile！Anki 的開發工作離不開您的支持。</target>
+        <target>非常感謝您購買 AnkiMobile！Anki 的開發離不開您的支持。</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="the Anki homepage" xml:space="preserve">
         <source>the Anki homepage</source>
-        <target>Anki首頁</target>
+        <target>Anki 首頁</target>
         <note>About Screen</note>
       </trans-unit>
       <trans-unit id="today-again-count" xml:space="preserve">
         <source>Again count: %d (%0.2f%% correct)</source>
-        <target>「再一次」計數: %d (正確率: %0.2f%%)</target>
+        <target>「重來」計數: %d (正確率: %0.2f%%)</target>
         <note>eg. Again count: 32 (86.32% correct); Utils</note>
       </trans-unit>
       <trans-unit id="will-be-returned" xml:space="preserve">
